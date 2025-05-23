@@ -22,7 +22,7 @@
   {
     "id": "HDI",
     "name": "HDI",
-    "units": "0-1 Scale"
+    "units": ""
   },
   {
     "id": "Poverty_Headcount",
@@ -62,7 +62,7 @@
   {
     "id": "Electricity_Access",
     "name": "Electricity access",
-    "units": ""
+    "units": "%"
   },
   {
     "id": "Population_without_electricity_",
@@ -83,5 +83,35 @@
     "id": "Traditional_Cookstove_Use(%ofh)",
     "name": "Traditional cookstove use (% of households)",
     "units": "%"
+  },
+  {
+    "id": "Carbon_Emissions_from_Fossil",
+    "name": "Carbon Emissions from Fossil Fuels",
+    "units": "MtCO₂"
+  },
+  {
+    "id": "CO2_in_atmosphere",
+    "name": "CO₂ in the Atmosphere",
+    "units": "ppm"
+  },
+  {
+    "id": "Electricity_Use",
+    "name": "Electricity Use",
+    "units": "TWh"
+  },
+  {
+    "id": "Energy_Demand_per_capita",
+    "name": "Energy Demand per Capita",
+    "units": "MWh/person"
+  },
+  {
+    "id": "Energy_Demand_relative_to_GDP",
+    "name": "Energy Demand Relative to GDP",
+    "units": "MWh/US$"
+  },
+  {
+    "id": "Fossil_Fuel_Production",
+    "name": "Fossil Fuel Production",
+    "units": "Million BOE"
   }
 ]
