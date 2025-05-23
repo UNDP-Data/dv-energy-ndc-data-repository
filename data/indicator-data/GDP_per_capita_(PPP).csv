@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+6.431,6.431,6.431,2020,GDP_per_capita_(PPP),Central & Southern Asia
+6.751,6.751,6.751,2021,GDP_per_capita_(PPP),Central & Southern Asia
+6.911,6.911,6.911,2022,GDP_per_capita_(PPP),Central & Southern Asia
+7.123,7.123,7.123,2023,GDP_per_capita_(PPP),Central & Southern Asia
+7.321,7.321,7.321,2024,GDP_per_capita_(PPP),Central & Southern Asia
+7.534,7.534,7.529,2025,GDP_per_capita_(PPP),Central & Southern Asia
+7.752,7.752,7.744,2026,GDP_per_capita_(PPP),Central & Southern Asia
+7.931,7.93,7.95,2027,GDP_per_capita_(PPP),Central & Southern Asia
+8.14,8.138,8.18,2028,GDP_per_capita_(PPP),Central & Southern Asia
+8.35,8.35,8.42,2029,GDP_per_capita_(PPP),Central & Southern Asia
+8.57,8.572,8.675,2030,GDP_per_capita_(PPP),Central & Southern Asia
+8.797,8.803,8.94,2031,GDP_per_capita_(PPP),Central & Southern Asia
+9.032,9.044,9.214,2032,GDP_per_capita_(PPP),Central & Southern Asia
+9.272,9.291,9.499,2033,GDP_per_capita_(PPP),Central & Southern Asia
+9.518,9.542,9.795,2034,GDP_per_capita_(PPP),Central & Southern Asia
+9.767,9.798,10.1,2035,GDP_per_capita_(PPP),Central & Southern Asia
+10.02,10.06,10.42,2036,GDP_per_capita_(PPP),Central & Southern Asia
+10.28,10.32,10.74,2037,GDP_per_capita_(PPP),Central & Southern Asia
+10.54,10.59,11.08,2038,GDP_per_capita_(PPP),Central & Southern Asia
+10.81,10.86,11.42,2039,GDP_per_capita_(PPP),Central & Southern Asia
+11.08,11.14,11.78,2040,GDP_per_capita_(PPP),Central & Southern Asia
+11.37,11.42,12.14,2041,GDP_per_capita_(PPP),Central & Southern Asia
+11.65,11.71,12.51,2042,GDP_per_capita_(PPP),Central & Southern Asia
+11.94,12,12.89,2043,GDP_per_capita_(PPP),Central & Southern Asia
+12.24,12.29,13.28,2044,GDP_per_capita_(PPP),Central & Southern Asia
+12.53,12.59,13.67,2045,GDP_per_capita_(PPP),Central & Southern Asia
+12.83,12.89,14.08,2046,GDP_per_capita_(PPP),Central & Southern Asia
+13.12,13.2,14.49,2047,GDP_per_capita_(PPP),Central & Southern Asia
+13.43,13.51,14.91,2048,GDP_per_capita_(PPP),Central & Southern Asia
+13.72,13.82,15.33,2049,GDP_per_capita_(PPP),Central & Southern Asia
+14.03,14.13,15.77,2050,GDP_per_capita_(PPP),Central & Southern Asia
+14.34,14.44,16.21,2051,GDP_per_capita_(PPP),Central & Southern Asia
+14.65,14.75,16.67,2052,GDP_per_capita_(PPP),Central & Southern Asia
+14.96,15.07,17.14,2053,GDP_per_capita_(PPP),Central & Southern Asia
+15.28,15.39,17.61,2054,GDP_per_capita_(PPP),Central & Southern Asia
+15.61,15.71,18.1,2055,GDP_per_capita_(PPP),Central & Southern Asia
+15.94,16.04,18.6,2056,GDP_per_capita_(PPP),Central & Southern Asia
+16.29,16.38,19.11,2057,GDP_per_capita_(PPP),Central & Southern Asia
+16.64,16.72,19.66,2058,GDP_per_capita_(PPP),Central & Southern Asia
+16.99,17.09,20.21,2059,GDP_per_capita_(PPP),Central & Southern Asia
+17.35,17.45,20.79,2060,GDP_per_capita_(PPP),Central & Southern Asia
+16.67,16.67,16.67,2020,GDP_per_capita_(PPP),East & Southeast Asia
+17.37,17.37,17.37,2021,GDP_per_capita_(PPP),East & Southeast Asia
+17.64,17.64,17.64,2022,GDP_per_capita_(PPP),East & Southeast Asia
+18.11,18.11,18.11,2023,GDP_per_capita_(PPP),East & Southeast Asia
+18.56,18.56,18.56,2024,GDP_per_capita_(PPP),East & Southeast Asia
+18.97,18.97,18.97,2025,GDP_per_capita_(PPP),East & Southeast Asia
+19.38,19.37,19.36,2026,GDP_per_capita_(PPP),East & Southeast Asia
+19.9,19.9,19.93,2027,GDP_per_capita_(PPP),East & Southeast Asia
+20.43,20.43,20.51,2028,GDP_per_capita_(PPP),East & Southeast Asia
+20.96,20.98,21.11,2029,GDP_per_capita_(PPP),East & Southeast Asia
+21.51,21.53,21.73,2030,GDP_per_capita_(PPP),East & Southeast Asia
+22.06,22.1,22.38,2031,GDP_per_capita_(PPP),East & Southeast Asia
+22.61,22.66,23.04,2032,GDP_per_capita_(PPP),East & Southeast Asia
+23.16,23.23,23.72,2033,GDP_per_capita_(PPP),East & Southeast Asia
+23.7,23.79,24.41,2034,GDP_per_capita_(PPP),East & Southeast Asia
+24.23,24.35,25.11,2035,GDP_per_capita_(PPP),East & Southeast Asia
+24.76,24.89,25.81,2036,GDP_per_capita_(PPP),East & Southeast Asia
+25.29,25.43,26.52,2037,GDP_per_capita_(PPP),East & Southeast Asia
+25.82,25.95,27.23,2038,GDP_per_capita_(PPP),East & Southeast Asia
+26.37,26.51,27.98,2039,GDP_per_capita_(PPP),East & Southeast Asia
+26.94,27.08,28.74,2040,GDP_per_capita_(PPP),East & Southeast Asia
+27.53,27.65,29.52,2041,GDP_per_capita_(PPP),East & Southeast Asia
+28.15,28.29,30.37,2042,GDP_per_capita_(PPP),East & Southeast Asia
+28.78,28.92,31.23,2043,GDP_per_capita_(PPP),East & Southeast Asia
+29.43,29.58,32.14,2044,GDP_per_capita_(PPP),East & Southeast Asia
+30.09,30.23,33.04,2045,GDP_per_capita_(PPP),East & Southeast Asia
+30.74,30.9,33.98,2046,GDP_per_capita_(PPP),East & Southeast Asia
+31.4,31.55,34.93,2047,GDP_per_capita_(PPP),East & Southeast Asia
+32.06,32.22,35.89,2048,GDP_per_capita_(PPP),East & Southeast Asia
+32.72,32.91,36.9,2049,GDP_per_capita_(PPP),East & Southeast Asia
+33.37,33.57,37.87,2050,GDP_per_capita_(PPP),East & Southeast Asia
+34.03,34.23,38.85,2051,GDP_per_capita_(PPP),East & Southeast Asia
+34.69,34.89,39.82,2052,GDP_per_capita_(PPP),East & Southeast Asia
+35.36,35.55,40.82,2053,GDP_per_capita_(PPP),East & Southeast Asia
+36.05,36.23,41.83,2054,GDP_per_capita_(PPP),East & Southeast Asia
+36.77,36.93,42.87,2055,GDP_per_capita_(PPP),East & Southeast Asia
+37.53,37.66,43.95,2056,GDP_per_capita_(PPP),East & Southeast Asia
+38.31,38.4,45.07,2057,GDP_per_capita_(PPP),East & Southeast Asia
+39.11,39.18,46.21,2058,GDP_per_capita_(PPP),East & Southeast Asia
+39.93,39.97,47.4,2059,GDP_per_capita_(PPP),East & Southeast Asia
+40.76,40.78,48.61,2060,GDP_per_capita_(PPP),East & Southeast Asia
+43.44,43.44,43.44,2020,GDP_per_capita_(PPP),Europe & North America
+45.77,45.77,45.77,2021,GDP_per_capita_(PPP),Europe & North America
+46.5,46.5,46.5,2022,GDP_per_capita_(PPP),Europe & North America
+47.12,47.12,47.12,2023,GDP_per_capita_(PPP),Europe & North America
+47.87,47.87,47.87,2024,GDP_per_capita_(PPP),Europe & North America
+48.61,48.61,48.61,2025,GDP_per_capita_(PPP),Europe & North America
+49.37,49.37,49.36,2026,GDP_per_capita_(PPP),Europe & North America
+50.16,50.16,50.25,2027,GDP_per_capita_(PPP),Europe & North America
+50.97,50.98,51.17,2028,GDP_per_capita_(PPP),Europe & North America
+51.78,51.81,52.15,2029,GDP_per_capita_(PPP),Europe & North America
+52.62,52.68,53.2,2030,GDP_per_capita_(PPP),Europe & North America
+53.47,53.57,54.29,2031,GDP_per_capita_(PPP),Europe & North America
+54.34,54.48,55.43,2032,GDP_per_capita_(PPP),Europe & North America
+55.22,55.39,56.6,2033,GDP_per_capita_(PPP),Europe & North America
+56.11,56.31,57.82,2034,GDP_per_capita_(PPP),Europe & North America
+57,57.24,59.08,2035,GDP_per_capita_(PPP),Europe & North America
+57.88,58.15,60.31,2036,GDP_per_capita_(PPP),Europe & North America
+58.76,59.07,61.57,2037,GDP_per_capita_(PPP),Europe & North America
+59.65,59.98,62.84,2038,GDP_per_capita_(PPP),Europe & North America
+60.56,60.9,64.12,2039,GDP_per_capita_(PPP),Europe & North America
+61.49,61.83,65.39,2040,GDP_per_capita_(PPP),Europe & North America
+62.43,62.78,66.68,2041,GDP_per_capita_(PPP),Europe & North America
+63.38,63.74,68,2042,GDP_per_capita_(PPP),Europe & North America
+64.34,64.72,69.35,2043,GDP_per_capita_(PPP),Europe & North America
+65.31,65.72,70.71,2044,GDP_per_capita_(PPP),Europe & North America
+66.28,66.71,72.08,2045,GDP_per_capita_(PPP),Europe & North America
+67.26,67.7,73.46,2046,GDP_per_capita_(PPP),Europe & North America
+68.23,68.7,74.85,2047,GDP_per_capita_(PPP),Europe & North America
+69.2,69.68,76.21,2048,GDP_per_capita_(PPP),Europe & North America
+70.17,70.67,77.61,2049,GDP_per_capita_(PPP),Europe & North America
+71.16,71.67,78.98,2050,GDP_per_capita_(PPP),Europe & North America
+72.11,72.62,80.35,2051,GDP_per_capita_(PPP),Europe & North America
+73.07,73.58,81.73,2052,GDP_per_capita_(PPP),Europe & North America
+74.05,74.53,83.13,2053,GDP_per_capita_(PPP),Europe & North America
+75.05,75.5,84.52,2054,GDP_per_capita_(PPP),Europe & North America
+76.07,76.48,85.95,2055,GDP_per_capita_(PPP),Europe & North America
+77.12,77.48,87.36,2056,GDP_per_capita_(PPP),Europe & North America
+78.19,78.48,88.83,2057,GDP_per_capita_(PPP),Europe & North America
+79.25,79.52,90.26,2058,GDP_per_capita_(PPP),Europe & North America
+80.3,80.58,91.75,2059,GDP_per_capita_(PPP),Europe & North America
+81.37,81.65,93.17,2060,GDP_per_capita_(PPP),Europe & North America
+46.8,46.8,46.8,2020,GDP_per_capita_(PPP),High Income Countries
+49.09,49.09,49.09,2021,GDP_per_capita_(PPP),High Income Countries
+50.28,50.28,50.28,2022,GDP_per_capita_(PPP),High Income Countries
+50.75,50.75,50.75,2023,GDP_per_capita_(PPP),High Income Countries
+51.51,51.51,51.51,2024,GDP_per_capita_(PPP),High Income Countries
+52.35,52.35,52.35,2025,GDP_per_capita_(PPP),High Income Countries
+53.17,53.17,53.17,2026,GDP_per_capita_(PPP),High Income Countries
+54.01,54.01,54.1,2027,GDP_per_capita_(PPP),High Income Countries
+54.86,54.87,55.07,2028,GDP_per_capita_(PPP),High Income Countries
+55.73,55.76,56.12,2029,GDP_per_capita_(PPP),High Income Countries
+56.61,56.67,57.22,2030,GDP_per_capita_(PPP),High Income Countries
+57.49,57.59,58.36,2031,GDP_per_capita_(PPP),High Income Countries
+58.39,58.53,59.55,2032,GDP_per_capita_(PPP),High Income Countries
+59.28,59.47,60.76,2033,GDP_per_capita_(PPP),High Income Countries
+60.17,60.4,62.01,2034,GDP_per_capita_(PPP),High Income Countries
+61.06,61.33,63.29,2035,GDP_per_capita_(PPP),High Income Countries
+61.94,62.24,64.55,2036,GDP_per_capita_(PPP),High Income Countries
+62.82,63.15,65.82,2037,GDP_per_capita_(PPP),High Income Countries
+63.7,64.05,67.09,2038,GDP_per_capita_(PPP),High Income Countries
+64.6,64.97,68.38,2039,GDP_per_capita_(PPP),High Income Countries
+65.51,65.89,69.66,2040,GDP_per_capita_(PPP),High Income Countries
+66.44,66.84,70.98,2041,GDP_per_capita_(PPP),High Income Countries
+67.39,67.8,72.31,2042,GDP_per_capita_(PPP),High Income Countries
+68.34,68.78,73.69,2043,GDP_per_capita_(PPP),High Income Countries
+69.31,69.77,75.07,2044,GDP_per_capita_(PPP),High Income Countries
+70.28,70.77,76.47,2045,GDP_per_capita_(PPP),High Income Countries
+71.25,71.76,77.85,2046,GDP_per_capita_(PPP),High Income Countries
+72.21,72.76,79.26,2047,GDP_per_capita_(PPP),High Income Countries
+73.18,73.75,80.63,2048,GDP_per_capita_(PPP),High Income Countries
+74.15,74.74,82.07,2049,GDP_per_capita_(PPP),High Income Countries
+75.15,75.76,83.46,2050,GDP_per_capita_(PPP),High Income Countries
+76.1,76.7,84.84,2051,GDP_per_capita_(PPP),High Income Countries
+77.06,77.66,86.16,2052,GDP_per_capita_(PPP),High Income Countries
+78.03,78.6,87.53,2053,GDP_per_capita_(PPP),High Income Countries
+79.03,79.57,88.86,2054,GDP_per_capita_(PPP),High Income Countries
+80.04,80.52,90.24,2055,GDP_per_capita_(PPP),High Income Countries
+81.08,81.51,91.58,2056,GDP_per_capita_(PPP),High Income Countries
+82.12,82.48,92.98,2057,GDP_per_capita_(PPP),High Income Countries
+83.16,83.49,94.33,2058,GDP_per_capita_(PPP),High Income Countries
+84.2,84.47,95.75,2059,GDP_per_capita_(PPP),High Income Countries
+85.21,85.48,97.1,2060,GDP_per_capita_(PPP),High Income Countries
+14.57,14.57,14.57,2020,GDP_per_capita_(PPP),Latin America & the Caribbean
+15.36,15.36,15.36,2021,GDP_per_capita_(PPP),Latin America & the Caribbean
+15.55,15.55,15.55,2022,GDP_per_capita_(PPP),Latin America & the Caribbean
+15.54,15.54,15.54,2023,GDP_per_capita_(PPP),Latin America & the Caribbean
+15.6,15.6,15.6,2024,GDP_per_capita_(PPP),Latin America & the Caribbean
+15.79,15.79,15.78,2025,GDP_per_capita_(PPP),Latin America & the Caribbean
+15.97,15.97,15.95,2026,GDP_per_capita_(PPP),Latin America & the Caribbean
+16.17,16.18,16.22,2027,GDP_per_capita_(PPP),Latin America & the Caribbean
+16.38,16.38,16.47,2028,GDP_per_capita_(PPP),Latin America & the Caribbean
+16.58,16.59,16.73,2029,GDP_per_capita_(PPP),Latin America & the Caribbean
+16.79,16.81,17.01,2030,GDP_per_capita_(PPP),Latin America & the Caribbean
+17,17.03,17.31,2031,GDP_per_capita_(PPP),Latin America & the Caribbean
+17.23,17.27,17.62,2032,GDP_per_capita_(PPP),Latin America & the Caribbean
+17.45,17.51,17.96,2033,GDP_per_capita_(PPP),Latin America & the Caribbean
+17.69,17.77,18.31,2034,GDP_per_capita_(PPP),Latin America & the Caribbean
+17.93,18.02,18.68,2035,GDP_per_capita_(PPP),Latin America & the Caribbean
+18.17,18.29,19.06,2036,GDP_per_capita_(PPP),Latin America & the Caribbean
+18.42,18.55,19.46,2037,GDP_per_capita_(PPP),Latin America & the Caribbean
+18.68,18.82,19.88,2038,GDP_per_capita_(PPP),Latin America & the Caribbean
+18.94,19.1,20.29,2039,GDP_per_capita_(PPP),Latin America & the Caribbean
+19.21,19.38,20.7,2040,GDP_per_capita_(PPP),Latin America & the Caribbean
+19.48,19.67,21.14,2041,GDP_per_capita_(PPP),Latin America & the Caribbean
+19.77,19.97,21.58,2042,GDP_per_capita_(PPP),Latin America & the Caribbean
+20.06,20.28,22.05,2043,GDP_per_capita_(PPP),Latin America & the Caribbean
+20.36,20.61,22.53,2044,GDP_per_capita_(PPP),Latin America & the Caribbean
+20.67,20.93,23.02,2045,GDP_per_capita_(PPP),Latin America & the Caribbean
+20.98,21.26,23.52,2046,GDP_per_capita_(PPP),Latin America & the Caribbean
+21.3,21.6,24.05,2047,GDP_per_capita_(PPP),Latin America & the Caribbean
+21.62,21.94,24.58,2048,GDP_per_capita_(PPP),Latin America & the Caribbean
+21.95,22.31,25.15,2049,GDP_per_capita_(PPP),Latin America & the Caribbean
+22.3,22.66,25.71,2050,GDP_per_capita_(PPP),Latin America & the Caribbean
+22.65,23.04,26.28,2051,GDP_per_capita_(PPP),Latin America & the Caribbean
+23.01,23.39,26.85,2052,GDP_per_capita_(PPP),Latin America & the Caribbean
+23.39,23.78,27.47,2053,GDP_per_capita_(PPP),Latin America & the Caribbean
+23.77,24.15,28.07,2054,GDP_per_capita_(PPP),Latin America & the Caribbean
+24.18,24.56,28.74,2055,GDP_per_capita_(PPP),Latin America & the Caribbean
+24.6,24.94,29.38,2056,GDP_per_capita_(PPP),Latin America & the Caribbean
+25.03,25.38,30.09,2057,GDP_per_capita_(PPP),Latin America & the Caribbean
+25.48,25.77,30.77,2058,GDP_per_capita_(PPP),Latin America & the Caribbean
+25.93,26.24,31.54,2059,GDP_per_capita_(PPP),Latin America & the Caribbean
+26.4,26.65,32.26,2060,GDP_per_capita_(PPP),Latin America & the Caribbean
+1.975,1.975,1.975,2020,GDP_per_capita_(PPP),Low Income Countries
+1.958,1.958,1.958,2021,GDP_per_capita_(PPP),Low Income Countries
+1.963,1.963,1.963,2022,GDP_per_capita_(PPP),Low Income Countries
+1.938,1.938,1.938,2023,GDP_per_capita_(PPP),Low Income Countries
+1.955,1.955,1.955,2024,GDP_per_capita_(PPP),Low Income Countries
+1.993,1.993,1.989,2025,GDP_per_capita_(PPP),Low Income Countries
+2.034,2.034,2.03,2026,GDP_per_capita_(PPP),Low Income Countries
+2.065,2.065,2.072,2027,GDP_per_capita_(PPP),Low Income Countries
+2.103,2.103,2.116,2028,GDP_per_capita_(PPP),Low Income Countries
+2.14,2.14,2.16,2029,GDP_per_capita_(PPP),Low Income Countries
+2.178,2.179,2.207,2030,GDP_per_capita_(PPP),Low Income Countries
+2.22,2.222,2.259,2031,GDP_per_capita_(PPP),Low Income Countries
+2.266,2.269,2.318,2032,GDP_per_capita_(PPP),Low Income Countries
+2.316,2.321,2.38,2033,GDP_per_capita_(PPP),Low Income Countries
+2.368,2.375,2.447,2034,GDP_per_capita_(PPP),Low Income Countries
+2.423,2.433,2.519,2035,GDP_per_capita_(PPP),Low Income Countries
+2.482,2.495,2.597,2036,GDP_per_capita_(PPP),Low Income Countries
+2.545,2.56,2.68,2037,GDP_per_capita_(PPP),Low Income Countries
+2.611,2.63,2.77,2038,GDP_per_capita_(PPP),Low Income Countries
+2.682,2.704,2.866,2039,GDP_per_capita_(PPP),Low Income Countries
+2.758,2.783,2.968,2040,GDP_per_capita_(PPP),Low Income Countries
+2.839,2.867,3.078,2041,GDP_per_capita_(PPP),Low Income Countries
+2.925,2.957,3.196,2042,GDP_per_capita_(PPP),Low Income Countries
+3.016,3.054,3.322,2043,GDP_per_capita_(PPP),Low Income Countries
+3.114,3.157,3.457,2044,GDP_per_capita_(PPP),Low Income Countries
+3.218,3.267,3.602,2045,GDP_per_capita_(PPP),Low Income Countries
+3.329,3.384,3.755,2046,GDP_per_capita_(PPP),Low Income Countries
+3.445,3.507,3.916,2047,GDP_per_capita_(PPP),Low Income Countries
+3.567,3.637,4.087,2048,GDP_per_capita_(PPP),Low Income Countries
+3.696,3.774,4.267,2049,GDP_per_capita_(PPP),Low Income Countries
+3.83,3.918,4.458,2050,GDP_per_capita_(PPP),Low Income Countries
+3.971,4.068,4.657,2051,GDP_per_capita_(PPP),Low Income Countries
+4.118,4.225,4.866,2052,GDP_per_capita_(PPP),Low Income Countries
+4.273,4.389,5.086,2053,GDP_per_capita_(PPP),Low Income Countries
+4.436,4.562,5.318,2054,GDP_per_capita_(PPP),Low Income Countries
+4.607,4.741,5.561,2055,GDP_per_capita_(PPP),Low Income Countries
+4.786,4.929,5.817,2056,GDP_per_capita_(PPP),Low Income Countries
+4.974,5.123,6.088,2057,GDP_per_capita_(PPP),Low Income Countries
+5.17,5.327,6.37,2058,GDP_per_capita_(PPP),Low Income Countries
+5.374,5.538,6.669,2059,GDP_per_capita_(PPP),Low Income Countries
+5.587,5.76,6.98,2060,GDP_per_capita_(PPP),Low Income Countries
+6.26,6.26,6.26,2020,GDP_per_capita_(PPP),Low Middle Income Countries
+6.481,6.481,6.481,2021,GDP_per_capita_(PPP),Low Middle Income Countries
+6.579,6.579,6.579,2022,GDP_per_capita_(PPP),Low Middle Income Countries
+6.731,6.731,6.731,2023,GDP_per_capita_(PPP),Low Middle Income Countries
+6.899,6.899,6.899,2024,GDP_per_capita_(PPP),Low Middle Income Countries
+7.08,7.08,7.076,2025,GDP_per_capita_(PPP),Low Middle Income Countries
+7.269,7.269,7.261,2026,GDP_per_capita_(PPP),Low Middle Income Countries
+7.414,7.413,7.431,2027,GDP_per_capita_(PPP),Low Middle Income Countries
+7.585,7.584,7.62,2028,GDP_per_capita_(PPP),Low Middle Income Countries
+7.757,7.757,7.818,2029,GDP_per_capita_(PPP),Low Middle Income Countries
+7.937,7.939,8.029,2030,GDP_per_capita_(PPP),Low Middle Income Countries
+8.124,8.129,8.25,2031,GDP_per_capita_(PPP),Low Middle Income Countries
+8.318,8.328,8.48,2032,GDP_per_capita_(PPP),Low Middle Income Countries
+8.517,8.533,8.721,2033,GDP_per_capita_(PPP),Low Middle Income Countries
+8.721,8.743,8.971,2034,GDP_per_capita_(PPP),Low Middle Income Countries
+8.929,8.957,9.23,2035,GDP_per_capita_(PPP),Low Middle Income Countries
+9.14,9.174,9.498,2036,GDP_per_capita_(PPP),Low Middle Income Countries
+9.356,9.394,9.776,2037,GDP_per_capita_(PPP),Low Middle Income Countries
+9.576,9.619,10.06,2038,GDP_per_capita_(PPP),Low Middle Income Countries
+9.802,9.849,10.36,2039,GDP_per_capita_(PPP),Low Middle Income Countries
+10.03,10.08,10.66,2040,GDP_per_capita_(PPP),Low Middle Income Countries
+10.27,10.33,10.97,2041,GDP_per_capita_(PPP),Low Middle Income Countries
+10.52,10.57,11.3,2042,GDP_per_capita_(PPP),Low Middle Income Countries
+10.77,10.83,11.63,2043,GDP_per_capita_(PPP),Low Middle Income Countries
+11.02,11.08,11.98,2044,GDP_per_capita_(PPP),Low Middle Income Countries
+11.28,11.34,12.33,2045,GDP_per_capita_(PPP),Low Middle Income Countries
+11.54,11.61,12.69,2046,GDP_per_capita_(PPP),Low Middle Income Countries
+11.8,11.88,13.06,2047,GDP_per_capita_(PPP),Low Middle Income Countries
+12.06,12.15,13.44,2048,GDP_per_capita_(PPP),Low Middle Income Countries
+12.33,12.43,13.83,2049,GDP_per_capita_(PPP),Low Middle Income Countries
+12.61,12.71,14.24,2050,GDP_per_capita_(PPP),Low Middle Income Countries
+12.88,13,14.65,2051,GDP_per_capita_(PPP),Low Middle Income Countries
+13.17,13.29,15.07,2052,GDP_per_capita_(PPP),Low Middle Income Countries
+13.45,13.58,15.51,2053,GDP_per_capita_(PPP),Low Middle Income Countries
+13.75,13.88,15.96,2054,GDP_per_capita_(PPP),Low Middle Income Countries
+14.05,14.18,16.41,2055,GDP_per_capita_(PPP),Low Middle Income Countries
+14.36,14.49,16.89,2056,GDP_per_capita_(PPP),Low Middle Income Countries
+14.69,14.81,17.38,2057,GDP_per_capita_(PPP),Low Middle Income Countries
+15.01,15.13,17.9,2058,GDP_per_capita_(PPP),Low Middle Income Countries
+15.35,15.47,18.42,2059,GDP_per_capita_(PPP),Low Middle Income Countries
+15.69,15.8,18.99,2060,GDP_per_capita_(PPP),Low Middle Income Countries
+16.73,16.73,16.73,2020,GDP_per_capita_(PPP),North Africa & West Asia
+17.2,17.2,17.2,2021,GDP_per_capita_(PPP),North Africa & West Asia
+17.66,17.66,17.66,2022,GDP_per_capita_(PPP),North Africa & West Asia
+17.41,17.41,17.41,2023,GDP_per_capita_(PPP),North Africa & West Asia
+17.49,17.49,17.49,2024,GDP_per_capita_(PPP),North Africa & West Asia
+17.76,17.76,17.76,2025,GDP_per_capita_(PPP),North Africa & West Asia
+17.93,17.93,17.92,2026,GDP_per_capita_(PPP),North Africa & West Asia
+18.13,18.12,18.15,2027,GDP_per_capita_(PPP),North Africa & West Asia
+18.31,18.3,18.36,2028,GDP_per_capita_(PPP),North Africa & West Asia
+18.52,18.5,18.6,2029,GDP_per_capita_(PPP),North Africa & West Asia
+18.73,18.72,18.87,2030,GDP_per_capita_(PPP),North Africa & West Asia
+18.93,18.94,19.14,2031,GDP_per_capita_(PPP),North Africa & West Asia
+19.14,19.17,19.44,2032,GDP_per_capita_(PPP),North Africa & West Asia
+19.34,19.39,19.74,2033,GDP_per_capita_(PPP),North Africa & West Asia
+19.54,19.6,20.04,2034,GDP_per_capita_(PPP),North Africa & West Asia
+19.72,19.8,20.34,2035,GDP_per_capita_(PPP),North Africa & West Asia
+19.9,19.99,20.63,2036,GDP_per_capita_(PPP),North Africa & West Asia
+20.07,20.17,20.92,2037,GDP_per_capita_(PPP),North Africa & West Asia
+20.24,20.35,21.22,2038,GDP_per_capita_(PPP),North Africa & West Asia
+20.4,20.52,21.52,2039,GDP_per_capita_(PPP),North Africa & West Asia
+20.56,20.69,21.82,2040,GDP_per_capita_(PPP),North Africa & West Asia
+20.73,20.87,22.12,2041,GDP_per_capita_(PPP),North Africa & West Asia
+20.89,21.05,22.44,2042,GDP_per_capita_(PPP),North Africa & West Asia
+21.06,21.24,22.77,2043,GDP_per_capita_(PPP),North Africa & West Asia
+21.23,21.43,23.11,2044,GDP_per_capita_(PPP),North Africa & West Asia
+21.4,21.62,23.46,2045,GDP_per_capita_(PPP),North Africa & West Asia
+21.57,21.82,23.84,2046,GDP_per_capita_(PPP),North Africa & West Asia
+21.74,22.02,24.27,2047,GDP_per_capita_(PPP),North Africa & West Asia
+21.91,22.22,24.7,2048,GDP_per_capita_(PPP),North Africa & West Asia
+22.08,22.42,25.16,2049,GDP_per_capita_(PPP),North Africa & West Asia
+22.28,22.66,25.61,2050,GDP_per_capita_(PPP),North Africa & West Asia
+22.51,22.92,26.07,2051,GDP_per_capita_(PPP),North Africa & West Asia
+22.75,23.18,26.54,2052,GDP_per_capita_(PPP),North Africa & West Asia
+22.99,23.43,27.01,2053,GDP_per_capita_(PPP),North Africa & West Asia
+23.24,23.71,27.5,2054,GDP_per_capita_(PPP),North Africa & West Asia
+23.51,23.98,28,2055,GDP_per_capita_(PPP),North Africa & West Asia
+23.78,24.27,28.52,2056,GDP_per_capita_(PPP),North Africa & West Asia
+24.06,24.56,29.06,2057,GDP_per_capita_(PPP),North Africa & West Asia
+24.34,24.86,29.63,2058,GDP_per_capita_(PPP),North Africa & West Asia
+24.63,25.17,30.21,2059,GDP_per_capita_(PPP),North Africa & West Asia
+24.94,25.5,30.83,2060,GDP_per_capita_(PPP),North Africa & West Asia
+34.86,34.86,34.86,2020,GDP_per_capita_(PPP),Oceania
+35.37,35.37,35.37,2021,GDP_per_capita_(PPP),Oceania
+36.48,36.48,36.48,2022,GDP_per_capita_(PPP),Oceania
+36.81,36.81,36.81,2023,GDP_per_capita_(PPP),Oceania
+37,37,37,2024,GDP_per_capita_(PPP),Oceania
+37.41,37.41,37.41,2025,GDP_per_capita_(PPP),Oceania
+37.89,37.89,37.89,2026,GDP_per_capita_(PPP),Oceania
+38.45,38.45,38.51,2027,GDP_per_capita_(PPP),Oceania
+39.02,39.04,39.18,2028,GDP_per_capita_(PPP),Oceania
+39.61,39.66,39.92,2029,GDP_per_capita_(PPP),Oceania
+40.26,40.38,40.78,2030,GDP_per_capita_(PPP),Oceania
+40.91,41.09,41.66,2031,GDP_per_capita_(PPP),Oceania
+41.58,41.84,42.61,2032,GDP_per_capita_(PPP),Oceania
+42.25,42.52,43.53,2033,GDP_per_capita_(PPP),Oceania
+42.94,43.27,44.51,2034,GDP_per_capita_(PPP),Oceania
+43.61,44.02,45.51,2035,GDP_per_capita_(PPP),Oceania
+44.31,44.76,46.48,2036,GDP_per_capita_(PPP),Oceania
+45,45.49,47.43,2037,GDP_per_capita_(PPP),Oceania
+45.68,46.1,48.25,2038,GDP_per_capita_(PPP),Oceania
+46.36,46.92,49.37,2039,GDP_per_capita_(PPP),Oceania
+47.04,47.59,50.2,2040,GDP_per_capita_(PPP),Oceania
+47.75,48.43,51.36,2041,GDP_per_capita_(PPP),Oceania
+48.47,49.12,52.21,2042,GDP_per_capita_(PPP),Oceania
+49.19,49.98,53.4,2043,GDP_per_capita_(PPP),Oceania
+49.92,50.66,54.26,2044,GDP_per_capita_(PPP),Oceania
+50.61,51.53,55.49,2045,GDP_per_capita_(PPP),Oceania
+51.32,52.2,56.32,2046,GDP_per_capita_(PPP),Oceania
+52,53.06,57.56,2047,GDP_per_capita_(PPP),Oceania
+52.68,53.7,58.39,2048,GDP_per_capita_(PPP),Oceania
+53.35,54.56,59.63,2049,GDP_per_capita_(PPP),Oceania
+54.02,55.18,60.45,2050,GDP_per_capita_(PPP),Oceania
+54.68,56.01,61.68,2051,GDP_per_capita_(PPP),Oceania
+55.35,56.62,62.54,2052,GDP_per_capita_(PPP),Oceania
+56.04,57.42,63.65,2053,GDP_per_capita_(PPP),Oceania
+56.73,58.07,64.65,2054,GDP_per_capita_(PPP),Oceania
+57.43,58.77,65.65,2055,GDP_per_capita_(PPP),Oceania
+58.15,59.47,66.67,2056,GDP_per_capita_(PPP),Oceania
+58.87,60.17,67.69,2057,GDP_per_capita_(PPP),Oceania
+59.59,60.88,68.71,2058,GDP_per_capita_(PPP),Oceania
+60.36,61.6,69.75,2059,GDP_per_capita_(PPP),Oceania
+61.05,62.33,70.8,2060,GDP_per_capita_(PPP),Oceania
+3.602,3.602,3.602,2020,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.654,3.654,3.654,2021,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.663,3.663,3.663,2022,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.667,3.667,3.667,2023,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.704,3.704,3.704,2024,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.732,3.732,3.729,2025,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.76,3.76,3.755,2026,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.796,3.796,3.803,2027,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.837,3.837,3.852,2028,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.88,3.881,3.905,2029,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.926,3.929,3.965,2030,GDP_per_capita_(PPP),Sub-Saharan Africa
+3.976,3.982,4.031,2031,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.031,4.04,4.104,2032,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.09,4.103,4.185,2033,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.153,4.172,4.272,2034,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.222,4.245,4.366,2035,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.294,4.322,4.467,2036,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.372,4.405,4.575,2037,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.454,4.492,4.691,2038,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.541,4.584,4.813,2039,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.635,4.683,4.944,2040,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.735,4.788,5.083,2041,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.841,4.9,5.233,2042,GDP_per_capita_(PPP),Sub-Saharan Africa
+4.954,5.02,5.393,2043,GDP_per_capita_(PPP),Sub-Saharan Africa
+5.073,5.147,5.563,2044,GDP_per_capita_(PPP),Sub-Saharan Africa
+5.198,5.281,5.743,2045,GDP_per_capita_(PPP),Sub-Saharan Africa
+5.331,5.422,5.934,2046,GDP_per_capita_(PPP),Sub-Saharan Africa
+5.469,5.571,6.135,2047,GDP_per_capita_(PPP),Sub-Saharan Africa
+5.615,5.727,6.35,2048,GDP_per_capita_(PPP),Sub-Saharan Africa
+5.768,5.892,6.577,2049,GDP_per_capita_(PPP),Sub-Saharan Africa
+5.926,6.064,6.817,2050,GDP_per_capita_(PPP),Sub-Saharan Africa
+6.094,6.243,7.067,2051,GDP_per_capita_(PPP),Sub-Saharan Africa
+6.269,6.429,7.33,2052,GDP_per_capita_(PPP),Sub-Saharan Africa
+6.453,6.623,7.605,2053,GDP_per_capita_(PPP),Sub-Saharan Africa
+6.646,6.825,7.894,2054,GDP_per_capita_(PPP),Sub-Saharan Africa
+6.849,7.036,8.194,2055,GDP_per_capita_(PPP),Sub-Saharan Africa
+7.062,7.254,8.512,2056,GDP_per_capita_(PPP),Sub-Saharan Africa
+7.285,7.483,8.843,2057,GDP_per_capita_(PPP),Sub-Saharan Africa
+7.518,7.718,9.192,2058,GDP_per_capita_(PPP),Sub-Saharan Africa
+7.759,7.966,9.557,2059,GDP_per_capita_(PPP),Sub-Saharan Africa
+8.01,8.221,9.944,2060,GDP_per_capita_(PPP),Sub-Saharan Africa
+16.15,16.15,16.15,2020,GDP_per_capita_(PPP),Upper Middle Income Countries
+16.95,16.95,16.95,2021,GDP_per_capita_(PPP),Upper Middle Income Countries
+17.11,17.11,17.11,2022,GDP_per_capita_(PPP),Upper Middle Income Countries
+17.49,17.49,17.49,2023,GDP_per_capita_(PPP),Upper Middle Income Countries
+17.84,17.84,17.84,2024,GDP_per_capita_(PPP),Upper Middle Income Countries
+18.18,18.18,18.18,2025,GDP_per_capita_(PPP),Upper Middle Income Countries
+18.51,18.5,18.49,2026,GDP_per_capita_(PPP),Upper Middle Income Countries
+18.97,18.97,19,2027,GDP_per_capita_(PPP),Upper Middle Income Countries
+19.41,19.42,19.49,2028,GDP_per_capita_(PPP),Upper Middle Income Countries
+19.87,19.88,20.01,2029,GDP_per_capita_(PPP),Upper Middle Income Countries
+20.34,20.36,20.55,2030,GDP_per_capita_(PPP),Upper Middle Income Countries
+20.81,20.85,21.11,2031,GDP_per_capita_(PPP),Upper Middle Income Countries
+21.29,21.34,21.7,2032,GDP_per_capita_(PPP),Upper Middle Income Countries
+21.76,21.83,22.29,2033,GDP_per_capita_(PPP),Upper Middle Income Countries
+22.23,22.33,22.9,2034,GDP_per_capita_(PPP),Upper Middle Income Countries
+22.7,22.81,23.52,2035,GDP_per_capita_(PPP),Upper Middle Income Countries
+23.16,23.29,24.14,2036,GDP_per_capita_(PPP),Upper Middle Income Countries
+23.62,23.77,24.78,2037,GDP_per_capita_(PPP),Upper Middle Income Countries
+24.08,24.23,25.42,2038,GDP_per_capita_(PPP),Upper Middle Income Countries
+24.55,24.71,26.08,2039,GDP_per_capita_(PPP),Upper Middle Income Countries
+25.04,25.2,26.74,2040,GDP_per_capita_(PPP),Upper Middle Income Countries
+25.54,25.7,27.42,2041,GDP_per_capita_(PPP),Upper Middle Income Countries
+26.06,26.24,28.16,2042,GDP_per_capita_(PPP),Upper Middle Income Countries
+26.6,26.77,28.9,2043,GDP_per_capita_(PPP),Upper Middle Income Countries
+27.14,27.33,29.68,2044,GDP_per_capita_(PPP),Upper Middle Income Countries
+27.68,27.88,30.46,2045,GDP_per_capita_(PPP),Upper Middle Income Countries
+28.22,28.43,31.27,2046,GDP_per_capita_(PPP),Upper Middle Income Countries
+28.76,28.98,32.11,2047,GDP_per_capita_(PPP),Upper Middle Income Countries
+29.3,29.54,32.95,2048,GDP_per_capita_(PPP),Upper Middle Income Countries
+29.84,30.11,33.83,2049,GDP_per_capita_(PPP),Upper Middle Income Countries
+30.36,30.66,34.67,2050,GDP_per_capita_(PPP),Upper Middle Income Countries
+30.92,31.23,35.54,2051,GDP_per_capita_(PPP),Upper Middle Income Countries
+31.47,31.79,36.42,2052,GDP_per_capita_(PPP),Upper Middle Income Countries
+32.03,32.36,37.32,2053,GDP_per_capita_(PPP),Upper Middle Income Countries
+32.61,32.93,38.24,2054,GDP_per_capita_(PPP),Upper Middle Income Countries
+33.22,33.54,39.19,2055,GDP_per_capita_(PPP),Upper Middle Income Countries
+33.85,34.15,40.16,2056,GDP_per_capita_(PPP),Upper Middle Income Countries
+34.51,34.8,41.18,2057,GDP_per_capita_(PPP),Upper Middle Income Countries
+35.19,35.46,42.21,2058,GDP_per_capita_(PPP),Upper Middle Income Countries
+35.89,36.17,43.3,2059,GDP_per_capita_(PPP),Upper Middle Income Countries
+36.6,36.87,44.39,2060,GDP_per_capita_(PPP),Upper Middle Income Countries
+15.96,15.96,15.96,2020,GDP_per_capita_(PPP),World
+16.62,16.62,16.62,2021,GDP_per_capita_(PPP),World
+16.83,16.83,16.83,2022,GDP_per_capita_(PPP),World
+17.01,17.01,17.01,2023,GDP_per_capita_(PPP),World
+17.24,17.24,17.24,2024,GDP_per_capita_(PPP),World
+17.47,17.47,17.47,2025,GDP_per_capita_(PPP),World
+17.7,17.7,17.7,2026,GDP_per_capita_(PPP),World
+17.97,17.97,18,2027,GDP_per_capita_(PPP),World
+18.23,18.24,18.31,2028,GDP_per_capita_(PPP),World
+18.51,18.51,18.64,2029,GDP_per_capita_(PPP),World
+18.79,18.8,18.99,2030,GDP_per_capita_(PPP),World
+19.07,19.09,19.36,2031,GDP_per_capita_(PPP),World
+19.35,19.39,19.74,2032,GDP_per_capita_(PPP),World
+19.63,19.69,20.13,2033,GDP_per_capita_(PPP),World
+19.91,19.99,20.53,2034,GDP_per_capita_(PPP),World
+20.19,20.28,20.94,2035,GDP_per_capita_(PPP),World
+20.47,20.57,21.34,2036,GDP_per_capita_(PPP),World
+20.74,20.85,21.76,2037,GDP_per_capita_(PPP),World
+21.01,21.13,22.17,2038,GDP_per_capita_(PPP),World
+21.29,21.42,22.61,2039,GDP_per_capita_(PPP),World
+21.58,21.71,23.03,2040,GDP_per_capita_(PPP),World
+21.87,22,23.47,2041,GDP_per_capita_(PPP),World
+22.18,22.32,23.94,2042,GDP_per_capita_(PPP),World
+22.49,22.63,24.41,2043,GDP_per_capita_(PPP),World
+22.8,22.95,24.9,2044,GDP_per_capita_(PPP),World
+23.11,23.28,25.39,2045,GDP_per_capita_(PPP),World
+23.43,23.6,25.9,2046,GDP_per_capita_(PPP),World
+23.74,23.92,26.41,2047,GDP_per_capita_(PPP),World
+24.05,24.25,26.93,2048,GDP_per_capita_(PPP),World
+24.36,24.58,27.47,2049,GDP_per_capita_(PPP),World
+24.68,24.9,27.99,2050,GDP_per_capita_(PPP),World
+24.99,25.23,28.52,2051,GDP_per_capita_(PPP),World
+25.31,25.55,29.06,2052,GDP_per_capita_(PPP),World
+25.63,25.87,29.6,2053,GDP_per_capita_(PPP),World
+25.96,26.2,30.16,2054,GDP_per_capita_(PPP),World
+26.31,26.54,30.73,2055,GDP_per_capita_(PPP),World
+26.67,26.89,31.32,2056,GDP_per_capita_(PPP),World
+27.05,27.25,31.93,2057,GDP_per_capita_(PPP),World
+27.43,27.62,32.55,2058,GDP_per_capita_(PPP),World
+27.82,28.01,33.2,2059,GDP_per_capita_(PPP),World
+28.21,28.41,33.85,2060,GDP_per_capita_(PPP),World

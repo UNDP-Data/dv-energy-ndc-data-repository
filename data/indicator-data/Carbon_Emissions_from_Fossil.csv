@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+1.054,1.054,1.054,2020,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.102,1.102,1.102,2021,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.146,1.146,1.146,2022,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.195,1.195,1.195,2023,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.245,1.245,1.245,2024,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.294,1.294,1.294,2025,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.346,1.361,1.361,2026,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.395,1.422,1.421,2027,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.433,1.461,1.461,2028,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.47,1.488,1.488,2029,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.505,1.502,1.504,2030,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.54,1.507,1.512,2031,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.574,1.51,1.518,2032,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.61,1.511,1.523,2033,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.647,1.513,1.53,2034,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.687,1.51,1.531,2035,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.732,1.503,1.528,2036,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.779,1.491,1.517,2037,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.819,1.472,1.498,2038,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.85,1.44,1.467,2039,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.876,1.395,1.421,2040,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.898,1.333,1.358,2041,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.917,1.268,1.293,2042,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.934,1.2,1.223,2043,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.948,1.131,1.153,2044,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.962,1.064,1.085,2045,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.975,0.998,1.017,2046,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.986,0.935,0.953,2047,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.96,0.873,0.888,2048,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.952,0.816,0.83,2049,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.923,0.761,0.772,2050,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.896,0.71,0.72,2051,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.871,0.66,0.668,2052,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.849,0.612,0.619,2053,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.823,0.566,0.57,2054,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.794,0.521,0.525,2055,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.763,0.478,0.481,2056,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.729,0.44,0.452,2057,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.695,0.413,0.417,2058,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.66,0.38,0.392,2059,Carbon_Emissions_from_Fossil,Central & Southern Asia
+1.622,0.357,0.361,2060,Carbon_Emissions_from_Fossil,Central & Southern Asia
+3.811,3.811,3.811,2020,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.818,3.818,3.818,2021,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.869,3.869,3.869,2022,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.924,3.924,3.924,2023,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.97,3.97,3.97,2024,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.014,4.014,4.014,2025,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.052,4.047,4.047,2026,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.079,4.019,4.018,2027,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.106,3.935,3.933,2028,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.124,3.799,3.798,2029,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.138,3.638,3.641,2030,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.149,3.462,3.47,2031,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.158,3.283,3.296,2032,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.162,3.097,3.115,2033,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.164,2.909,2.93,2034,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.166,2.736,2.761,2035,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.174,2.564,2.592,2036,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.177,2.396,2.425,2037,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.174,2.247,2.281,2038,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.161,2.09,2.121,2039,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.138,1.933,1.966,2040,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.11,1.792,1.823,2041,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.084,1.639,1.669,2042,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.057,1.506,1.535,2043,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4.028,1.378,1.406,2044,Carbon_Emissions_from_Fossil,East & Southeast Asia
+4,1.271,1.297,2045,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.973,1.173,1.199,2046,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.947,1.09,1.115,2047,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.923,1.025,1.047,2048,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.88,0.967,0.991,2049,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.853,0.912,0.935,2050,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.818,0.86,0.884,2051,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.772,0.81,0.834,2052,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.719,0.765,0.789,2053,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.661,0.721,0.743,2054,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.6,0.68,0.701,2055,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.539,0.639,0.658,2056,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.479,0.6,0.614,2057,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.421,0.556,0.572,2058,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.367,0.521,0.534,2059,Carbon_Emissions_from_Fossil,East & Southeast Asia
+3.316,0.483,0.498,2060,Carbon_Emissions_from_Fossil,East & Southeast Asia
+2.717,2.717,2.717,2020,Carbon_Emissions_from_Fossil,Europe & North America
+2.67,2.67,2.67,2021,Carbon_Emissions_from_Fossil,Europe & North America
+2.682,2.682,2.682,2022,Carbon_Emissions_from_Fossil,Europe & North America
+2.7,2.7,2.7,2023,Carbon_Emissions_from_Fossil,Europe & North America
+2.704,2.704,2.704,2024,Carbon_Emissions_from_Fossil,Europe & North America
+2.704,2.704,2.704,2025,Carbon_Emissions_from_Fossil,Europe & North America
+2.701,2.687,2.688,2026,Carbon_Emissions_from_Fossil,Europe & North America
+2.69,2.65,2.65,2027,Carbon_Emissions_from_Fossil,Europe & North America
+2.668,2.581,2.579,2028,Carbon_Emissions_from_Fossil,Europe & North America
+2.64,2.484,2.482,2029,Carbon_Emissions_from_Fossil,Europe & North America
+2.61,2.367,2.369,2030,Carbon_Emissions_from_Fossil,Europe & North America
+2.579,2.246,2.253,2031,Carbon_Emissions_from_Fossil,Europe & North America
+2.55,2.127,2.14,2032,Carbon_Emissions_from_Fossil,Europe & North America
+2.522,2.007,2.027,2033,Carbon_Emissions_from_Fossil,Europe & North America
+2.498,1.89,1.918,2034,Carbon_Emissions_from_Fossil,Europe & North America
+2.478,1.774,1.809,2035,Carbon_Emissions_from_Fossil,Europe & North America
+2.468,1.661,1.701,2036,Carbon_Emissions_from_Fossil,Europe & North America
+2.464,1.549,1.592,2037,Carbon_Emissions_from_Fossil,Europe & North America
+2.449,1.427,1.467,2038,Carbon_Emissions_from_Fossil,Europe & North America
+2.421,1.3,1.341,2039,Carbon_Emissions_from_Fossil,Europe & North America
+2.389,1.157,1.195,2040,Carbon_Emissions_from_Fossil,Europe & North America
+2.354,1.005,1.041,2041,Carbon_Emissions_from_Fossil,Europe & North America
+2.315,0.862,0.895,2042,Carbon_Emissions_from_Fossil,Europe & North America
+2.274,0.723,0.753,2043,Carbon_Emissions_from_Fossil,Europe & North America
+2.232,0.602,0.627,2044,Carbon_Emissions_from_Fossil,Europe & North America
+2.194,0.496,0.518,2045,Carbon_Emissions_from_Fossil,Europe & North America
+2.157,0.4,0.419,2046,Carbon_Emissions_from_Fossil,Europe & North America
+2.121,0.31,0.33,2047,Carbon_Emissions_from_Fossil,Europe & North America
+2.087,0.225,0.246,2048,Carbon_Emissions_from_Fossil,Europe & North America
+2.038,0.157,0.176,2049,Carbon_Emissions_from_Fossil,Europe & North America
+2.011,0.096,0.116,2050,Carbon_Emissions_from_Fossil,Europe & North America
+1.978,0.042,0.06,2051,Carbon_Emissions_from_Fossil,Europe & North America
+1.933,0,0.01,2052,Carbon_Emissions_from_Fossil,Europe & North America
+1.881,0,0,2053,Carbon_Emissions_from_Fossil,Europe & North America
+1.824,0,0,2054,Carbon_Emissions_from_Fossil,Europe & North America
+1.763,0,0,2055,Carbon_Emissions_from_Fossil,Europe & North America
+1.7,0,0,2056,Carbon_Emissions_from_Fossil,Europe & North America
+1.637,0,0,2057,Carbon_Emissions_from_Fossil,Europe & North America
+1.573,0,0,2058,Carbon_Emissions_from_Fossil,Europe & North America
+1.512,0,0,2059,Carbon_Emissions_from_Fossil,Europe & North America
+1.454,0,0,2060,Carbon_Emissions_from_Fossil,Europe & North America
+3.139,3.139,3.139,2020,Carbon_Emissions_from_Fossil,High Income Countries
+3.097,3.097,3.097,2021,Carbon_Emissions_from_Fossil,High Income Countries
+3.114,3.114,3.114,2022,Carbon_Emissions_from_Fossil,High Income Countries
+3.168,3.168,3.168,2023,Carbon_Emissions_from_Fossil,High Income Countries
+3.176,3.176,3.176,2024,Carbon_Emissions_from_Fossil,High Income Countries
+3.176,3.176,3.176,2025,Carbon_Emissions_from_Fossil,High Income Countries
+3.183,3.162,3.162,2026,Carbon_Emissions_from_Fossil,High Income Countries
+3.179,3.123,3.123,2027,Carbon_Emissions_from_Fossil,High Income Countries
+3.159,3.044,3.042,2028,Carbon_Emissions_from_Fossil,High Income Countries
+3.131,2.934,2.931,2029,Carbon_Emissions_from_Fossil,High Income Countries
+3.1,2.801,2.802,2030,Carbon_Emissions_from_Fossil,High Income Countries
+3.069,2.664,2.669,2031,Carbon_Emissions_from_Fossil,High Income Countries
+3.037,2.528,2.54,2032,Carbon_Emissions_from_Fossil,High Income Countries
+3.006,2.391,2.411,2033,Carbon_Emissions_from_Fossil,High Income Countries
+2.977,2.259,2.288,2034,Carbon_Emissions_from_Fossil,High Income Countries
+2.952,2.127,2.162,2035,Carbon_Emissions_from_Fossil,High Income Countries
+2.938,1.998,2.039,2036,Carbon_Emissions_from_Fossil,High Income Countries
+2.931,1.868,1.912,2037,Carbon_Emissions_from_Fossil,High Income Countries
+2.912,1.745,1.787,2038,Carbon_Emissions_from_Fossil,High Income Countries
+2.879,1.61,1.653,2039,Carbon_Emissions_from_Fossil,High Income Countries
+2.84,1.461,1.502,2040,Carbon_Emissions_from_Fossil,High Income Countries
+2.798,1.304,1.343,2041,Carbon_Emissions_from_Fossil,High Income Countries
+2.751,1.156,1.193,2042,Carbon_Emissions_from_Fossil,High Income Countries
+2.702,1.008,1.043,2043,Carbon_Emissions_from_Fossil,High Income Countries
+2.653,0.88,0.911,2044,Carbon_Emissions_from_Fossil,High Income Countries
+2.607,0.766,0.794,2045,Carbon_Emissions_from_Fossil,High Income Countries
+2.563,0.664,0.69,2046,Carbon_Emissions_from_Fossil,High Income Countries
+2.52,0.567,0.592,2047,Carbon_Emissions_from_Fossil,High Income Countries
+2.478,0.463,0.49,2048,Carbon_Emissions_from_Fossil,High Income Countries
+2.421,0.378,0.399,2049,Carbon_Emissions_from_Fossil,High Income Countries
+2.387,0.299,0.323,2050,Carbon_Emissions_from_Fossil,High Income Countries
+2.348,0.229,0.249,2051,Carbon_Emissions_from_Fossil,High Income Countries
+2.296,0.163,0.185,2052,Carbon_Emissions_from_Fossil,High Income Countries
+2.237,0.103,0.12,2053,Carbon_Emissions_from_Fossil,High Income Countries
+2.174,0.045,0.062,2054,Carbon_Emissions_from_Fossil,High Income Countries
+2.106,0,0.004,2055,Carbon_Emissions_from_Fossil,High Income Countries
+2.036,0,0,2056,Carbon_Emissions_from_Fossil,High Income Countries
+1.966,0,0,2057,Carbon_Emissions_from_Fossil,High Income Countries
+1.896,0,0,2058,Carbon_Emissions_from_Fossil,High Income Countries
+1.828,0,0,2059,Carbon_Emissions_from_Fossil,High Income Countries
+1.764,0,0,2060,Carbon_Emissions_from_Fossil,High Income Countries
+0.435,0.435,0.435,2020,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.455,0.455,0.455,2021,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.472,0.472,0.472,2022,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.492,0.492,0.492,2023,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.505,0.505,0.505,2024,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.516,0.516,0.516,2025,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.528,0.527,0.527,2026,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.539,0.534,0.533,2027,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.547,0.532,0.532,2028,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.553,0.523,0.523,2029,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.557,0.509,0.51,2030,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.562,0.492,0.494,2031,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.565,0.474,0.478,2032,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.569,0.456,0.461,2033,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.573,0.438,0.444,2034,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.577,0.419,0.426,2035,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.583,0.399,0.407,2036,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.589,0.379,0.388,2037,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.593,0.35,0.357,2038,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.594,0.319,0.328,2039,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.593,0.287,0.294,2040,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.591,0.251,0.258,2041,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.588,0.217,0.224,2042,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.583,0.185,0.192,2043,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.577,0.158,0.163,2044,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.571,0.134,0.139,2045,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.564,0.113,0.117,2046,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.556,0.093,0.097,2047,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.547,0.08,0.083,2048,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.536,0.067,0.07,2049,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.528,0.056,0.059,2050,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.518,0.045,0.048,2051,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.507,0.036,0.038,2052,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.493,0.027,0.029,2053,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.479,0.02,0.022,2054,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.464,0.012,0.014,2055,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.449,0.006,0.008,2056,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.434,0,0,2057,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.419,0,0,2058,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.406,0,0,2059,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.392,0,0,2060,Carbon_Emissions_from_Fossil,Latin America & the Caribbean
+0.055,0.055,0.055,2020,Carbon_Emissions_from_Fossil,Low Income Countries
+0.062,0.062,0.062,2021,Carbon_Emissions_from_Fossil,Low Income Countries
+0.065,0.065,0.065,2022,Carbon_Emissions_from_Fossil,Low Income Countries
+0.069,0.069,0.069,2023,Carbon_Emissions_from_Fossil,Low Income Countries
+0.071,0.071,0.071,2024,Carbon_Emissions_from_Fossil,Low Income Countries
+0.075,0.075,0.075,2025,Carbon_Emissions_from_Fossil,Low Income Countries
+0.081,0.083,0.082,2026,Carbon_Emissions_from_Fossil,Low Income Countries
+0.088,0.09,0.09,2027,Carbon_Emissions_from_Fossil,Low Income Countries
+0.093,0.096,0.096,2028,Carbon_Emissions_from_Fossil,Low Income Countries
+0.098,0.1,0.101,2029,Carbon_Emissions_from_Fossil,Low Income Countries
+0.104,0.104,0.104,2030,Carbon_Emissions_from_Fossil,Low Income Countries
+0.109,0.106,0.107,2031,Carbon_Emissions_from_Fossil,Low Income Countries
+0.114,0.109,0.111,2032,Carbon_Emissions_from_Fossil,Low Income Countries
+0.12,0.112,0.114,2033,Carbon_Emissions_from_Fossil,Low Income Countries
+0.126,0.116,0.118,2034,Carbon_Emissions_from_Fossil,Low Income Countries
+0.133,0.119,0.122,2035,Carbon_Emissions_from_Fossil,Low Income Countries
+0.141,0.122,0.125,2036,Carbon_Emissions_from_Fossil,Low Income Countries
+0.149,0.124,0.128,2037,Carbon_Emissions_from_Fossil,Low Income Countries
+0.157,0.127,0.13,2038,Carbon_Emissions_from_Fossil,Low Income Countries
+0.165,0.128,0.132,2039,Carbon_Emissions_from_Fossil,Low Income Countries
+0.172,0.127,0.131,2040,Carbon_Emissions_from_Fossil,Low Income Countries
+0.18,0.124,0.128,2041,Carbon_Emissions_from_Fossil,Low Income Countries
+0.189,0.12,0.124,2042,Carbon_Emissions_from_Fossil,Low Income Countries
+0.197,0.116,0.12,2043,Carbon_Emissions_from_Fossil,Low Income Countries
+0.206,0.111,0.115,2044,Carbon_Emissions_from_Fossil,Low Income Countries
+0.216,0.106,0.11,2045,Carbon_Emissions_from_Fossil,Low Income Countries
+0.225,0.1,0.104,2046,Carbon_Emissions_from_Fossil,Low Income Countries
+0.235,0.095,0.099,2047,Carbon_Emissions_from_Fossil,Low Income Countries
+0.245,0.089,0.092,2048,Carbon_Emissions_from_Fossil,Low Income Countries
+0.254,0.083,0.086,2049,Carbon_Emissions_from_Fossil,Low Income Countries
+0.264,0.077,0.08,2050,Carbon_Emissions_from_Fossil,Low Income Countries
+0.273,0.072,0.074,2051,Carbon_Emissions_from_Fossil,Low Income Countries
+0.282,0.066,0.068,2052,Carbon_Emissions_from_Fossil,Low Income Countries
+0.29,0.061,0.062,2053,Carbon_Emissions_from_Fossil,Low Income Countries
+0.297,0.055,0.056,2054,Carbon_Emissions_from_Fossil,Low Income Countries
+0.304,0.05,0.05,2055,Carbon_Emissions_from_Fossil,Low Income Countries
+0.311,0.044,0.045,2056,Carbon_Emissions_from_Fossil,Low Income Countries
+0.317,0.04,0.039,2057,Carbon_Emissions_from_Fossil,Low Income Countries
+0.323,0.035,0.034,2058,Carbon_Emissions_from_Fossil,Low Income Countries
+0.329,0.031,0.03,2059,Carbon_Emissions_from_Fossil,Low Income Countries
+0.334,0.026,0.026,2060,Carbon_Emissions_from_Fossil,Low Income Countries
+1.137,1.137,1.137,2020,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.212,1.212,1.212,2021,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.268,1.268,1.268,2022,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.325,1.325,1.325,2023,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.385,1.385,1.385,2024,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.452,1.452,1.452,2025,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.524,1.548,1.548,2026,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.595,1.639,1.637,2027,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.651,1.701,1.701,2028,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.705,1.749,1.749,2029,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.756,1.781,1.784,2030,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.808,1.804,1.81,2031,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.859,1.823,1.833,2032,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.912,1.839,1.855,2033,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+1.967,1.857,1.879,2034,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.024,1.867,1.894,2035,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.089,1.873,1.903,2036,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.156,1.868,1.901,2037,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.215,1.862,1.896,2038,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.262,1.837,1.872,2039,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.304,1.795,1.829,2040,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.343,1.728,1.76,2041,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.377,1.654,1.685,2042,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.408,1.573,1.603,2043,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.437,1.491,1.519,2044,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.464,1.409,1.435,2045,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.491,1.327,1.351,2046,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.515,1.247,1.271,2047,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.502,1.161,1.18,2048,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.504,1.081,1.099,2049,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.488,1.004,1.018,2050,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.472,0.933,0.945,2051,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.457,0.862,0.871,2052,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.443,0.795,0.802,2053,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.425,0.73,0.733,2054,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.402,0.667,0.671,2055,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.376,0.609,0.61,2056,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.347,0.556,0.566,2057,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.316,0.515,0.518,2058,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.283,0.471,0.481,2059,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+2.245,0.437,0.441,2060,Carbon_Emissions_from_Fossil,Low Middle Income Countries
+0.666,0.666,0.666,2020,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.678,0.678,0.678,2021,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.692,0.692,0.692,2022,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.719,0.719,0.719,2023,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.727,0.727,0.727,2024,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.737,0.737,0.737,2025,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.754,0.756,0.755,2026,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.768,0.768,0.768,2027,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.778,0.77,0.769,2028,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.784,0.763,0.762,2029,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.79,0.751,0.75,2030,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.795,0.738,0.738,2031,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.801,0.724,0.726,2032,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.806,0.711,0.715,2033,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.813,0.699,0.706,2034,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.82,0.688,0.697,2035,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.831,0.678,0.69,2036,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.844,0.668,0.682,2037,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.853,0.652,0.666,2038,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.858,0.633,0.649,2039,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.861,0.607,0.622,2040,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.862,0.572,0.587,2041,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.861,0.538,0.553,2042,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.859,0.503,0.517,2043,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.857,0.47,0.484,2044,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.856,0.437,0.451,2045,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.855,0.405,0.418,2046,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.855,0.373,0.386,2047,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.855,0.338,0.349,2048,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.849,0.309,0.321,2049,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.847,0.28,0.292,2050,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.844,0.254,0.266,2051,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.838,0.228,0.239,2052,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.83,0.203,0.213,2053,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.82,0.178,0.187,2054,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.809,0.154,0.163,2055,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.797,0.13,0.137,2056,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.784,0.109,0.114,2057,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.769,0.086,0.091,2058,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.753,0.067,0.071,2059,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.736,0.047,0.052,2060,Carbon_Emissions_from_Fossil,North Africa & West Asia
+0.113,0.113,0.113,2020,Carbon_Emissions_from_Fossil,Oceania
+0.112,0.112,0.112,2021,Carbon_Emissions_from_Fossil,Oceania
+0.112,0.112,0.112,2022,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.114,0.114,2023,Carbon_Emissions_from_Fossil,Oceania
+0.115,0.115,0.115,2024,Carbon_Emissions_from_Fossil,Oceania
+0.115,0.115,0.115,2025,Carbon_Emissions_from_Fossil,Oceania
+0.116,0.115,0.115,2026,Carbon_Emissions_from_Fossil,Oceania
+0.116,0.115,0.115,2027,Carbon_Emissions_from_Fossil,Oceania
+0.117,0.113,0.113,2028,Carbon_Emissions_from_Fossil,Oceania
+0.116,0.11,0.11,2029,Carbon_Emissions_from_Fossil,Oceania
+0.116,0.106,0.106,2030,Carbon_Emissions_from_Fossil,Oceania
+0.115,0.102,0.102,2031,Carbon_Emissions_from_Fossil,Oceania
+0.115,0.098,0.098,2032,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.094,0.095,2033,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.09,0.091,2034,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.086,0.088,2035,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.083,0.084,2036,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.08,0.081,2037,Carbon_Emissions_from_Fossil,Oceania
+0.115,0.078,0.08,2038,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.076,0.078,2039,Carbon_Emissions_from_Fossil,Oceania
+0.114,0.074,0.076,2040,Carbon_Emissions_from_Fossil,Oceania
+0.113,0.07,0.072,2041,Carbon_Emissions_from_Fossil,Oceania
+0.112,0.068,0.07,2042,Carbon_Emissions_from_Fossil,Oceania
+0.111,0.065,0.066,2043,Carbon_Emissions_from_Fossil,Oceania
+0.11,0.063,0.065,2044,Carbon_Emissions_from_Fossil,Oceania
+0.109,0.059,0.061,2045,Carbon_Emissions_from_Fossil,Oceania
+0.109,0.058,0.06,2046,Carbon_Emissions_from_Fossil,Oceania
+0.108,0.054,0.056,2047,Carbon_Emissions_from_Fossil,Oceania
+0.108,0.052,0.053,2048,Carbon_Emissions_from_Fossil,Oceania
+0.107,0.048,0.049,2049,Carbon_Emissions_from_Fossil,Oceania
+0.107,0.046,0.048,2050,Carbon_Emissions_from_Fossil,Oceania
+0.107,0.043,0.044,2051,Carbon_Emissions_from_Fossil,Oceania
+0.106,0.041,0.042,2052,Carbon_Emissions_from_Fossil,Oceania
+0.105,0.039,0.04,2053,Carbon_Emissions_from_Fossil,Oceania
+0.104,0.036,0.037,2054,Carbon_Emissions_from_Fossil,Oceania
+0.103,0.034,0.035,2055,Carbon_Emissions_from_Fossil,Oceania
+0.102,0.032,0.032,2056,Carbon_Emissions_from_Fossil,Oceania
+0.101,0.03,0.03,2057,Carbon_Emissions_from_Fossil,Oceania
+0.099,0.027,0.027,2058,Carbon_Emissions_from_Fossil,Oceania
+0.098,0.026,0.025,2059,Carbon_Emissions_from_Fossil,Oceania
+0.097,0.023,0.023,2060,Carbon_Emissions_from_Fossil,Oceania
+0.22,0.22,0.22,2020,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.236,0.236,0.236,2021,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.247,0.248,0.248,2022,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.26,0.26,0.26,2023,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.271,0.271,0.271,2024,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.284,0.284,0.284,2025,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.298,0.301,0.301,2026,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.311,0.318,0.317,2027,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.324,0.33,0.33,2028,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.336,0.339,0.339,2029,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.348,0.345,0.345,2030,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.36,0.35,0.351,2031,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.372,0.354,0.356,2032,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.385,0.359,0.362,2033,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.399,0.365,0.369,2034,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.415,0.37,0.376,2035,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.432,0.376,0.382,2036,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.451,0.38,0.388,2037,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.469,0.383,0.39,2038,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.485,0.382,0.39,2039,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.5,0.377,0.385,2040,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.515,0.366,0.374,2041,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.53,0.353,0.361,2042,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.545,0.339,0.347,2043,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.561,0.325,0.332,2044,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.576,0.311,0.317,2045,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.593,0.296,0.302,2046,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.61,0.281,0.288,2047,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.627,0.265,0.271,2048,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.641,0.25,0.255,2049,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.658,0.236,0.24,2050,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.674,0.222,0.226,2051,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.689,0.209,0.211,2052,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.703,0.195,0.198,2053,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.715,0.183,0.185,2054,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.726,0.17,0.172,2055,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.737,0.158,0.159,2056,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.747,0.146,0.146,2057,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.757,0.134,0.134,2058,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.766,0.123,0.122,2059,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+0.774,0.112,0.112,2060,Carbon_Emissions_from_Fossil,Sub-Saharan Africa
+4.754,4.754,4.754,2020,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.77,4.77,4.77,2021,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.841,4.841,4.841,2022,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.91,4.91,4.91,2023,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.971,4.971,4.971,2024,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.025,5.025,5.025,2025,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.072,5.067,5.068,2026,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.101,5.036,5.035,2027,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.134,4.943,4.94,2028,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.153,4.783,4.782,2029,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.167,4.59,4.593,2030,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.179,4.378,4.388,2031,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.188,4.163,4.181,2032,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.194,3.94,3.967,2033,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.2,3.716,3.75,2034,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.209,3.512,3.553,2035,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.227,3.312,3.358,2036,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.243,3.119,3.168,2037,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.248,2.909,2.961,2038,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.237,2.695,2.747,2039,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.212,2.474,2.525,2040,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.18,2.256,2.305,2041,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.147,2.036,2.082,2042,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.11,1.839,1.883,2043,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.071,1.658,1.698,2044,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+5.032,1.501,1.539,2045,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.996,1.358,1.394,2046,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.962,1.232,1.267,2047,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.929,1.146,1.177,2048,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.87,1.072,1.109,2049,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.834,1.005,1.039,2050,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.784,0.939,0.977,2051,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.722,0.88,0.915,2052,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.649,0.822,0.862,2053,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.568,0.771,0.807,2054,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.482,0.717,0.755,2055,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.396,0.667,0.698,2056,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.311,0.61,0.638,2057,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.228,0.552,0.579,2058,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.151,0.5,0.524,2059,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+4.074,0.449,0.472,2060,Carbon_Emissions_from_Fossil,Upper Middle Income Countries
+9.085,9.085,9.085,2020,Carbon_Emissions_from_Fossil,World
+9.141,9.141,9.141,2021,Carbon_Emissions_from_Fossil,World
+9.289,9.289,9.289,2022,Carbon_Emissions_from_Fossil,World
+9.472,9.472,9.472,2023,Carbon_Emissions_from_Fossil,World
+9.604,9.604,9.604,2024,Carbon_Emissions_from_Fossil,World
+9.728,9.728,9.728,2025,Carbon_Emissions_from_Fossil,World
+9.86,9.86,9.86,2026,Carbon_Emissions_from_Fossil,World
+9.963,9.888,9.886,2027,Carbon_Emissions_from_Fossil,World
+10.04,9.785,9.778,2028,Carbon_Emissions_from_Fossil,World
+10.09,9.567,9.563,2029,Carbon_Emissions_from_Fossil,World
+10.13,9.277,9.283,2030,Carbon_Emissions_from_Fossil,World
+10.16,8.952,8.974,2031,Carbon_Emissions_from_Fossil,World
+10.2,8.622,8.664,2032,Carbon_Emissions_from_Fossil,World
+10.23,8.283,8.347,2033,Carbon_Emissions_from_Fossil,World
+10.27,7.949,8.035,2034,Carbon_Emissions_from_Fossil,World
+10.32,7.625,7.731,2035,Carbon_Emissions_from_Fossil,World
+10.4,7.305,7.425,2036,Carbon_Emissions_from_Fossil,World
+10.48,6.98,7.11,2037,Carbon_Emissions_from_Fossil,World
+10.53,6.643,6.774,2038,Carbon_Emissions_from_Fossil,World
+10.54,6.27,6.404,2039,Carbon_Emissions_from_Fossil,World
+10.53,5.857,5.987,2040,Carbon_Emissions_from_Fossil,World
+10.5,5.411,5.537,2041,Carbon_Emissions_from_Fossil,World
+10.46,4.966,5.086,2042,Carbon_Emissions_from_Fossil,World
+10.42,4.536,4.649,2043,Carbon_Emissions_from_Fossil,World
+10.37,4.14,4.244,2044,Carbon_Emissions_from_Fossil,World
+10.32,3.782,3.878,2045,Carbon_Emissions_from_Fossil,World
+10.28,3.449,3.54,2046,Carbon_Emissions_from_Fossil,World
+10.23,3.141,3.229,2047,Carbon_Emissions_from_Fossil,World
+10.15,2.859,2.94,2048,Carbon_Emissions_from_Fossil,World
+10.05,2.614,2.694,2049,Carbon_Emissions_from_Fossil,World
+9.973,2.386,2.46,2050,Carbon_Emissions_from_Fossil,World
+9.878,2.172,2.245,2051,Carbon_Emissions_from_Fossil,World
+9.758,1.971,2.038,2052,Carbon_Emissions_from_Fossil,World
+9.619,1.781,1.845,2053,Carbon_Emissions_from_Fossil,World
+9.463,1.6,1.658,2054,Carbon_Emissions_from_Fossil,World
+9.295,1.427,1.48,2055,Carbon_Emissions_from_Fossil,World
+9.119,1.261,1.307,2056,Carbon_Emissions_from_Fossil,World
+8.941,1.105,1.147,2057,Carbon_Emissions_from_Fossil,World
+8.763,0.956,0.994,2058,Carbon_Emissions_from_Fossil,World
+8.59,0.817,0.854,2059,Carbon_Emissions_from_Fossil,World
+8.417,0.689,0.722,2060,Carbon_Emissions_from_Fossil,World

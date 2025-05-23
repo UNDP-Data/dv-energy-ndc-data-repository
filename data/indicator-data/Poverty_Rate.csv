@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+12.71,12.71,12.71,2020,Poverty_Rate,Central & Southern Asia
+11.21,11.21,11.21,2021,Poverty_Rate,Central & Southern Asia
+9.739,9.739,9.739,2022,Poverty_Rate,Central & Southern Asia
+8.82,8.82,8.82,2023,Poverty_Rate,Central & Southern Asia
+8.243,8.243,8.243,2024,Poverty_Rate,Central & Southern Asia
+7.784,7.785,7.397,2025,Poverty_Rate,Central & Southern Asia
+7.31,7.311,6.632,2026,Poverty_Rate,Central & Southern Asia
+6.869,6.872,5.994,2027,Poverty_Rate,Central & Southern Asia
+6.462,6.462,5.446,2028,Poverty_Rate,Central & Southern Asia
+6.008,5.994,4.873,2029,Poverty_Rate,Central & Southern Asia
+5.53,5.492,4.296,2030,Poverty_Rate,Central & Southern Asia
+5.088,5.025,3.775,2031,Poverty_Rate,Central & Southern Asia
+4.74,4.653,3.343,2032,Poverty_Rate,Central & Southern Asia
+4.459,4.355,2.987,2033,Poverty_Rate,Central & Southern Asia
+4.234,4.122,2.707,2034,Poverty_Rate,Central & Southern Asia
+4.036,3.926,2.478,2035,Poverty_Rate,Central & Southern Asia
+3.856,3.755,2.286,2036,Poverty_Rate,Central & Southern Asia
+3.687,3.598,2.123,2037,Poverty_Rate,Central & Southern Asia
+3.525,3.45,2.033,2038,Poverty_Rate,Central & Southern Asia
+3.373,3.309,1.954,2039,Poverty_Rate,Central & Southern Asia
+3.228,3.176,1.874,2040,Poverty_Rate,Central & Southern Asia
+3.093,3.051,1.792,2041,Poverty_Rate,Central & Southern Asia
+2.971,2.938,1.708,2042,Poverty_Rate,Central & Southern Asia
+2.867,2.832,1.626,2043,Poverty_Rate,Central & Southern Asia
+2.772,2.736,1.541,2044,Poverty_Rate,Central & Southern Asia
+2.677,2.643,1.457,2045,Poverty_Rate,Central & Southern Asia
+2.58,2.55,1.374,2046,Poverty_Rate,Central & Southern Asia
+2.479,2.454,1.293,2047,Poverty_Rate,Central & Southern Asia
+2.377,2.354,1.216,2048,Poverty_Rate,Central & Southern Asia
+2.273,2.25,1.138,2049,Poverty_Rate,Central & Southern Asia
+2.168,2.148,1.058,2050,Poverty_Rate,Central & Southern Asia
+2.063,2.045,0.979,2051,Poverty_Rate,Central & Southern Asia
+1.959,1.944,0.9,2052,Poverty_Rate,Central & Southern Asia
+1.857,1.846,0.825,2053,Poverty_Rate,Central & Southern Asia
+1.759,1.754,0.758,2054,Poverty_Rate,Central & Southern Asia
+1.669,1.67,0.699,2055,Poverty_Rate,Central & Southern Asia
+1.589,1.595,0.647,2056,Poverty_Rate,Central & Southern Asia
+1.52,1.529,0.6,2057,Poverty_Rate,Central & Southern Asia
+1.459,1.47,0.558,2058,Poverty_Rate,Central & Southern Asia
+1.408,1.418,0.521,2059,Poverty_Rate,Central & Southern Asia
+1.364,1.371,0.488,2060,Poverty_Rate,Central & Southern Asia
+1.358,1.358,1.358,2020,Poverty_Rate,East & Southeast Asia
+1.335,1.335,1.335,2021,Poverty_Rate,East & Southeast Asia
+1.177,1.177,1.177,2022,Poverty_Rate,East & Southeast Asia
+1.1,1.1,1.1,2023,Poverty_Rate,East & Southeast Asia
+1.027,1.027,1.027,2024,Poverty_Rate,East & Southeast Asia
+0.971,0.971,0.935,2025,Poverty_Rate,East & Southeast Asia
+0.933,0.933,0.871,2026,Poverty_Rate,East & Southeast Asia
+0.908,0.908,0.826,2027,Poverty_Rate,East & Southeast Asia
+0.888,0.888,0.788,2028,Poverty_Rate,East & Southeast Asia
+0.854,0.853,0.741,2029,Poverty_Rate,East & Southeast Asia
+0.809,0.806,0.685,2030,Poverty_Rate,East & Southeast Asia
+0.762,0.758,0.627,2031,Poverty_Rate,East & Southeast Asia
+0.724,0.717,0.574,2032,Poverty_Rate,East & Southeast Asia
+0.692,0.684,0.531,2033,Poverty_Rate,East & Southeast Asia
+0.669,0.661,0.498,2034,Poverty_Rate,East & Southeast Asia
+0.65,0.645,0.471,2035,Poverty_Rate,East & Southeast Asia
+0.63,0.631,0.447,2036,Poverty_Rate,East & Southeast Asia
+0.61,0.616,0.424,2037,Poverty_Rate,East & Southeast Asia
+0.587,0.598,0.405,2038,Poverty_Rate,East & Southeast Asia
+0.561,0.574,0.382,2039,Poverty_Rate,East & Southeast Asia
+0.533,0.545,0.358,2040,Poverty_Rate,East & Southeast Asia
+0.504,0.514,0.334,2041,Poverty_Rate,East & Southeast Asia
+0.474,0.482,0.309,2042,Poverty_Rate,East & Southeast Asia
+0.444,0.449,0.283,2043,Poverty_Rate,East & Southeast Asia
+0.415,0.417,0.257,2044,Poverty_Rate,East & Southeast Asia
+0.385,0.384,0.227,2045,Poverty_Rate,East & Southeast Asia
+0.355,0.351,0.198,2046,Poverty_Rate,East & Southeast Asia
+0.326,0.319,0.171,2047,Poverty_Rate,East & Southeast Asia
+0.295,0.285,0.148,2048,Poverty_Rate,East & Southeast Asia
+0.265,0.253,0.127,2049,Poverty_Rate,East & Southeast Asia
+0.24,0.225,0.109,2050,Poverty_Rate,East & Southeast Asia
+0.216,0.202,0.093,2051,Poverty_Rate,East & Southeast Asia
+0.195,0.18,0.078,2052,Poverty_Rate,East & Southeast Asia
+0.175,0.162,0.065,2053,Poverty_Rate,East & Southeast Asia
+0.157,0.144,0.053,2054,Poverty_Rate,East & Southeast Asia
+0.141,0.129,0.043,2055,Poverty_Rate,East & Southeast Asia
+0.127,0.116,0.035,2056,Poverty_Rate,East & Southeast Asia
+0.114,0.104,0.028,2057,Poverty_Rate,East & Southeast Asia
+0.103,0.093,0.022,2058,Poverty_Rate,East & Southeast Asia
+0.094,0.085,0.018,2059,Poverty_Rate,East & Southeast Asia
+0.086,0.077,0.014,2060,Poverty_Rate,East & Southeast Asia
+0.281,0.281,0.281,2020,Poverty_Rate,Europe & North America
+0.25,0.25,0.25,2021,Poverty_Rate,Europe & North America
+0.225,0.225,0.225,2022,Poverty_Rate,Europe & North America
+0.251,0.251,0.251,2023,Poverty_Rate,Europe & North America
+0.248,0.248,0.248,2024,Poverty_Rate,Europe & North America
+0.23,0.23,0.201,2025,Poverty_Rate,Europe & North America
+0.214,0.214,0.163,2026,Poverty_Rate,Europe & North America
+0.197,0.197,0.135,2027,Poverty_Rate,Europe & North America
+0.188,0.188,0.116,2028,Poverty_Rate,Europe & North America
+0.174,0.174,0.097,2029,Poverty_Rate,Europe & North America
+0.158,0.158,0.079,2030,Poverty_Rate,Europe & North America
+0.143,0.143,0.063,2031,Poverty_Rate,Europe & North America
+0.131,0.131,0.05,2032,Poverty_Rate,Europe & North America
+0.121,0.121,0.04,2033,Poverty_Rate,Europe & North America
+0.112,0.112,0.031,2034,Poverty_Rate,Europe & North America
+0.104,0.105,0.025,2035,Poverty_Rate,Europe & North America
+0.097,0.098,0.02,2036,Poverty_Rate,Europe & North America
+0.091,0.091,0.016,2037,Poverty_Rate,Europe & North America
+0.085,0.085,0.014,2038,Poverty_Rate,Europe & North America
+0.078,0.078,0.012,2039,Poverty_Rate,Europe & North America
+0.072,0.072,0.011,2040,Poverty_Rate,Europe & North America
+0.066,0.066,0.009,2041,Poverty_Rate,Europe & North America
+0.061,0.06,0.008,2042,Poverty_Rate,Europe & North America
+0.056,0.055,0.007,2043,Poverty_Rate,Europe & North America
+0.052,0.05,0.006,2044,Poverty_Rate,Europe & North America
+0.048,0.046,0.005,2045,Poverty_Rate,Europe & North America
+0.044,0.043,0.004,2046,Poverty_Rate,Europe & North America
+0.041,0.04,0.004,2047,Poverty_Rate,Europe & North America
+0.039,0.037,0.003,2048,Poverty_Rate,Europe & North America
+0.036,0.035,0.003,2049,Poverty_Rate,Europe & North America
+0.034,0.032,0.003,2050,Poverty_Rate,Europe & North America
+0.031,0.03,0.002,2051,Poverty_Rate,Europe & North America
+0.029,0.028,0.002,2052,Poverty_Rate,Europe & North America
+0.027,0.026,0.002,2053,Poverty_Rate,Europe & North America
+0.025,0.024,0.002,2054,Poverty_Rate,Europe & North America
+0.023,0.022,0.001,2055,Poverty_Rate,Europe & North America
+0.021,0.021,0.001,2056,Poverty_Rate,Europe & North America
+0.02,0.019,0.001,2057,Poverty_Rate,Europe & North America
+0.018,0.018,0.001,2058,Poverty_Rate,Europe & North America
+0.016,0.016,0.001,2059,Poverty_Rate,Europe & North America
+0.015,0.015,0.001,2060,Poverty_Rate,Europe & North America
+0.354,0.354,0.354,2020,Poverty_Rate,High Income Countries
+0.304,0.304,0.304,2021,Poverty_Rate,High Income Countries
+0.262,0.262,0.262,2022,Poverty_Rate,High Income Countries
+0.255,0.255,0.255,2023,Poverty_Rate,High Income Countries
+0.257,0.257,0.257,2024,Poverty_Rate,High Income Countries
+0.252,0.252,0.223,2025,Poverty_Rate,High Income Countries
+0.24,0.239,0.189,2026,Poverty_Rate,High Income Countries
+0.221,0.221,0.158,2027,Poverty_Rate,High Income Countries
+0.208,0.208,0.135,2028,Poverty_Rate,High Income Countries
+0.188,0.189,0.111,2029,Poverty_Rate,High Income Countries
+0.168,0.169,0.089,2030,Poverty_Rate,High Income Countries
+0.149,0.15,0.071,2031,Poverty_Rate,High Income Countries
+0.136,0.137,0.056,2032,Poverty_Rate,High Income Countries
+0.125,0.127,0.045,2033,Poverty_Rate,High Income Countries
+0.117,0.118,0.036,2034,Poverty_Rate,High Income Countries
+0.109,0.11,0.029,2035,Poverty_Rate,High Income Countries
+0.103,0.104,0.023,2036,Poverty_Rate,High Income Countries
+0.096,0.097,0.019,2037,Poverty_Rate,High Income Countries
+0.089,0.089,0.016,2038,Poverty_Rate,High Income Countries
+0.082,0.082,0.014,2039,Poverty_Rate,High Income Countries
+0.075,0.075,0.013,2040,Poverty_Rate,High Income Countries
+0.068,0.068,0.011,2041,Poverty_Rate,High Income Countries
+0.062,0.061,0.009,2042,Poverty_Rate,High Income Countries
+0.057,0.056,0.008,2043,Poverty_Rate,High Income Countries
+0.052,0.051,0.006,2044,Poverty_Rate,High Income Countries
+0.048,0.046,0.005,2045,Poverty_Rate,High Income Countries
+0.044,0.043,0.005,2046,Poverty_Rate,High Income Countries
+0.041,0.039,0.004,2047,Poverty_Rate,High Income Countries
+0.038,0.036,0.004,2048,Poverty_Rate,High Income Countries
+0.035,0.033,0.003,2049,Poverty_Rate,High Income Countries
+0.032,0.031,0.003,2050,Poverty_Rate,High Income Countries
+0.03,0.028,0.002,2051,Poverty_Rate,High Income Countries
+0.027,0.026,0.002,2052,Poverty_Rate,High Income Countries
+0.025,0.024,0.002,2053,Poverty_Rate,High Income Countries
+0.023,0.022,0.001,2054,Poverty_Rate,High Income Countries
+0.021,0.02,0.001,2055,Poverty_Rate,High Income Countries
+0.019,0.018,0.001,2056,Poverty_Rate,High Income Countries
+0.017,0.017,0.001,2057,Poverty_Rate,High Income Countries
+0.016,0.016,0.001,2058,Poverty_Rate,High Income Countries
+0.014,0.014,0.001,2059,Poverty_Rate,High Income Countries
+0.013,0.013,0.001,2060,Poverty_Rate,High Income Countries
+4.236,4.236,4.236,2020,Poverty_Rate,Latin America & the Caribbean
+3.925,3.925,3.925,2021,Poverty_Rate,Latin America & the Caribbean
+3.619,3.619,3.619,2022,Poverty_Rate,Latin America & the Caribbean
+3.614,3.614,3.614,2023,Poverty_Rate,Latin America & the Caribbean
+3.662,3.662,3.662,2024,Poverty_Rate,Latin America & the Caribbean
+3.654,3.654,3.527,2025,Poverty_Rate,Latin America & the Caribbean
+3.596,3.595,3.363,2026,Poverty_Rate,Latin America & the Caribbean
+3.477,3.476,3.171,2027,Poverty_Rate,Latin America & the Caribbean
+3.375,3.37,3.004,2028,Poverty_Rate,Latin America & the Caribbean
+3.243,3.229,2.819,2029,Poverty_Rate,Latin America & the Caribbean
+3.1,3.075,2.627,2030,Poverty_Rate,Latin America & the Caribbean
+2.967,2.926,2.439,2031,Poverty_Rate,Latin America & the Caribbean
+2.863,2.806,2.271,2032,Poverty_Rate,Latin America & the Caribbean
+2.782,2.711,2.127,2033,Poverty_Rate,Latin America & the Caribbean
+2.729,2.646,2.014,2034,Poverty_Rate,Latin America & the Caribbean
+2.702,2.609,1.926,2035,Poverty_Rate,Latin America & the Caribbean
+2.695,2.592,1.857,2036,Poverty_Rate,Latin America & the Caribbean
+2.698,2.583,1.801,2037,Poverty_Rate,Latin America & the Caribbean
+2.697,2.571,1.783,2038,Poverty_Rate,Latin America & the Caribbean
+2.682,2.548,1.767,2039,Poverty_Rate,Latin America & the Caribbean
+2.65,2.513,1.745,2040,Poverty_Rate,Latin America & the Caribbean
+2.603,2.463,1.708,2041,Poverty_Rate,Latin America & the Caribbean
+2.549,2.404,1.657,2042,Poverty_Rate,Latin America & the Caribbean
+2.497,2.344,1.6,2043,Poverty_Rate,Latin America & the Caribbean
+2.455,2.294,1.543,2044,Poverty_Rate,Latin America & the Caribbean
+2.426,2.254,1.492,2045,Poverty_Rate,Latin America & the Caribbean
+2.393,2.22,1.445,2046,Poverty_Rate,Latin America & the Caribbean
+2.337,2.184,1.397,2047,Poverty_Rate,Latin America & the Caribbean
+2.281,2.13,1.34,2048,Poverty_Rate,Latin America & the Caribbean
+2.222,2.052,1.269,2049,Poverty_Rate,Latin America & the Caribbean
+2.16,1.956,1.188,2050,Poverty_Rate,Latin America & the Caribbean
+2.095,1.846,1.099,2051,Poverty_Rate,Latin America & the Caribbean
+2.028,1.729,1.009,2052,Poverty_Rate,Latin America & the Caribbean
+1.913,1.612,0.922,2053,Poverty_Rate,Latin America & the Caribbean
+1.772,1.5,0.843,2054,Poverty_Rate,Latin America & the Caribbean
+1.631,1.397,0.773,2055,Poverty_Rate,Latin America & the Caribbean
+1.507,1.306,0.709,2056,Poverty_Rate,Latin America & the Caribbean
+1.402,1.225,0.652,2057,Poverty_Rate,Latin America & the Caribbean
+1.314,1.151,0.6,2058,Poverty_Rate,Latin America & the Caribbean
+1.236,1.084,0.552,2059,Poverty_Rate,Latin America & the Caribbean
+1.164,1.022,0.509,2060,Poverty_Rate,Latin America & the Caribbean
+40.48,40.48,40.48,2020,Poverty_Rate,Low Income Countries
+41.44,41.44,41.44,2021,Poverty_Rate,Low Income Countries
+40.72,40.72,40.72,2022,Poverty_Rate,Low Income Countries
+41.35,41.35,41.35,2023,Poverty_Rate,Low Income Countries
+41.68,41.68,41.68,2024,Poverty_Rate,Low Income Countries
+41.67,41.67,41.32,2025,Poverty_Rate,Low Income Countries
+41.41,41.41,40.8,2026,Poverty_Rate,Low Income Countries
+40.91,40.92,40.04,2027,Poverty_Rate,Low Income Countries
+40.06,40.07,39,2028,Poverty_Rate,Low Income Countries
+39.28,39.29,38.05,2029,Poverty_Rate,Low Income Countries
+38.47,38.46,37.04,2030,Poverty_Rate,Low Income Countries
+37.63,37.57,35.89,2031,Poverty_Rate,Low Income Countries
+36.87,36.75,34.71,2032,Poverty_Rate,Low Income Countries
+36.21,36,33.5,2033,Poverty_Rate,Low Income Countries
+35.55,35.28,32.28,2034,Poverty_Rate,Low Income Countries
+34.87,34.56,31.03,2035,Poverty_Rate,Low Income Countries
+34.16,33.87,29.77,2036,Poverty_Rate,Low Income Countries
+33.45,33.15,28.55,2037,Poverty_Rate,Low Income Countries
+32.75,32.41,27.54,2038,Poverty_Rate,Low Income Countries
+32.02,31.62,26.5,2039,Poverty_Rate,Low Income Countries
+31.28,30.79,25.41,2040,Poverty_Rate,Low Income Countries
+30.48,29.89,24.25,2041,Poverty_Rate,Low Income Countries
+29.62,28.87,23.01,2042,Poverty_Rate,Low Income Countries
+28.66,27.78,21.75,2043,Poverty_Rate,Low Income Countries
+27.65,26.69,20.47,2044,Poverty_Rate,Low Income Countries
+26.63,25.59,19.25,2045,Poverty_Rate,Low Income Countries
+25.6,24.48,18.09,2046,Poverty_Rate,Low Income Countries
+24.56,23.42,17.01,2047,Poverty_Rate,Low Income Countries
+23.53,22.35,16.02,2048,Poverty_Rate,Low Income Countries
+22.52,21.33,15.04,2049,Poverty_Rate,Low Income Countries
+21.55,20.35,14.12,2050,Poverty_Rate,Low Income Countries
+20.59,19.39,13.23,2051,Poverty_Rate,Low Income Countries
+19.66,18.47,12.41,2052,Poverty_Rate,Low Income Countries
+18.78,17.6,11.65,2053,Poverty_Rate,Low Income Countries
+17.93,16.75,10.92,2054,Poverty_Rate,Low Income Countries
+17.11,15.95,10.22,2055,Poverty_Rate,Low Income Countries
+16.32,15.17,9.57,2056,Poverty_Rate,Low Income Countries
+15.57,14.45,8.957,2057,Poverty_Rate,Low Income Countries
+14.86,13.75,8.408,2058,Poverty_Rate,Low Income Countries
+14.2,13.11,7.896,2059,Poverty_Rate,Low Income Countries
+13.54,12.47,7.423,2060,Poverty_Rate,Low Income Countries
+14.5,14.5,14.5,2020,Poverty_Rate,Low Middle Income Countries
+13.33,13.33,13.33,2021,Poverty_Rate,Low Middle Income Countries
+12.09,12.09,12.09,2022,Poverty_Rate,Low Middle Income Countries
+11.44,11.44,11.44,2023,Poverty_Rate,Low Middle Income Countries
+10.99,10.99,10.99,2024,Poverty_Rate,Low Middle Income Countries
+10.55,10.55,10.22,2025,Poverty_Rate,Low Middle Income Countries
+10.09,10.09,9.518,2026,Poverty_Rate,Low Middle Income Countries
+9.627,9.63,8.891,2027,Poverty_Rate,Low Middle Income Countries
+9.218,9.219,8.351,2028,Poverty_Rate,Low Middle Income Countries
+8.783,8.771,7.799,2029,Poverty_Rate,Low Middle Income Countries
+8.332,8.296,7.237,2030,Poverty_Rate,Low Middle Income Countries
+7.908,7.842,6.705,2031,Poverty_Rate,Low Middle Income Countries
+7.549,7.451,6.215,2032,Poverty_Rate,Low Middle Income Countries
+7.233,7.107,5.777,2033,Poverty_Rate,Low Middle Income Countries
+6.958,6.812,5.388,2034,Poverty_Rate,Low Middle Income Countries
+6.709,6.554,5.047,2035,Poverty_Rate,Low Middle Income Countries
+6.478,6.324,4.745,2036,Poverty_Rate,Low Middle Income Countries
+6.258,6.112,4.473,2037,Poverty_Rate,Low Middle Income Countries
+6.048,5.911,4.293,2038,Poverty_Rate,Low Middle Income Countries
+5.844,5.717,4.131,2039,Poverty_Rate,Low Middle Income Countries
+5.646,5.531,3.976,2040,Poverty_Rate,Low Middle Income Countries
+5.457,5.352,3.822,2041,Poverty_Rate,Low Middle Income Countries
+5.282,5.184,3.669,2042,Poverty_Rate,Low Middle Income Countries
+5.122,5.021,3.518,2043,Poverty_Rate,Low Middle Income Countries
+4.977,4.878,3.374,2044,Poverty_Rate,Low Middle Income Countries
+4.846,4.747,3.238,2045,Poverty_Rate,Low Middle Income Countries
+4.723,4.628,3.114,2046,Poverty_Rate,Low Middle Income Countries
+4.611,4.521,2.998,2047,Poverty_Rate,Low Middle Income Countries
+4.506,4.419,2.887,2048,Poverty_Rate,Low Middle Income Countries
+4.411,4.323,2.78,2049,Poverty_Rate,Low Middle Income Countries
+4.322,4.234,2.673,2050,Poverty_Rate,Low Middle Income Countries
+4.231,4.151,2.568,2051,Poverty_Rate,Low Middle Income Countries
+4.14,4.076,2.467,2052,Poverty_Rate,Low Middle Income Countries
+4.045,4.006,2.37,2053,Poverty_Rate,Low Middle Income Countries
+3.952,3.936,2.272,2054,Poverty_Rate,Low Middle Income Countries
+3.857,3.864,2.173,2055,Poverty_Rate,Low Middle Income Countries
+3.762,3.791,2.069,2056,Poverty_Rate,Low Middle Income Countries
+3.664,3.7,1.962,2057,Poverty_Rate,Low Middle Income Countries
+3.562,3.572,1.832,2058,Poverty_Rate,Low Middle Income Countries
+3.426,3.389,1.681,2059,Poverty_Rate,Low Middle Income Countries
+3.251,3.181,1.516,2060,Poverty_Rate,Low Middle Income Countries
+9.08,9.08,9.08,2020,Poverty_Rate,North Africa & West Asia
+9.699,9.699,9.699,2021,Poverty_Rate,North Africa & West Asia
+9.834,9.834,9.834,2022,Poverty_Rate,North Africa & West Asia
+11.07,11.07,11.07,2023,Poverty_Rate,North Africa & West Asia
+11.76,11.76,11.76,2024,Poverty_Rate,North Africa & West Asia
+11.9,11.9,11.84,2025,Poverty_Rate,North Africa & West Asia
+11.7,11.7,11.63,2026,Poverty_Rate,North Africa & West Asia
+11.66,11.67,11.53,2027,Poverty_Rate,North Africa & West Asia
+11.41,11.42,11.25,2028,Poverty_Rate,North Africa & West Asia
+11.38,11.4,11.2,2029,Poverty_Rate,North Africa & West Asia
+11.37,11.38,11.15,2030,Poverty_Rate,North Africa & West Asia
+11.27,11.27,10.99,2031,Poverty_Rate,North Africa & West Asia
+11.16,11.12,10.79,2032,Poverty_Rate,North Africa & West Asia
+11.03,10.97,10.58,2033,Poverty_Rate,North Africa & West Asia
+10.9,10.82,10.38,2034,Poverty_Rate,North Africa & West Asia
+10.77,10.66,10.17,2035,Poverty_Rate,North Africa & West Asia
+10.65,10.53,9.983,2036,Poverty_Rate,North Africa & West Asia
+10.53,10.4,9.793,2037,Poverty_Rate,North Africa & West Asia
+10.4,10.28,9.606,2038,Poverty_Rate,North Africa & West Asia
+10.27,10.15,9.429,2039,Poverty_Rate,North Africa & West Asia
+10.14,10.03,9.254,2040,Poverty_Rate,North Africa & West Asia
+9.988,9.887,9.078,2041,Poverty_Rate,North Africa & West Asia
+9.831,9.738,8.884,2042,Poverty_Rate,North Africa & West Asia
+9.659,9.572,8.675,2043,Poverty_Rate,North Africa & West Asia
+9.47,9.392,8.477,2044,Poverty_Rate,North Africa & West Asia
+9.275,9.215,8.289,2045,Poverty_Rate,North Africa & West Asia
+9.102,9.035,8.119,2046,Poverty_Rate,North Africa & West Asia
+8.938,8.87,7.958,2047,Poverty_Rate,North Africa & West Asia
+8.766,8.71,7.788,2048,Poverty_Rate,North Africa & West Asia
+8.582,8.546,7.619,2049,Poverty_Rate,North Africa & West Asia
+8.385,8.373,7.457,2050,Poverty_Rate,North Africa & West Asia
+8.206,8.207,7.308,2051,Poverty_Rate,North Africa & West Asia
+8.025,8.053,7.155,2052,Poverty_Rate,North Africa & West Asia
+7.839,7.89,6.988,2053,Poverty_Rate,North Africa & West Asia
+7.653,7.718,6.815,2054,Poverty_Rate,North Africa & West Asia
+7.47,7.544,6.639,2055,Poverty_Rate,North Africa & West Asia
+7.295,7.375,6.468,2056,Poverty_Rate,North Africa & West Asia
+7.14,7.216,6.313,2057,Poverty_Rate,North Africa & West Asia
+7.003,7.061,6.182,2058,Poverty_Rate,North Africa & West Asia
+6.88,6.912,6.073,2059,Poverty_Rate,North Africa & West Asia
+6.767,6.764,5.979,2060,Poverty_Rate,North Africa & West Asia
+8.606,8.606,8.606,2020,Poverty_Rate,Oceania
+8.934,8.934,8.934,2021,Poverty_Rate,Oceania
+8.502,8.502,8.502,2022,Poverty_Rate,Oceania
+8.237,8.237,8.237,2023,Poverty_Rate,Oceania
+7.864,7.864,7.864,2024,Poverty_Rate,Oceania
+7.578,7.578,7.488,2025,Poverty_Rate,Oceania
+7.363,7.363,7.206,2026,Poverty_Rate,Oceania
+7.132,7.134,6.915,2027,Poverty_Rate,Oceania
+6.932,6.939,6.674,2028,Poverty_Rate,Oceania
+6.667,6.678,6.387,2029,Poverty_Rate,Oceania
+6.332,6.347,6.039,2030,Poverty_Rate,Oceania
+5.967,5.984,5.664,2031,Poverty_Rate,Oceania
+5.636,5.655,5.299,2032,Poverty_Rate,Oceania
+5.354,5.374,4.96,2033,Poverty_Rate,Oceania
+5.135,5.147,4.664,2034,Poverty_Rate,Oceania
+4.971,4.972,4.42,2035,Poverty_Rate,Oceania
+4.845,4.843,4.222,2036,Poverty_Rate,Oceania
+4.723,4.72,4.043,2037,Poverty_Rate,Oceania
+4.601,4.597,3.921,2038,Poverty_Rate,Oceania
+4.465,4.459,3.813,2039,Poverty_Rate,Oceania
+4.321,4.309,3.69,2040,Poverty_Rate,Oceania
+4.17,4.15,3.547,2041,Poverty_Rate,Oceania
+4.018,3.99,3.381,2042,Poverty_Rate,Oceania
+3.867,3.83,3.199,2043,Poverty_Rate,Oceania
+3.714,3.671,3.012,2044,Poverty_Rate,Oceania
+3.559,3.51,2.821,2045,Poverty_Rate,Oceania
+3.403,3.351,2.635,2046,Poverty_Rate,Oceania
+3.243,3.187,2.442,2047,Poverty_Rate,Oceania
+3.079,3.018,2.243,2048,Poverty_Rate,Oceania
+2.915,2.85,2.042,2049,Poverty_Rate,Oceania
+2.757,2.691,1.844,2050,Poverty_Rate,Oceania
+2.6,2.538,1.654,2051,Poverty_Rate,Oceania
+2.447,2.393,1.468,2052,Poverty_Rate,Oceania
+2.309,2.255,1.3,2053,Poverty_Rate,Oceania
+2.182,2.126,1.147,2054,Poverty_Rate,Oceania
+2.063,2.004,1.011,2055,Poverty_Rate,Oceania
+1.951,1.89,0.89,2056,Poverty_Rate,Oceania
+1.846,1.781,0.782,2057,Poverty_Rate,Oceania
+1.75,1.673,0.686,2058,Poverty_Rate,Oceania
+1.664,1.568,0.601,2059,Poverty_Rate,Oceania
+1.582,1.464,0.527,2060,Poverty_Rate,Oceania
+35.91,35.91,35.91,2020,Poverty_Rate,Sub-Saharan Africa
+35.61,35.61,35.61,2021,Poverty_Rate,Sub-Saharan Africa
+34.51,34.51,34.51,2022,Poverty_Rate,Sub-Saharan Africa
+34.22,34.22,34.22,2023,Poverty_Rate,Sub-Saharan Africa
+33.97,33.97,33.97,2024,Poverty_Rate,Sub-Saharan Africa
+33.6,33.6,33.26,2025,Poverty_Rate,Sub-Saharan Africa
+33.15,33.15,32.54,2026,Poverty_Rate,Sub-Saharan Africa
+32.42,32.42,31.59,2027,Poverty_Rate,Sub-Saharan Africa
+31.62,31.62,30.6,2028,Poverty_Rate,Sub-Saharan Africa
+30.8,30.79,29.59,2029,Poverty_Rate,Sub-Saharan Africa
+29.97,29.93,28.54,2030,Poverty_Rate,Sub-Saharan Africa
+29.17,29.08,27.45,2031,Poverty_Rate,Sub-Saharan Africa
+28.43,28.27,26.31,2032,Poverty_Rate,Sub-Saharan Africa
+27.74,27.5,25.15,2033,Poverty_Rate,Sub-Saharan Africa
+27.06,26.74,23.97,2034,Poverty_Rate,Sub-Saharan Africa
+26.37,26.02,22.81,2035,Poverty_Rate,Sub-Saharan Africa
+25.69,25.34,21.68,2036,Poverty_Rate,Sub-Saharan Africa
+25.02,24.66,20.6,2037,Poverty_Rate,Sub-Saharan Africa
+24.37,23.99,19.76,2038,Poverty_Rate,Sub-Saharan Africa
+23.73,23.31,18.93,2039,Poverty_Rate,Sub-Saharan Africa
+23.08,22.61,18.09,2040,Poverty_Rate,Sub-Saharan Africa
+22.41,21.88,17.21,2041,Poverty_Rate,Sub-Saharan Africa
+21.73,21.1,16.3,2042,Poverty_Rate,Sub-Saharan Africa
+20.99,20.28,15.38,2043,Poverty_Rate,Sub-Saharan Africa
+20.25,19.49,14.47,2044,Poverty_Rate,Sub-Saharan Africa
+19.54,18.72,13.61,2045,Poverty_Rate,Sub-Saharan Africa
+18.82,17.97,12.81,2046,Poverty_Rate,Sub-Saharan Africa
+18.12,17.27,12.07,2047,Poverty_Rate,Sub-Saharan Africa
+17.45,16.57,11.38,2048,Poverty_Rate,Sub-Saharan Africa
+16.81,15.92,10.71,2049,Poverty_Rate,Sub-Saharan Africa
+16.22,15.31,10.08,2050,Poverty_Rate,Sub-Saharan Africa
+15.61,14.71,9.468,2051,Poverty_Rate,Sub-Saharan Africa
+15.03,14.15,8.903,2052,Poverty_Rate,Sub-Saharan Africa
+14.46,13.62,8.386,2053,Poverty_Rate,Sub-Saharan Africa
+13.91,13.11,7.876,2054,Poverty_Rate,Sub-Saharan Africa
+13.37,12.61,7.376,2055,Poverty_Rate,Sub-Saharan Africa
+12.83,12.11,6.89,2056,Poverty_Rate,Sub-Saharan Africa
+12.29,11.6,6.412,2057,Poverty_Rate,Sub-Saharan Africa
+11.76,11.04,5.923,2058,Poverty_Rate,Sub-Saharan Africa
+11.2,10.41,5.412,2059,Poverty_Rate,Sub-Saharan Africa
+10.55,9.742,4.893,2060,Poverty_Rate,Sub-Saharan Africa
+1.723,1.723,1.723,2020,Poverty_Rate,Upper Middle Income Countries
+1.605,1.605,1.605,2021,Poverty_Rate,Upper Middle Income Countries
+1.459,1.459,1.459,2022,Poverty_Rate,Upper Middle Income Countries
+1.413,1.413,1.413,2023,Poverty_Rate,Upper Middle Income Countries
+1.387,1.387,1.387,2024,Poverty_Rate,Upper Middle Income Countries
+1.36,1.36,1.307,2025,Poverty_Rate,Upper Middle Income Countries
+1.324,1.324,1.231,2026,Poverty_Rate,Upper Middle Income Countries
+1.282,1.281,1.161,2027,Poverty_Rate,Upper Middle Income Countries
+1.248,1.246,1.102,2028,Poverty_Rate,Upper Middle Income Countries
+1.205,1.199,1.037,2029,Poverty_Rate,Upper Middle Income Countries
+1.157,1.147,0.969,2030,Poverty_Rate,Upper Middle Income Countries
+1.111,1.096,0.902,2031,Poverty_Rate,Upper Middle Income Countries
+1.074,1.053,0.841,2032,Poverty_Rate,Upper Middle Income Countries
+1.043,1.017,0.787,2033,Poverty_Rate,Upper Middle Income Countries
+1.019,0.989,0.741,2034,Poverty_Rate,Upper Middle Income Countries
+1.003,0.969,0.704,2035,Poverty_Rate,Upper Middle Income Countries
+0.991,0.956,0.673,2036,Poverty_Rate,Upper Middle Income Countries
+0.983,0.945,0.647,2037,Poverty_Rate,Upper Middle Income Countries
+0.976,0.935,0.637,2038,Poverty_Rate,Upper Middle Income Countries
+0.967,0.924,0.628,2039,Poverty_Rate,Upper Middle Income Countries
+0.955,0.91,0.618,2040,Poverty_Rate,Upper Middle Income Countries
+0.94,0.892,0.604,2041,Poverty_Rate,Upper Middle Income Countries
+0.923,0.872,0.585,2042,Poverty_Rate,Upper Middle Income Countries
+0.906,0.852,0.564,2043,Poverty_Rate,Upper Middle Income Countries
+0.891,0.833,0.543,2044,Poverty_Rate,Upper Middle Income Countries
+0.879,0.817,0.524,2045,Poverty_Rate,Upper Middle Income Countries
+0.864,0.802,0.505,2046,Poverty_Rate,Upper Middle Income Countries
+0.844,0.785,0.485,2047,Poverty_Rate,Upper Middle Income Countries
+0.823,0.764,0.464,2048,Poverty_Rate,Upper Middle Income Countries
+0.802,0.737,0.439,2049,Poverty_Rate,Upper Middle Income Countries
+0.781,0.707,0.413,2050,Poverty_Rate,Upper Middle Income Countries
+0.759,0.673,0.385,2051,Poverty_Rate,Upper Middle Income Countries
+0.737,0.637,0.356,2052,Poverty_Rate,Upper Middle Income Countries
+0.703,0.603,0.33,2053,Poverty_Rate,Upper Middle Income Countries
+0.664,0.571,0.305,2054,Poverty_Rate,Upper Middle Income Countries
+0.626,0.542,0.283,2055,Poverty_Rate,Upper Middle Income Countries
+0.592,0.517,0.264,2056,Poverty_Rate,Upper Middle Income Countries
+0.563,0.494,0.246,2057,Poverty_Rate,Upper Middle Income Countries
+0.538,0.473,0.23,2058,Poverty_Rate,Upper Middle Income Countries
+0.516,0.454,0.216,2059,Poverty_Rate,Upper Middle Income Countries
+0.497,0.437,0.202,2060,Poverty_Rate,Upper Middle Income Countries
+9.856,9.856,9.856,2020,Poverty_Rate,World
+9.525,9.525,9.525,2021,Poverty_Rate,World
+9.008,9.008,9.008,2022,Poverty_Rate,World
+8.886,8.886,8.886,2023,Poverty_Rate,World
+8.823,8.823,8.823,2024,Poverty_Rate,World
+8.732,8.732,8.548,2025,Poverty_Rate,World
+8.602,8.602,8.278,2026,Poverty_Rate,World
+8.444,8.445,8.013,2027,Poverty_Rate,World
+8.268,8.269,7.753,2028,Poverty_Rate,World
+8.081,8.076,7.491,2029,Poverty_Rate,World
+7.88,7.862,7.212,2030,Poverty_Rate,World
+7.683,7.645,6.926,2031,Poverty_Rate,World
+7.521,7.461,6.65,2032,Poverty_Rate,World
+7.385,7.302,6.389,2033,Poverty_Rate,World
+7.266,7.166,6.144,2034,Poverty_Rate,World
+7.155,7.045,5.913,2035,Poverty_Rate,World
+7.046,6.937,5.693,2036,Poverty_Rate,World
+6.94,6.831,5.486,2037,Poverty_Rate,World
+6.835,6.724,5.342,2038,Poverty_Rate,World
+6.726,6.611,5.198,2039,Poverty_Rate,World
+6.613,6.49,5.045,2040,Poverty_Rate,World
+6.492,6.358,4.878,2041,Poverty_Rate,World
+6.366,6.21,4.694,2042,Poverty_Rate,World
+6.227,6.052,4.503,2043,Poverty_Rate,World
+6.086,5.896,4.307,2044,Poverty_Rate,World
+5.946,5.742,4.118,2045,Poverty_Rate,World
+5.802,5.587,3.938,2046,Poverty_Rate,World
+5.656,5.439,3.767,2047,Poverty_Rate,World
+5.509,5.286,3.606,2048,Poverty_Rate,World
+5.366,5.136,3.443,2049,Poverty_Rate,World
+5.227,4.99,3.285,2050,Poverty_Rate,World
+5.084,4.844,3.129,2051,Poverty_Rate,World
+4.942,4.705,2.981,2052,Poverty_Rate,World
+4.798,4.57,2.841,2053,Poverty_Rate,World
+4.655,4.437,2.702,2054,Poverty_Rate,World
+4.512,4.307,2.566,2055,Poverty_Rate,World
+4.372,4.178,2.434,2056,Poverty_Rate,World
+4.234,4.05,2.304,2057,Poverty_Rate,World
+4.1,3.904,2.173,2058,Poverty_Rate,World
+3.958,3.744,2.037,2059,Poverty_Rate,World
+3.796,3.568,1.9,2060,Poverty_Rate,World

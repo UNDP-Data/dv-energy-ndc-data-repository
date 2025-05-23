@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+473.6,473.6,473.6,2020,Renewable_Production,Central & Southern Asia
+495.7,495.7,495.7,2021,Renewable_Production,Central & Southern Asia
+538.9,538.9,538.9,2022,Renewable_Production,Central & Southern Asia
+595.8,595.8,595.8,2023,Renewable_Production,Central & Southern Asia
+656,656,656,2024,Renewable_Production,Central & Southern Asia
+721.5,721.5,721.5,2025,Renewable_Production,Central & Southern Asia
+792.5,805.7,805.7,2026,Renewable_Production,Central & Southern Asia
+868.5,916.8,916.1,2027,Renewable_Production,Central & Southern Asia
+952.1,1060,1058,2028,Renewable_Production,Central & Southern Asia
+1042,1233,1231,2029,Renewable_Production,Central & Southern Asia
+1138,1447,1447,2030,Renewable_Production,Central & Southern Asia
+1247,1678,1686,2031,Renewable_Production,Central & Southern Asia
+1373,1942,1966,2032,Renewable_Production,Central & Southern Asia
+1519,2255,2303,2033,Renewable_Production,Central & Southern Asia
+1692,2632,2715,2034,Renewable_Production,Central & Southern Asia
+1897,3092,3225,2035,Renewable_Production,Central & Southern Asia
+2140,3644,3843,2036,Renewable_Production,Central & Southern Asia
+2420,4293,4576,2037,Renewable_Production,Central & Southern Asia
+2734,5024,5397,2038,Renewable_Production,Central & Southern Asia
+3070,5793,6259,2039,Renewable_Production,Central & Southern Asia
+3418,6554,7107,2040,Renewable_Production,Central & Southern Asia
+3778,7278,7912,2041,Renewable_Production,Central & Southern Asia
+4156,7993,8710,2042,Renewable_Production,Central & Southern Asia
+4560,8719,9525,2043,Renewable_Production,Central & Southern Asia
+5000,9479,10384,2044,Renewable_Production,Central & Southern Asia
+5488,10287,11304,2045,Renewable_Production,Central & Southern Asia
+6033,11149,12292,2046,Renewable_Production,Central & Southern Asia
+6641,12073,13351,2047,Renewable_Production,Central & Southern Asia
+7743,13052,14458,2048,Renewable_Production,Central & Southern Asia
+8384,14177,15793,2049,Renewable_Production,Central & Southern Asia
+9501,15487,17319,2050,Renewable_Production,Central & Southern Asia
+10582,16831,18950,2051,Renewable_Production,Central & Southern Asia
+11546,18321,20710,2052,Renewable_Production,Central & Southern Asia
+12411,19905,22622,2053,Renewable_Production,Central & Southern Asia
+13282,21551,24554,2054,Renewable_Production,Central & Southern Asia
+14170,23173,26405,2055,Renewable_Production,Central & Southern Asia
+15087,24676,28076,2056,Renewable_Production,Central & Southern Asia
+16049,26061,29024,2057,Renewable_Production,Central & Southern Asia
+17054,26564,30272,2058,Renewable_Production,Central & Southern Asia
+18113,27735,31104,2059,Renewable_Production,Central & Southern Asia
+19233,28126,32276,2060,Renewable_Production,Central & Southern Asia
+3369,3369,3369,2020,Renewable_Production,East & Southeast Asia
+3582,3582,3582,2021,Renewable_Production,East & Southeast Asia
+3866,3866,3866,2022,Renewable_Production,East & Southeast Asia
+4184,4184,4184,2023,Renewable_Production,East & Southeast Asia
+4496,4496,4496,2024,Renewable_Production,East & Southeast Asia
+4835,4835,4835,2025,Renewable_Production,East & Southeast Asia
+5193,5298,5298,2026,Renewable_Production,East & Southeast Asia
+5548,6276,6270,2027,Renewable_Production,East & Southeast Asia
+5890,7635,7612,2028,Renewable_Production,East & Southeast Asia
+6238,9257,9227,2029,Renewable_Production,East & Southeast Asia
+6607,10937,10923,2030,Renewable_Production,East & Southeast Asia
+7009,12698,12735,2031,Renewable_Production,East & Southeast Asia
+7462,14590,14720,2032,Renewable_Production,East & Southeast Asia
+7975,16695,16964,2033,Renewable_Production,East & Southeast Asia
+8561,19079,19537,2034,Renewable_Production,East & Southeast Asia
+9233,21808,22508,2035,Renewable_Production,East & Southeast Asia
+10033,24907,25897,2036,Renewable_Production,East & Southeast Asia
+11031,28373,29685,2037,Renewable_Production,East & Southeast Asia
+11980,30526,31795,2038,Renewable_Production,East & Southeast Asia
+12789,32998,34688,2039,Renewable_Production,East & Southeast Asia
+13671,35113,36860,2040,Renewable_Production,East & Southeast Asia
+14568,35602,37569,2041,Renewable_Production,East & Southeast Asia
+15399,37330,39408,2042,Renewable_Production,East & Southeast Asia
+16245,38294,40592,2043,Renewable_Production,East & Southeast Asia
+17190,40013,42467,2044,Renewable_Production,East & Southeast Asia
+18257,41135,43804,2045,Renewable_Production,East & Southeast Asia
+19439,42496,45287,2046,Renewable_Production,East & Southeast Asia
+20715,43060,46133,2047,Renewable_Production,East & Southeast Asia
+22053,43751,46934,2048,Renewable_Production,East & Southeast Asia
+23418,45330,48976,2049,Renewable_Production,East & Southeast Asia
+24793,46725,50585,2050,Renewable_Production,East & Southeast Asia
+26197,47745,52086,2051,Renewable_Production,East & Southeast Asia
+27582,48881,53476,2052,Renewable_Production,East & Southeast Asia
+28929,49858,54864,2053,Renewable_Production,East & Southeast Asia
+30246,50902,56091,2054,Renewable_Production,East & Southeast Asia
+31556,51612,57151,2055,Renewable_Production,East & Southeast Asia
+32885,52405,58006,2056,Renewable_Production,East & Southeast Asia
+34258,52876,58851,2057,Renewable_Production,East & Southeast Asia
+35697,53279,59249,2058,Renewable_Production,East & Southeast Asia
+37214,53405,59722,2059,Renewable_Production,East & Southeast Asia
+38495,53604,59982,2060,Renewable_Production,East & Southeast Asia
+3458,3458,3458,2020,Renewable_Production,Europe & North America
+3581,3581,3581,2021,Renewable_Production,Europe & North America
+3781,3781,3781,2022,Renewable_Production,Europe & North America
+3975,3975,3975,2023,Renewable_Production,Europe & North America
+4227,4227,4227,2024,Renewable_Production,Europe & North America
+4521,4521,4521,2025,Renewable_Production,Europe & North America
+4828,4903,4903,2026,Renewable_Production,Europe & North America
+5140,5380,5378,2027,Renewable_Production,Europe & North America
+5444,5888,5879,2028,Renewable_Production,Europe & North America
+5730,6460,6451,2029,Renewable_Production,Europe & North America
+6014,7125,7125,2030,Renewable_Production,Europe & North America
+6318,7805,7833,2031,Renewable_Production,Europe & North America
+6643,8551,8629,2032,Renewable_Production,Europe & North America
+6999,9394,9546,2033,Renewable_Production,Europe & North America
+7393,10362,10615,2034,Renewable_Production,Europe & North America
+7825,11566,11956,2035,Renewable_Production,Europe & North America
+8314,12888,13444,2036,Renewable_Production,Europe & North America
+8842,14436,15186,2037,Renewable_Production,Europe & North America
+9396,16069,17014,2038,Renewable_Production,Europe & North America
+9929,17730,18858,2039,Renewable_Production,Europe & North America
+10458,19274,20567,2040,Renewable_Production,Europe & North America
+10984,20687,22117,2041,Renewable_Production,Europe & North America
+11525,22048,23618,2042,Renewable_Production,Europe & North America
+12089,23362,25084,2043,Renewable_Production,Europe & North America
+12702,24627,26517,2044,Renewable_Production,Europe & North America
+13361,25832,27871,2045,Renewable_Production,Europe & North America
+14098,26911,29103,2046,Renewable_Production,Europe & North America
+14900,27915,30262,2047,Renewable_Production,Europe & North America
+15765,28620,30601,2048,Renewable_Production,Europe & North America
+16667,29230,31684,2049,Renewable_Production,Europe & North America
+17605,29925,32109,2050,Renewable_Production,Europe & North America
+18539,30435,33077,2051,Renewable_Production,Europe & North America
+19468,31085,33488,2052,Renewable_Production,Europe & North America
+20404,31539,34422,2053,Renewable_Production,Europe & North America
+21350,32072,34651,2054,Renewable_Production,Europe & North America
+22319,32321,35408,2055,Renewable_Production,Europe & North America
+23318,32654,35331,2056,Renewable_Production,Europe & North America
+24356,32754,35993,2057,Renewable_Production,Europe & North America
+25449,32863,35617,2058,Renewable_Production,Europe & North America
+26590,32778,36177,2059,Renewable_Production,Europe & North America
+27479,32794,35578,2060,Renewable_Production,Europe & North America
+3978,3978,3978,2020,Renewable_Production,High Income Countries
+4130,4130,4130,2021,Renewable_Production,High Income Countries
+4366,4366,4366,2022,Renewable_Production,High Income Countries
+4606,4606,4606,2023,Renewable_Production,High Income Countries
+4914,4914,4914,2024,Renewable_Production,High Income Countries
+5275,5275,5275,2025,Renewable_Production,High Income Countries
+5656,5749,5749,2026,Renewable_Production,High Income Countries
+6044,6342,6339,2027,Renewable_Production,High Income Countries
+6423,6982,6971,2028,Renewable_Production,High Income Countries
+6785,7703,7692,2029,Renewable_Production,High Income Countries
+7145,8539,8539,2030,Renewable_Production,High Income Countries
+7528,9381,9416,2031,Renewable_Production,High Income Countries
+7937,10303,10399,2032,Renewable_Production,High Income Countries
+8386,11342,11531,2033,Renewable_Production,High Income Countries
+8885,12542,12856,2034,Renewable_Production,High Income Countries
+9436,14024,14506,2035,Renewable_Production,High Income Countries
+10058,15664,16352,2036,Renewable_Production,High Income Countries
+10732,17565,18484,2037,Renewable_Production,High Income Countries
+11438,19445,20556,2038,Renewable_Production,High Income Countries
+12124,21434,22796,2039,Renewable_Production,High Income Countries
+12803,23201,24715,2040,Renewable_Production,High Income Countries
+13483,24893,26609,2041,Renewable_Production,High Income Countries
+14182,26426,28258,2042,Renewable_Production,High Income Countries
+14910,27974,30029,2043,Renewable_Production,High Income Countries
+15703,29352,31550,2044,Renewable_Production,High Income Countries
+16528,30760,33179,2045,Renewable_Production,High Income Countries
+17447,31911,34451,2046,Renewable_Production,High Income Countries
+18440,33082,35857,2047,Renewable_Production,High Income Countries
+19500,33854,36226,2048,Renewable_Production,High Income Countries
+20595,34642,37578,2049,Renewable_Production,High Income Countries
+21724,35444,38080,2050,Renewable_Production,High Income Countries
+22842,36137,39324,2051,Renewable_Production,High Income Countries
+23941,36910,39868,2052,Renewable_Production,High Income Countries
+25035,37537,41025,2053,Renewable_Production,High Income Countries
+26128,38245,41438,2054,Renewable_Production,High Income Countries
+27236,38621,42367,2055,Renewable_Production,High Income Countries
+28370,39089,42421,2056,Renewable_Production,High Income Countries
+29541,39280,43201,2057,Renewable_Production,High Income Countries
+30768,39472,42897,2058,Renewable_Production,High Income Countries
+32066,39430,43489,2059,Renewable_Production,High Income Countries
+33085,39442,42924,2060,Renewable_Production,High Income Countries
+1029,1029,1029,2020,Renewable_Production,Latin America & the Caribbean
+1055,1055,1055,2021,Renewable_Production,Latin America & the Caribbean
+1125,1125,1125,2022,Renewable_Production,Latin America & the Caribbean
+1206,1206,1206,2023,Renewable_Production,Latin America & the Caribbean
+1290,1290,1290,2024,Renewable_Production,Latin America & the Caribbean
+1379,1379,1379,2025,Renewable_Production,Latin America & the Caribbean
+1473,1487,1487,2026,Renewable_Production,Latin America & the Caribbean
+1570,1629,1628,2027,Renewable_Production,Latin America & the Caribbean
+1670,1792,1789,2028,Renewable_Production,Latin America & the Caribbean
+1774,1977,1974,2029,Renewable_Production,Latin America & the Caribbean
+1881,2175,2175,2030,Renewable_Production,Latin America & the Caribbean
+1992,2370,2379,2031,Renewable_Production,Latin America & the Caribbean
+2113,2580,2604,2032,Renewable_Production,Latin America & the Caribbean
+2248,2816,2862,2033,Renewable_Production,Latin America & the Caribbean
+2400,3090,3165,2034,Renewable_Production,Latin America & the Caribbean
+2573,3407,3519,2035,Renewable_Production,Latin America & the Caribbean
+2770,3750,3905,2036,Renewable_Production,Latin America & the Caribbean
+2987,4131,4332,2037,Renewable_Production,Latin America & the Caribbean
+3219,4534,4782,2038,Renewable_Production,Latin America & the Caribbean
+3454,4905,5194,2039,Renewable_Production,Latin America & the Caribbean
+3689,5231,5556,2040,Renewable_Production,Latin America & the Caribbean
+3929,5516,5872,2041,Renewable_Production,Latin America & the Caribbean
+4180,5785,6170,2042,Renewable_Production,Latin America & the Caribbean
+4446,6030,6449,2043,Renewable_Production,Latin America & the Caribbean
+4737,6266,6722,2044,Renewable_Production,Latin America & the Caribbean
+5059,6465,6943,2045,Renewable_Production,Latin America & the Caribbean
+5413,6594,7132,2046,Renewable_Production,Latin America & the Caribbean
+5800,6767,7311,2047,Renewable_Production,Latin America & the Caribbean
+6213,6857,7457,2048,Renewable_Production,Latin America & the Caribbean
+6593,7219,7868,2049,Renewable_Production,Latin America & the Caribbean
+6972,7401,8125,2050,Renewable_Production,Latin America & the Caribbean
+7374,7809,8596,2051,Renewable_Production,Latin America & the Caribbean
+7766,7984,8843,2052,Renewable_Production,Latin America & the Caribbean
+8158,8413,9318,2053,Renewable_Production,Latin America & the Caribbean
+8550,8515,9460,2054,Renewable_Production,Latin America & the Caribbean
+8931,8909,9926,2055,Renewable_Production,Latin America & the Caribbean
+9291,8923,9963,2056,Renewable_Production,Latin America & the Caribbean
+9671,9314,10441,2057,Renewable_Production,Latin America & the Caribbean
+10035,9150,10281,2058,Renewable_Production,Latin America & the Caribbean
+10400,9550,10782,2059,Renewable_Production,Latin America & the Caribbean
+10780,9300,10525,2060,Renewable_Production,Latin America & the Caribbean
+118.6,118.6,118.6,2020,Renewable_Production,Low Income Countries
+122,122,122,2021,Renewable_Production,Low Income Countries
+140.6,140.6,140.6,2022,Renewable_Production,Low Income Countries
+171.1,171.1,171.1,2023,Renewable_Production,Low Income Countries
+200.8,200.8,200.8,2024,Renewable_Production,Low Income Countries
+219.1,219.1,219.1,2025,Renewable_Production,Low Income Countries
+234.8,235.2,235.2,2026,Renewable_Production,Low Income Countries
+253.4,255.5,255.4,2027,Renewable_Production,Low Income Countries
+275.9,280.8,280.4,2028,Renewable_Production,Low Income Countries
+303,312.1,311.6,2029,Renewable_Production,Low Income Countries
+331.8,346.4,346.8,2030,Renewable_Production,Low Income Countries
+361.7,381.5,383.4,2031,Renewable_Production,Low Income Countries
+393,417.9,422.3,2032,Renewable_Production,Low Income Countries
+425.4,457,465.1,2033,Renewable_Production,Low Income Countries
+460.2,501.4,514.6,2034,Renewable_Production,Low Income Countries
+498.4,554.1,574.1,2035,Renewable_Production,Low Income Countries
+540.8,617.1,645.4,2036,Renewable_Production,Low Income Countries
+586.9,692.5,730.7,2037,Renewable_Production,Low Income Countries
+636.3,780.2,829.3,2038,Renewable_Production,Low Income Countries
+687.8,875.6,937.4,2039,Renewable_Production,Low Income Countries
+740.3,972.9,1047,2040,Renewable_Production,Low Income Countries
+791.9,1069,1155,2041,Renewable_Production,Low Income Countries
+842.2,1168,1265,2042,Renewable_Production,Low Income Countries
+892.9,1270,1380,2043,Renewable_Production,Low Income Countries
+948.1,1379,1503,2044,Renewable_Production,Low Income Countries
+1009,1499,1641,2045,Renewable_Production,Low Income Countries
+1080,1630,1794,2046,Renewable_Production,Low Income Countries
+1163,1770,1959,2047,Renewable_Production,Low Income Countries
+1253,1921,2133,2048,Renewable_Production,Low Income Countries
+1352,2103,2343,2049,Renewable_Production,Low Income Countries
+1462,2321,2599,2050,Renewable_Production,Low Income Countries
+1577,2557,2880,2051,Renewable_Production,Low Income Countries
+1697,2822,3190,2052,Renewable_Production,Low Income Countries
+1823,3111,3530,2053,Renewable_Production,Low Income Countries
+1957,3426,3886,2054,Renewable_Production,Low Income Countries
+2100,3743,4251,2055,Renewable_Production,Low Income Countries
+2255,4075,4598,2056,Renewable_Production,Low Income Countries
+2427,4382,4966,2057,Renewable_Production,Low Income Countries
+2618,4704,5313,2058,Renewable_Production,Low Income Countries
+2830,5011,5695,2059,Renewable_Production,Low Income Countries
+3064,5340,6056,2060,Renewable_Production,Low Income Countries
+928.1,928.1,928.1,2020,Renewable_Production,Low Middle Income Countries
+962.4,962.4,962.4,2021,Renewable_Production,Low Middle Income Countries
+1058,1058,1058,2022,Renewable_Production,Low Middle Income Countries
+1176,1176,1176,2023,Renewable_Production,Low Middle Income Countries
+1288,1288,1288,2024,Renewable_Production,Low Middle Income Countries
+1398,1398,1398,2025,Renewable_Production,Low Middle Income Countries
+1514,1537,1537,2026,Renewable_Production,Low Middle Income Countries
+1634,1706,1705,2027,Renewable_Production,Low Middle Income Countries
+1762,1911,1907,2028,Renewable_Production,Low Middle Income Countries
+1896,2143,2140,2029,Renewable_Production,Low Middle Income Countries
+2041,2420,2420,2030,Renewable_Production,Low Middle Income Countries
+2200,2706,2719,2031,Renewable_Production,Low Middle Income Countries
+2383,3033,3066,2032,Renewable_Production,Low Middle Income Countries
+2595,3420,3486,2033,Renewable_Production,Low Middle Income Countries
+2844,3890,4001,2034,Renewable_Production,Low Middle Income Countries
+3138,4466,4641,2035,Renewable_Production,Low Middle Income Countries
+3485,5158,5417,2036,Renewable_Production,Low Middle Income Countries
+3887,5981,6345,2037,Renewable_Production,Low Middle Income Countries
+4333,6918,7395,2038,Renewable_Production,Low Middle Income Countries
+4808,7919,8513,2039,Renewable_Production,Low Middle Income Countries
+5301,8925,9628,2040,Renewable_Production,Low Middle Income Countries
+5814,9900,10706,2041,Renewable_Production,Low Middle Income Countries
+6359,10871,11785,2042,Renewable_Production,Low Middle Income Countries
+6941,11865,12897,2043,Renewable_Production,Low Middle Income Countries
+7580,12914,14077,2044,Renewable_Production,Low Middle Income Countries
+8291,14027,15335,2045,Renewable_Production,Low Middle Income Countries
+9085,15234,16716,2046,Renewable_Production,Low Middle Income Countries
+9970,16527,18189,2047,Renewable_Production,Low Middle Income Countries
+11375,17932,19809,2048,Renewable_Production,Low Middle Income Countries
+12337,19542,21680,2049,Renewable_Production,Low Middle Income Countries
+13783,21437,23923,2050,Renewable_Production,Low Middle Income Countries
+15210,23397,26248,2051,Renewable_Production,Low Middle Income Countries
+16517,25611,28895,2052,Renewable_Production,Low Middle Income Countries
+17739,27936,31609,2053,Renewable_Production,Low Middle Income Countries
+18966,30390,34549,2054,Renewable_Production,Low Middle Income Countries
+20228,32781,37186,2055,Renewable_Production,Low Middle Income Countries
+21533,35103,39890,2056,Renewable_Production,Low Middle Income Countries
+22905,37279,41636,2057,Renewable_Production,Low Middle Income Countries
+24361,38585,43930,2058,Renewable_Production,Low Middle Income Countries
+25907,40539,45534,2059,Renewable_Production,Low Middle Income Countries
+27550,41678,47784,2060,Renewable_Production,Low Middle Income Countries
+376.6,376.6,376.6,2020,Renewable_Production,North Africa & West Asia
+397.3,397.3,397.3,2021,Renewable_Production,North Africa & West Asia
+428.3,428.3,428.3,2022,Renewable_Production,North Africa & West Asia
+471.9,471.9,471.9,2023,Renewable_Production,North Africa & West Asia
+523.7,523.7,523.7,2024,Renewable_Production,North Africa & West Asia
+582,582,582,2025,Renewable_Production,North Africa & West Asia
+640.3,653,653,2026,Renewable_Production,North Africa & West Asia
+691.8,725.2,724.8,2027,Renewable_Production,North Africa & West Asia
+739.5,797.9,796.7,2028,Renewable_Production,North Africa & West Asia
+789,877.7,876.5,2029,Renewable_Production,North Africa & West Asia
+841.4,968.2,968.4,2030,Renewable_Production,North Africa & West Asia
+898.2,1058,1062,2031,Renewable_Production,North Africa & West Asia
+961.1,1162,1172,2032,Renewable_Production,North Africa & West Asia
+1031,1284,1304,2033,Renewable_Production,North Africa & West Asia
+1109,1430,1464,2034,Renewable_Production,North Africa & West Asia
+1198,1607,1660,2035,Renewable_Production,North Africa & West Asia
+1297,1813,1889,2036,Renewable_Production,North Africa & West Asia
+1407,2055,2160,2037,Renewable_Production,North Africa & West Asia
+1523,2329,2463,2038,Renewable_Production,North Africa & West Asia
+1641,2613,2777,2039,Renewable_Production,North Africa & West Asia
+1759,2892,3085,2040,Renewable_Production,North Africa & West Asia
+1882,3160,3379,2041,Renewable_Production,North Africa & West Asia
+2012,3424,3670,2042,Renewable_Production,North Africa & West Asia
+2153,3690,3965,2043,Renewable_Production,North Africa & West Asia
+2309,3962,4269,2044,Renewable_Production,North Africa & West Asia
+2481,4241,4583,2045,Renewable_Production,North Africa & West Asia
+2674,4525,4891,2046,Renewable_Production,North Africa & West Asia
+2888,4796,5212,2047,Renewable_Production,North Africa & West Asia
+3115,5095,5539,2048,Renewable_Production,North Africa & West Asia
+3354,5417,5929,2049,Renewable_Production,North Africa & West Asia
+3606,5814,6376,2050,Renewable_Production,North Africa & West Asia
+3864,6183,6836,2051,Renewable_Production,North Africa & West Asia
+4128,6615,7314,2052,Renewable_Production,North Africa & West Asia
+4393,7018,7815,2053,Renewable_Production,North Africa & West Asia
+4660,7469,8304,2054,Renewable_Production,North Africa & West Asia
+4929,7860,8774,2055,Renewable_Production,North Africa & West Asia
+5205,8273,9219,2056,Renewable_Production,North Africa & West Asia
+5491,8640,9633,2057,Renewable_Production,North Africa & West Asia
+5792,8990,9991,2058,Renewable_Production,North Africa & West Asia
+6108,9268,10339,2059,Renewable_Production,North Africa & West Asia
+6441,9560,10675,2060,Renewable_Production,North Africa & West Asia
+155.8,155.8,155.8,2020,Renewable_Production,Oceania
+163.7,163.7,163.7,2021,Renewable_Production,Oceania
+175.7,175.7,175.7,2022,Renewable_Production,Oceania
+190.6,190.6,190.6,2023,Renewable_Production,Oceania
+206.4,206.4,206.4,2024,Renewable_Production,Oceania
+224.6,224.6,224.6,2025,Renewable_Production,Oceania
+245.3,250.5,250.5,2026,Renewable_Production,Oceania
+268.7,288.7,288.5,2027,Renewable_Production,Oceania
+293.5,339.1,338.4,2028,Renewable_Production,Oceania
+319.2,402,401.2,2029,Renewable_Production,Oceania
+346.3,479.8,479.4,2030,Renewable_Production,Oceania
+374.1,562.5,564.2,2031,Renewable_Production,Oceania
+403.3,651.3,657.3,2032,Renewable_Production,Oceania
+435.1,748.7,761.9,2033,Renewable_Production,Oceania
+470.7,863.8,887.3,2034,Renewable_Production,Oceania
+508.9,1002,1039,2035,Renewable_Production,Oceania
+553.4,1160,1214,2036,Renewable_Production,Oceania
+603,1327,1395,2037,Renewable_Production,Oceania
+656.7,1370,1411,2038,Renewable_Production,Oceania
+712.1,1481,1564,2039,Renewable_Production,Oceania
+768.8,1497,1546,2040,Renewable_Production,Oceania
+829.1,1586,1680,2041,Renewable_Production,Oceania
+893.9,1585,1641,2042,Renewable_Production,Oceania
+963.6,1662,1766,2043,Renewable_Production,Oceania
+1040,1641,1704,2044,Renewable_Production,Oceania
+1096,1714,1829,2045,Renewable_Production,Oceania
+1161,1683,1756,2046,Renewable_Production,Oceania
+1225,1755,1880,2047,Renewable_Production,Oceania
+1293,1721,1803,2048,Renewable_Production,Oceania
+1360,1797,1935,2049,Renewable_Production,Oceania
+1428,1771,1871,2050,Renewable_Production,Oceania
+1492,1848,1995,2051,Renewable_Production,Oceania
+1552,1830,1989,2052,Renewable_Production,Oceania
+1609,1895,2053,2053,Renewable_Production,Oceania
+1663,1934,2108,2054,Renewable_Production,Oceania
+1715,1976,2155,2055,Renewable_Production,Oceania
+1766,2011,2196,2056,Renewable_Production,Oceania
+1817,2042,2233,2057,Renewable_Production,Oceania
+1867,2069,2267,2058,Renewable_Production,Oceania
+1939,2092,2297,2059,Renewable_Production,Oceania
+1982,2101,2310,2060,Renewable_Production,Oceania
+242.5,242.5,242.5,2020,Renewable_Production,Sub-Saharan Africa
+251.6,251.6,251.6,2021,Renewable_Production,Sub-Saharan Africa
+288.7,288.7,288.7,2022,Renewable_Production,Sub-Saharan Africa
+342.7,342.8,342.8,2023,Renewable_Production,Sub-Saharan Africa
+391.2,391.2,391.2,2024,Renewable_Production,Sub-Saharan Africa
+431.6,431.6,431.6,2025,Renewable_Production,Sub-Saharan Africa
+471.7,475.3,475.3,2026,Renewable_Production,Sub-Saharan Africa
+514.9,528.9,528.6,2027,Renewable_Production,Sub-Saharan Africa
+562.7,594,593,2028,Renewable_Production,Sub-Saharan Africa
+615.5,670.9,669.8,2029,Renewable_Production,Sub-Saharan Africa
+671.1,756.2,756.5,2030,Renewable_Production,Sub-Saharan Africa
+729.5,844.1,847.3,2031,Renewable_Production,Sub-Saharan Africa
+792.3,936.7,945.6,2032,Renewable_Production,Sub-Saharan Africa
+860.2,1039,1057,2033,Renewable_Production,Sub-Saharan Africa
+935.5,1157,1187,2034,Renewable_Production,Sub-Saharan Africa
+1021,1297,1343,2035,Renewable_Production,Sub-Saharan Africa
+1118,1460,1525,2036,Renewable_Production,Sub-Saharan Africa
+1228,1652,1740,2037,Renewable_Production,Sub-Saharan Africa
+1349,1871,1985,2038,Renewable_Production,Sub-Saharan Africa
+1477,2106,2246,2039,Renewable_Production,Sub-Saharan Africa
+1611,2342,2507,2040,Renewable_Production,Sub-Saharan Africa
+1749,2576,2764,2041,Renewable_Production,Sub-Saharan Africa
+1893,2810,3025,2042,Renewable_Production,Sub-Saharan Africa
+2047,3051,3295,2043,Renewable_Production,Sub-Saharan Africa
+2216,3309,3585,2044,Renewable_Production,Sub-Saharan Africa
+2406,3591,3905,2045,Renewable_Production,Sub-Saharan Africa
+2621,3900,4257,2046,Renewable_Production,Sub-Saharan Africa
+2863,4233,4641,2047,Renewable_Production,Sub-Saharan Africa
+3130,4595,5056,2048,Renewable_Production,Sub-Saharan Africa
+3420,5028,5557,2049,Renewable_Production,Sub-Saharan Africa
+3720,5544,6165,2050,Renewable_Production,Sub-Saharan Africa
+4038,6105,6827,2051,Renewable_Production,Sub-Saharan Africa
+4354,6737,7561,2052,Renewable_Production,Sub-Saharan Africa
+4691,7417,8322,2053,Renewable_Production,Sub-Saharan Africa
+5035,8105,9146,2054,Renewable_Production,Sub-Saharan Africa
+5403,8838,9916,2055,Renewable_Production,Sub-Saharan Africa
+5791,9529,10757,2056,Renewable_Production,Sub-Saharan Africa
+6212,10276,11524,2057,Renewable_Production,Sub-Saharan Africa
+6664,10929,12371,2058,Renewable_Production,Sub-Saharan Africa
+7152,11680,13122,2059,Renewable_Production,Sub-Saharan Africa
+7681,12312,14026,2060,Renewable_Production,Sub-Saharan Africa
+4098,4098,4098,2020,Renewable_Production,Upper Middle Income Countries
+4332,4332,4332,2021,Renewable_Production,Upper Middle Income Countries
+4662,4662,4662,2022,Renewable_Production,Upper Middle Income Countries
+5040,5040,5040,2023,Renewable_Production,Upper Middle Income Countries
+5418,5418,5418,2024,Renewable_Production,Upper Middle Income Countries
+5838,5838,5838,2025,Renewable_Production,Upper Middle Income Countries
+6283,6394,6394,2026,Renewable_Production,Upper Middle Income Countries
+6720,7493,7486,2027,Renewable_Production,Upper Middle Income Countries
+7146,8997,8970,2028,Renewable_Production,Upper Middle Income Countries
+7585,10793,10760,2029,Renewable_Production,Upper Middle Income Countries
+8050,12667,12652,2030,Renewable_Production,Upper Middle Income Countries
+8556,14638,14680,2031,Renewable_Production,Upper Middle Income Countries
+9119,16760,16907,2032,Renewable_Production,Upper Middle Income Countries
+9752,19120,19427,2033,Renewable_Production,Upper Middle Income Countries
+10471,21798,22321,2034,Renewable_Production,Upper Middle Income Countries
+11293,24865,25664,2035,Renewable_Production,Upper Middle Income Countries
+12261,28323,29452,2036,Renewable_Production,Upper Middle Income Countries
+13443,32182,33678,2037,Renewable_Production,Upper Middle Income Countries
+14589,34749,36244,2038,Renewable_Production,Upper Middle Income Countries
+15602,37580,39535,2039,Renewable_Production,Upper Middle Income Countries
+16690,40001,42049,2040,Renewable_Production,Upper Middle Income Countries
+17798,40750,43046,2041,Renewable_Production,Upper Middle Income Countries
+18852,42727,45167,2042,Renewable_Production,Upper Middle Income Countries
+19943,43923,46612,2043,Renewable_Production,Upper Middle Income Countries
+21155,45883,48765,2044,Renewable_Production,Upper Middle Income Countries
+22519,47216,50337,2045,Renewable_Production,Upper Middle Income Countries
+24035,48722,52014,2046,Renewable_Production,Upper Middle Income Countries
+25677,49461,53046,2047,Renewable_Production,Upper Middle Income Countries
+27414,50231,53947,2048,Renewable_Production,Upper Middle Income Countries
+29151,52164,56416,2049,Renewable_Production,Upper Middle Income Countries
+30903,53727,58231,2050,Renewable_Production,Upper Middle Income Countries
+32714,55134,60209,2051,Renewable_Production,Upper Middle Income Countries
+34507,56390,61735,2052,Renewable_Production,Upper Middle Income Countries
+36271,57754,63573,2053,Renewable_Production,Upper Middle Income Countries
+38016,58790,64773,2054,Renewable_Production,Upper Middle Income Countries
+39746,59855,66274,2055,Renewable_Production,Upper Middle Income Countries
+41478,60523,66991,2056,Renewable_Production,Upper Middle Income Countries
+43278,61349,68254,2057,Renewable_Production,Upper Middle Income Countries
+45113,61416,68272,2058,Renewable_Production,Upper Middle Income Countries
+47021,61865,69195,2059,Renewable_Production,Upper Middle Income Countries
+48706,61676,68982,2060,Renewable_Production,Upper Middle Income Countries
+9122,9122,9122,2020,Renewable_Production,World
+9546,9546,9546,2021,Renewable_Production,World
+10227,10227,10227,2022,Renewable_Production,World
+10993,10993,10993,2023,Renewable_Production,World
+11821,11821,11821,2024,Renewable_Production,World
+12731,12731,12731,2025,Renewable_Production,World
+13687,13916,13916,2026,Renewable_Production,World
+14651,15797,15786,2027,Renewable_Production,World
+15607,18170,18128,2028,Renewable_Production,World
+16569,20951,20903,2029,Renewable_Production,World
+17568,23972,23958,2030,Renewable_Production,World
+18645,27107,27198,2031,Renewable_Production,World
+19832,30513,30794,2032,Renewable_Production,World
+21158,34340,34908,2033,Renewable_Production,World
+22661,38732,39693,2034,Renewable_Production,World
+24366,43909,45385,2035,Renewable_Production,World
+26346,49763,51867,2036,Renewable_Production,World
+28649,56422,59237,2037,Renewable_Production,World
+30996,61891,65025,2038,Renewable_Production,World
+33221,67809,71781,2039,Renewable_Production,World
+35535,73100,77438,2040,Renewable_Production,World
+37888,76613,81516,2041,Renewable_Production,World
+40235,81192,86476,2042,Renewable_Production,World
+42687,85032,90918,2043,Renewable_Production,World
+45386,89528,95896,2044,Renewable_Production,World
+48348,93501,100492,2045,Renewable_Production,World
+51648,97497,104975,2046,Renewable_Production,World
+55250,100840,109050,2047,Renewable_Production,World
+59542,103937,112115,2048,Renewable_Production,World
+63435,108451,118017,2049,Renewable_Production,World
+67873,112929,122833,2050,Renewable_Production,World
+72344,117226,128661,2051,Renewable_Production,World
+76662,121734,133688,2052,Renewable_Production,World
+80868,126338,139736,2053,Renewable_Production,World
+85066,130851,144646,2054,Renewable_Production,World
+89309,135001,150078,2055,Renewable_Production,World
+93635,138790,153900,2056,Renewable_Production,World
+98151,142290,158057,2057,Renewable_Production,World
+102860,144178,160412,2058,Renewable_Production,World
+107824,146844,163913,2059,Renewable_Production,World
+112405,148137,165746,2060,Renewable_Production,World

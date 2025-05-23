@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+11155,11155,11155,2020,Fossil_Fuel_Production,Central & Southern Asia
+11267,11267,11267,2021,Fossil_Fuel_Production,Central & Southern Asia
+11651,11651,11651,2022,Fossil_Fuel_Production,Central & Southern Asia
+12201,12201,12201,2023,Fossil_Fuel_Production,Central & Southern Asia
+12624,12625,12625,2024,Fossil_Fuel_Production,Central & Southern Asia
+12976,12976,12976,2025,Fossil_Fuel_Production,Central & Southern Asia
+13322,13323,13323,2026,Fossil_Fuel_Production,Central & Southern Asia
+13623,13566,13560,2027,Fossil_Fuel_Production,Central & Southern Asia
+13883,13654,13638,2028,Fossil_Fuel_Production,Central & Southern Asia
+14079,13547,13538,2029,Fossil_Fuel_Production,Central & Southern Asia
+14234,13309,13319,2030,Fossil_Fuel_Production,Central & Southern Asia
+14384,12983,13024,2031,Fossil_Fuel_Production,Central & Southern Asia
+14543,12640,12718,2032,Fossil_Fuel_Production,Central & Southern Asia
+14726,12309,12428,2033,Fossil_Fuel_Production,Central & Southern Asia
+14945,12000,12158,2034,Fossil_Fuel_Production,Central & Southern Asia
+15203,11718,11913,2035,Fossil_Fuel_Production,Central & Southern Asia
+15491,11458,11685,2036,Fossil_Fuel_Production,Central & Southern Asia
+15781,11193,11448,2037,Fossil_Fuel_Production,Central & Southern Asia
+16039,10903,11172,2038,Fossil_Fuel_Production,Central & Southern Asia
+16207,10545,10815,2039,Fossil_Fuel_Production,Central & Southern Asia
+16314,10116,10380,2040,Fossil_Fuel_Production,Central & Southern Asia
+16401,9631,9885,2041,Fossil_Fuel_Production,Central & Southern Asia
+16439,9126,9370,2042,Fossil_Fuel_Production,Central & Southern Asia
+16503,8626,8858,2043,Fossil_Fuel_Production,Central & Southern Asia
+16535,8140,8365,2044,Fossil_Fuel_Production,Central & Southern Asia
+16615,7674,7893,2045,Fossil_Fuel_Production,Central & Southern Asia
+16672,7233,7445,2046,Fossil_Fuel_Production,Central & Southern Asia
+16744,6820,7023,2047,Fossil_Fuel_Production,Central & Southern Asia
+16506,6430,6624,2048,Fossil_Fuel_Production,Central & Southern Asia
+16110,6091,6282,2049,Fossil_Fuel_Production,Central & Southern Asia
+15833,5792,5979,2050,Fossil_Fuel_Production,Central & Southern Asia
+15605,5517,5704,2051,Fossil_Fuel_Production,Central & Southern Asia
+15433,5257,5438,2052,Fossil_Fuel_Production,Central & Southern Asia
+15278,5002,5179,2053,Fossil_Fuel_Production,Central & Southern Asia
+15117,4754,4928,2054,Fossil_Fuel_Production,Central & Southern Asia
+14943,4503,4658,2055,Fossil_Fuel_Production,Central & Southern Asia
+14763,4240,4380,2056,Fossil_Fuel_Production,Central & Southern Asia
+14584,3978,4111,2057,Fossil_Fuel_Production,Central & Southern Asia
+14410,3720,3858,2058,Fossil_Fuel_Production,Central & Southern Asia
+14240,3486,3613,2059,Fossil_Fuel_Production,Central & Southern Asia
+14077,3258,3385,2060,Fossil_Fuel_Production,Central & Southern Asia
+33765,33765,33765,2020,Fossil_Fuel_Production,East & Southeast Asia
+34324,34324,34324,2021,Fossil_Fuel_Production,East & Southeast Asia
+35177,35177,35177,2022,Fossil_Fuel_Production,East & Southeast Asia
+36291,36291,36291,2023,Fossil_Fuel_Production,East & Southeast Asia
+37324,37324,37324,2024,Fossil_Fuel_Production,East & Southeast Asia
+38358,38358,38358,2025,Fossil_Fuel_Production,East & Southeast Asia
+39369,39370,39370,2026,Fossil_Fuel_Production,East & Southeast Asia
+40277,39837,39830,2027,Fossil_Fuel_Production,East & Southeast Asia
+41030,39555,39532,2028,Fossil_Fuel_Production,East & Southeast Asia
+41714,38672,38657,2029,Fossil_Fuel_Production,East & Southeast Asia
+42373,37458,37474,2030,Fossil_Fuel_Production,East & Southeast Asia
+43057,36108,36174,2031,Fossil_Fuel_Production,East & Southeast Asia
+43691,34766,34891,2032,Fossil_Fuel_Production,East & Southeast Asia
+44241,33485,33667,2033,Fossil_Fuel_Production,East & Southeast Asia
+44720,32234,32468,2034,Fossil_Fuel_Production,East & Southeast Asia
+45191,31001,31277,2035,Fossil_Fuel_Production,East & Southeast Asia
+45901,29770,30074,2036,Fossil_Fuel_Production,East & Southeast Asia
+46687,28525,28840,2037,Fossil_Fuel_Production,East & Southeast Asia
+47330,27260,27571,2038,Fossil_Fuel_Production,East & Southeast Asia
+47773,25988,26316,2039,Fossil_Fuel_Production,East & Southeast Asia
+48132,24650,24974,2040,Fossil_Fuel_Production,East & Southeast Asia
+48475,23196,23525,2041,Fossil_Fuel_Production,East & Southeast Asia
+48785,21829,22152,2042,Fossil_Fuel_Production,East & Southeast Asia
+49045,20489,20802,2043,Fossil_Fuel_Production,East & Southeast Asia
+49279,19281,19569,2044,Fossil_Fuel_Production,East & Southeast Asia
+49502,18154,18419,2045,Fossil_Fuel_Production,East & Southeast Asia
+49741,17179,17421,2046,Fossil_Fuel_Production,East & Southeast Asia
+49967,16269,16511,2047,Fossil_Fuel_Production,East & Southeast Asia
+50137,15474,15693,2048,Fossil_Fuel_Production,East & Southeast Asia
+50227,14782,15008,2049,Fossil_Fuel_Production,East & Southeast Asia
+50243,14041,14257,2050,Fossil_Fuel_Production,East & Southeast Asia
+50208,13250,13487,2051,Fossil_Fuel_Production,East & Southeast Asia
+50081,12497,12713,2052,Fossil_Fuel_Production,East & Southeast Asia
+49870,11756,11969,2053,Fossil_Fuel_Production,East & Southeast Asia
+49586,11048,11231,2054,Fossil_Fuel_Production,East & Southeast Asia
+49254,10354,10532,2055,Fossil_Fuel_Production,East & Southeast Asia
+48897,9705,9853,2056,Fossil_Fuel_Production,East & Southeast Asia
+48533,9080,9226,2057,Fossil_Fuel_Production,East & Southeast Asia
+48173,8483,8605,2058,Fossil_Fuel_Production,East & Southeast Asia
+47814,7914,8042,2059,Fossil_Fuel_Production,East & Southeast Asia
+47459,7394,7502,2060,Fossil_Fuel_Production,East & Southeast Asia
+47468,47468,47468,2020,Fossil_Fuel_Production,Europe & North America
+47590,47590,47590,2021,Fossil_Fuel_Production,Europe & North America
+47688,47688,47688,2022,Fossil_Fuel_Production,Europe & North America
+47596,47596,47596,2023,Fossil_Fuel_Production,Europe & North America
+47700,47700,47700,2024,Fossil_Fuel_Production,Europe & North America
+47816,47816,47816,2025,Fossil_Fuel_Production,Europe & North America
+47839,47839,47839,2026,Fossil_Fuel_Production,Europe & North America
+47773,47524,47519,2027,Fossil_Fuel_Production,Europe & North America
+47634,46842,46827,2028,Fossil_Fuel_Production,Europe & North America
+47398,45837,45834,2029,Fossil_Fuel_Production,Europe & North America
+47088,44647,44679,2030,Fossil_Fuel_Production,Europe & North America
+46800,43455,43551,2031,Fossil_Fuel_Production,Europe & North America
+46523,42186,42373,2032,Fossil_Fuel_Production,Europe & North America
+46309,40743,41034,2033,Fossil_Fuel_Production,Europe & North America
+46168,39271,39666,2034,Fossil_Fuel_Production,Europe & North America
+46102,37824,38311,2035,Fossil_Fuel_Production,Europe & North America
+46090,36364,36916,2036,Fossil_Fuel_Production,Europe & North America
+46113,34874,35458,2037,Fossil_Fuel_Production,Europe & North America
+45989,33299,33893,2038,Fossil_Fuel_Production,Europe & North America
+45721,31409,31995,2039,Fossil_Fuel_Production,Europe & North America
+45430,29253,29821,2040,Fossil_Fuel_Production,Europe & North America
+45078,26934,27470,2041,Fossil_Fuel_Production,Europe & North America
+44707,24619,25120,2042,Fossil_Fuel_Production,Europe & North America
+44301,22430,22882,2043,Fossil_Fuel_Production,Europe & North America
+43908,20455,20848,2044,Fossil_Fuel_Production,Europe & North America
+43527,18776,19119,2045,Fossil_Fuel_Production,Europe & North America
+43178,17179,17502,2046,Fossil_Fuel_Production,Europe & North America
+42818,15705,16034,2047,Fossil_Fuel_Production,Europe & North America
+42432,14371,14663,2048,Fossil_Fuel_Production,Europe & North America
+41996,13210,13510,2049,Fossil_Fuel_Production,Europe & North America
+41872,12194,12467,2050,Fossil_Fuel_Production,Europe & North America
+41568,11289,11535,2051,Fossil_Fuel_Production,Europe & North America
+41050,10440,10663,2052,Fossil_Fuel_Production,Europe & North America
+40428,9652,9868,2053,Fossil_Fuel_Production,Europe & North America
+39733,8912,9099,2054,Fossil_Fuel_Production,Europe & North America
+38979,8211,8389,2055,Fossil_Fuel_Production,Europe & North America
+38180,7548,7697,2056,Fossil_Fuel_Production,Europe & North America
+37349,6928,7067,2057,Fossil_Fuel_Production,Europe & North America
+36501,6343,6456,2058,Fossil_Fuel_Production,Europe & North America
+35639,5802,5913,2059,Fossil_Fuel_Production,Europe & North America
+34782,5302,5392,2060,Fossil_Fuel_Production,Europe & North America
+66252,66252,66252,2020,Fossil_Fuel_Production,High Income Countries
+66410,66410,66410,2021,Fossil_Fuel_Production,High Income Countries
+66676,66676,66676,2022,Fossil_Fuel_Production,High Income Countries
+66898,66898,66898,2023,Fossil_Fuel_Production,High Income Countries
+66977,66977,66977,2024,Fossil_Fuel_Production,High Income Countries
+67088,67088,67088,2025,Fossil_Fuel_Production,High Income Countries
+67335,67336,67336,2026,Fossil_Fuel_Production,High Income Countries
+67409,67033,67025,2027,Fossil_Fuel_Production,High Income Countries
+67297,66096,66071,2028,Fossil_Fuel_Production,High Income Countries
+67059,64679,64669,2029,Fossil_Fuel_Production,High Income Countries
+66754,62974,63024,2030,Fossil_Fuel_Production,High Income Countries
+66425,61193,61328,2031,Fossil_Fuel_Production,High Income Countries
+66128,59359,59616,2032,Fossil_Fuel_Production,High Income Countries
+65881,57289,57688,2033,Fossil_Fuel_Production,High Income Countries
+65723,55195,55736,2034,Fossil_Fuel_Production,High Income Countries
+65635,53137,53805,2035,Fossil_Fuel_Production,High Income Countries
+65622,51066,51829,2036,Fossil_Fuel_Production,High Income Countries
+65630,48948,49762,2037,Fossil_Fuel_Production,High Income Countries
+65460,46704,47531,2038,Fossil_Fuel_Production,High Income Countries
+65070,44146,44976,2039,Fossil_Fuel_Production,High Income Countries
+64568,41274,42076,2040,Fossil_Fuel_Production,High Income Countries
+63960,38210,38973,2041,Fossil_Fuel_Production,High Income Countries
+63304,35102,35815,2042,Fossil_Fuel_Production,High Income Countries
+62593,32138,32801,2043,Fossil_Fuel_Production,High Income Countries
+61892,29387,29974,2044,Fossil_Fuel_Production,High Income Countries
+61196,26972,27509,2045,Fossil_Fuel_Production,High Income Countries
+60542,24661,25161,2046,Fossil_Fuel_Production,High Income Countries
+59873,22535,23034,2047,Fossil_Fuel_Production,High Income Countries
+59164,20591,21031,2048,Fossil_Fuel_Production,High Income Countries
+58386,18883,19327,2049,Fossil_Fuel_Production,High Income Countries
+57898,17370,17766,2050,Fossil_Fuel_Production,High Income Countries
+57206,16030,16395,2051,Fossil_Fuel_Production,High Income Countries
+56265,14779,15108,2052,Fossil_Fuel_Production,High Income Countries
+55193,13626,13938,2053,Fossil_Fuel_Production,High Income Countries
+54028,12546,12817,2054,Fossil_Fuel_Production,High Income Countries
+52791,11527,11778,2055,Fossil_Fuel_Production,High Income Countries
+51501,10574,10783,2056,Fossil_Fuel_Production,High Income Countries
+50178,9686,9876,2057,Fossil_Fuel_Production,High Income Countries
+48844,8858,9015,2058,Fossil_Fuel_Production,High Income Countries
+47562,8094,8244,2059,Fossil_Fuel_Production,High Income Countries
+46248,7388,7512,2060,Fossil_Fuel_Production,High Income Countries
+7257,7257,7257,2020,Fossil_Fuel_Production,Latin America & the Caribbean
+7194,7194,7194,2021,Fossil_Fuel_Production,Latin America & the Caribbean
+7309,7309,7309,2022,Fossil_Fuel_Production,Latin America & the Caribbean
+7429,7429,7429,2023,Fossil_Fuel_Production,Latin America & the Caribbean
+7491,7491,7491,2024,Fossil_Fuel_Production,Latin America & the Caribbean
+7517,7517,7517,2025,Fossil_Fuel_Production,Latin America & the Caribbean
+7513,7513,7513,2026,Fossil_Fuel_Production,Latin America & the Caribbean
+7479,7434,7433,2027,Fossil_Fuel_Production,Latin America & the Caribbean
+7419,7279,7276,2028,Fossil_Fuel_Production,Latin America & the Caribbean
+7344,7053,7053,2029,Fossil_Fuel_Production,Latin America & the Caribbean
+7306,6748,6754,2030,Fossil_Fuel_Production,Latin America & the Caribbean
+7241,6393,6411,2031,Fossil_Fuel_Production,Latin America & the Caribbean
+7170,6031,6063,2032,Fossil_Fuel_Production,Latin America & the Caribbean
+7099,5680,5725,2033,Fossil_Fuel_Production,Latin America & the Caribbean
+7035,5347,5404,2034,Fossil_Fuel_Production,Latin America & the Caribbean
+6979,5037,5105,2035,Fossil_Fuel_Production,Latin America & the Caribbean
+6929,4752,4825,2036,Fossil_Fuel_Production,Latin America & the Caribbean
+6877,4472,4548,2037,Fossil_Fuel_Production,Latin America & the Caribbean
+6816,4191,4265,2038,Fossil_Fuel_Production,Latin America & the Caribbean
+6737,3880,3951,2039,Fossil_Fuel_Production,Latin America & the Caribbean
+6640,3542,3608,2040,Fossil_Fuel_Production,Latin America & the Caribbean
+6531,3188,3249,2041,Fossil_Fuel_Production,Latin America & the Caribbean
+6419,2842,2898,2042,Fossil_Fuel_Production,Latin America & the Caribbean
+6300,2526,2576,2043,Fossil_Fuel_Production,Latin America & the Caribbean
+6175,2265,2309,2044,Fossil_Fuel_Production,Latin America & the Caribbean
+6046,2038,2079,2045,Fossil_Fuel_Production,Latin America & the Caribbean
+5917,1843,1880,2046,Fossil_Fuel_Production,Latin America & the Caribbean
+5794,1667,1700,2047,Fossil_Fuel_Production,Latin America & the Caribbean
+5670,1504,1536,2048,Fossil_Fuel_Production,Latin America & the Caribbean
+5541,1372,1402,2049,Fossil_Fuel_Production,Latin America & the Caribbean
+5403,1258,1284,2050,Fossil_Fuel_Production,Latin America & the Caribbean
+5263,1161,1187,2051,Fossil_Fuel_Production,Latin America & the Caribbean
+5113,1068,1092,2052,Fossil_Fuel_Production,Latin America & the Caribbean
+4956,983.3,1005,2053,Fossil_Fuel_Production,Latin America & the Caribbean
+4794,899.1,918.3,2054,Fossil_Fuel_Production,Latin America & the Caribbean
+4621,824,841.6,2055,Fossil_Fuel_Production,Latin America & the Caribbean
+4441,750.5,765.2,2056,Fossil_Fuel_Production,Latin America & the Caribbean
+4262,686.9,700.4,2057,Fossil_Fuel_Production,Latin America & the Caribbean
+4085,623.1,634.6,2058,Fossil_Fuel_Production,Latin America & the Caribbean
+3925,569.1,580.3,2059,Fossil_Fuel_Production,Latin America & the Caribbean
+3769,515.8,525.4,2060,Fossil_Fuel_Production,Latin America & the Caribbean
+929.2,929.2,929.2,2020,Fossil_Fuel_Production,Low Income Countries
+939.5,939.5,939.5,2021,Fossil_Fuel_Production,Low Income Countries
+1021,1021,1021,2022,Fossil_Fuel_Production,Low Income Countries
+1135,1135,1135,2023,Fossil_Fuel_Production,Low Income Countries
+1216,1216,1216,2024,Fossil_Fuel_Production,Low Income Countries
+1233,1233,1233,2025,Fossil_Fuel_Production,Low Income Countries
+1237,1237,1237,2026,Fossil_Fuel_Production,Low Income Countries
+1253,1248,1247,2027,Fossil_Fuel_Production,Low Income Countries
+1282,1264,1262,2028,Fossil_Fuel_Production,Low Income Countries
+1317,1278,1276,2029,Fossil_Fuel_Production,Low Income Countries
+1351,1280,1281,2030,Fossil_Fuel_Production,Low Income Countries
+1378,1270,1274,2031,Fossil_Fuel_Production,Low Income Countries
+1399,1250,1259,2032,Fossil_Fuel_Production,Low Income Countries
+1417,1225,1237,2033,Fossil_Fuel_Production,Low Income Countries
+1436,1200,1217,2034,Fossil_Fuel_Production,Low Income Countries
+1462,1178,1201,2035,Fossil_Fuel_Production,Low Income Countries
+1493,1157,1185,2036,Fossil_Fuel_Production,Low Income Countries
+1527,1135,1167,2037,Fossil_Fuel_Production,Low Income Countries
+1556,1109,1145,2038,Fossil_Fuel_Production,Low Income Countries
+1585,1076,1115,2039,Fossil_Fuel_Production,Low Income Countries
+1615,1034,1074,2040,Fossil_Fuel_Production,Low Income Countries
+1644,985.2,1025,2041,Fossil_Fuel_Production,Low Income Countries
+1677,932.8,971.8,2042,Fossil_Fuel_Production,Low Income Countries
+1708,879.4,915.9,2043,Fossil_Fuel_Production,Low Income Countries
+1741,825.2,859.9,2044,Fossil_Fuel_Production,Low Income Countries
+1781,771.2,805,2045,Fossil_Fuel_Production,Low Income Countries
+1830,717.6,750.9,2046,Fossil_Fuel_Production,Low Income Countries
+1892,665.5,697.1,2047,Fossil_Fuel_Production,Low Income Countries
+1962,616.1,644,2048,Fossil_Fuel_Production,Low Income Countries
+2021,571.1,596,2049,Fossil_Fuel_Production,Low Income Countries
+2077,529.7,553,2050,Fossil_Fuel_Production,Low Income Countries
+2130,491.6,513.5,2051,Fossil_Fuel_Production,Low Income Countries
+2168,456.3,476.6,2052,Fossil_Fuel_Production,Low Income Countries
+2201,424.1,443.1,2053,Fossil_Fuel_Production,Low Income Countries
+2223,394.1,411.4,2054,Fossil_Fuel_Production,Low Income Countries
+2242,364.8,380.8,2055,Fossil_Fuel_Production,Low Income Countries
+2259,337.6,351.8,2056,Fossil_Fuel_Production,Low Income Countries
+2296,311.5,324.6,2057,Fossil_Fuel_Production,Low Income Countries
+2324,288,299.3,2058,Fossil_Fuel_Production,Low Income Countries
+2359,265.8,276.5,2059,Fossil_Fuel_Production,Low Income Countries
+2400,247,255.8,2060,Fossil_Fuel_Production,Low Income Countries
+10214,10214,10214,2020,Fossil_Fuel_Production,Low Middle Income Countries
+10272,10272,10272,2021,Fossil_Fuel_Production,Low Middle Income Countries
+10821,10821,10821,2022,Fossil_Fuel_Production,Low Middle Income Countries
+11539,11539,11539,2023,Fossil_Fuel_Production,Low Middle Income Countries
+12000,12000,12000,2024,Fossil_Fuel_Production,Low Middle Income Countries
+12367,12368,12368,2025,Fossil_Fuel_Production,Low Middle Income Countries
+12691,12692,12693,2026,Fossil_Fuel_Production,Low Middle Income Countries
+12983,12947,12942,2027,Fossil_Fuel_Production,Low Middle Income Countries
+13247,13072,13054,2028,Fossil_Fuel_Production,Low Middle Income Countries
+13428,12989,12980,2029,Fossil_Fuel_Production,Low Middle Income Countries
+13558,12773,12784,2030,Fossil_Fuel_Production,Low Middle Income Countries
+13670,12456,12500,2031,Fossil_Fuel_Production,Low Middle Income Countries
+13786,12113,12196,2032,Fossil_Fuel_Production,Low Middle Income Countries
+13922,11778,11905,2033,Fossil_Fuel_Production,Low Middle Income Countries
+14086,11471,11645,2034,Fossil_Fuel_Production,Low Middle Income Countries
+14282,11194,11410,2035,Fossil_Fuel_Production,Low Middle Income Countries
+14501,10935,11187,2036,Fossil_Fuel_Production,Low Middle Income Countries
+14720,10674,10958,2037,Fossil_Fuel_Production,Low Middle Income Countries
+14901,10389,10691,2038,Fossil_Fuel_Production,Low Middle Income Countries
+15006,10063,10368,2039,Fossil_Fuel_Production,Low Middle Income Countries
+15054,9675,9974,2040,Fossil_Fuel_Production,Low Middle Income Countries
+15068,9229,9518,2041,Fossil_Fuel_Production,Low Middle Income Countries
+15060,8758,9034,2042,Fossil_Fuel_Production,Low Middle Income Countries
+15040,8288,8550,2043,Fossil_Fuel_Production,Low Middle Income Countries
+15028,7833,8084,2044,Fossil_Fuel_Production,Low Middle Income Countries
+15029,7400,7639,2045,Fossil_Fuel_Production,Low Middle Income Countries
+15047,6993,7223,2046,Fossil_Fuel_Production,Low Middle Income Countries
+15071,6607,6825,2047,Fossil_Fuel_Production,Low Middle Income Countries
+14782,6246,6453,2048,Fossil_Fuel_Production,Low Middle Income Countries
+14317,5926,6124,2049,Fossil_Fuel_Production,Low Middle Income Countries
+14004,5642,5836,2050,Fossil_Fuel_Production,Low Middle Income Countries
+13734,5384,5574,2051,Fossil_Fuel_Production,Low Middle Income Countries
+13512,5145,5328,2052,Fossil_Fuel_Production,Low Middle Income Countries
+13332,4911,5084,2053,Fossil_Fuel_Production,Low Middle Income Countries
+13142,4678,4842,2054,Fossil_Fuel_Production,Low Middle Income Countries
+12941,4442,4592,2055,Fossil_Fuel_Production,Low Middle Income Countries
+12738,4207,4347,2056,Fossil_Fuel_Production,Low Middle Income Countries
+12538,3977,4107,2057,Fossil_Fuel_Production,Low Middle Income Countries
+12345,3755,3893,2058,Fossil_Fuel_Production,Low Middle Income Countries
+12158,3555,3683,2059,Fossil_Fuel_Production,Low Middle Income Countries
+11972,3358,3490,2060,Fossil_Fuel_Production,Low Middle Income Countries
+18737,18737,18737,2020,Fossil_Fuel_Production,North Africa & West Asia
+18862,18862,18862,2021,Fossil_Fuel_Production,North Africa & West Asia
+19184,19184,19184,2022,Fossil_Fuel_Production,North Africa & West Asia
+19649,19650,19650,2023,Fossil_Fuel_Production,North Africa & West Asia
+19718,19718,19718,2024,Fossil_Fuel_Production,North Africa & West Asia
+19830,19830,19830,2025,Fossil_Fuel_Production,North Africa & West Asia
+20188,20188,20188,2026,Fossil_Fuel_Production,North Africa & West Asia
+20448,20316,20310,2027,Fossil_Fuel_Production,North Africa & West Asia
+20627,20191,20174,2028,Fossil_Fuel_Production,North Africa & West Asia
+20789,19893,19878,2029,Fossil_Fuel_Production,North Africa & West Asia
+20918,19435,19448,2030,Fossil_Fuel_Production,North Africa & West Asia
+20996,18850,18893,2031,Fossil_Fuel_Production,North Africa & West Asia
+21080,18276,18360,2032,Fossil_Fuel_Production,North Africa & West Asia
+21149,17705,17838,2033,Fossil_Fuel_Production,North Africa & West Asia
+21234,17144,17328,2034,Fossil_Fuel_Production,North Africa & West Asia
+21337,16600,16835,2035,Fossil_Fuel_Production,North Africa & West Asia
+21450,16052,16330,2036,Fossil_Fuel_Production,North Africa & West Asia
+21542,15487,15800,2037,Fossil_Fuel_Production,North Africa & West Asia
+21586,14879,15206,2038,Fossil_Fuel_Production,North Africa & West Asia
+21540,14196,14528,2039,Fossil_Fuel_Production,North Africa & West Asia
+21388,13436,13773,2040,Fossil_Fuel_Production,North Africa & West Asia
+21166,12604,12921,2041,Fossil_Fuel_Production,North Africa & West Asia
+20923,11741,12044,2042,Fossil_Fuel_Production,North Africa & West Asia
+20652,10885,11176,2043,Fossil_Fuel_Production,North Africa & West Asia
+20368,10048,10328,2044,Fossil_Fuel_Production,North Africa & West Asia
+20078,9240,9508,2045,Fossil_Fuel_Production,North Africa & West Asia
+19792,8469,8723,2046,Fossil_Fuel_Production,North Africa & West Asia
+19494,7743,7980,2047,Fossil_Fuel_Production,North Africa & West Asia
+19174,7068,7288,2048,Fossil_Fuel_Production,North Africa & West Asia
+18817,6453,6658,2049,Fossil_Fuel_Production,North Africa & West Asia
+18420,5905,6089,2050,Fossil_Fuel_Production,North Africa & West Asia
+17990,5409,5582,2051,Fossil_Fuel_Production,North Africa & West Asia
+17515,4959,5117,2052,Fossil_Fuel_Production,North Africa & West Asia
+16996,4541,4686,2053,Fossil_Fuel_Production,North Africa & West Asia
+16447,4156,4284,2054,Fossil_Fuel_Production,North Africa & West Asia
+15879,3794,3907,2055,Fossil_Fuel_Production,North Africa & West Asia
+15302,3459,3556,2056,Fossil_Fuel_Production,North Africa & West Asia
+14727,3147,3232,2057,Fossil_Fuel_Production,North Africa & West Asia
+14160,2860,2935,2058,Fossil_Fuel_Production,North Africa & West Asia
+13601,2597,2666,2059,Fossil_Fuel_Production,North Africa & West Asia
+13052,2361,2425,2060,Fossil_Fuel_Production,North Africa & West Asia
+5043,5043,5043,2020,Fossil_Fuel_Production,Oceania
+5013,5013,5013,2021,Fossil_Fuel_Production,Oceania
+5030,5030,5030,2022,Fossil_Fuel_Production,Oceania
+5056,5057,5057,2023,Fossil_Fuel_Production,Oceania
+5034,5034,5034,2024,Fossil_Fuel_Production,Oceania
+5009,5009,5009,2025,Fossil_Fuel_Production,Oceania
+4995,4995,4995,2026,Fossil_Fuel_Production,Oceania
+4989,4966,4966,2027,Fossil_Fuel_Production,Oceania
+4978,4905,4904,2028,Fossil_Fuel_Production,Oceania
+4952,4802,4801,2029,Fossil_Fuel_Production,Oceania
+4965,4727,4729,2030,Fossil_Fuel_Production,Oceania
+4990,4652,4661,2031,Fossil_Fuel_Production,Oceania
+5022,4591,4607,2032,Fossil_Fuel_Production,Oceania
+5061,4458,4484,2033,Fossil_Fuel_Production,Oceania
+5114,4318,4353,2034,Fossil_Fuel_Production,Oceania
+5155,4179,4223,2035,Fossil_Fuel_Production,Oceania
+5221,4036,4086,2036,Fossil_Fuel_Production,Oceania
+5300,3875,3926,2037,Fossil_Fuel_Production,Oceania
+5389,3691,3741,2038,Fossil_Fuel_Production,Oceania
+5462,3533,3594,2039,Fossil_Fuel_Production,Oceania
+5503,3359,3405,2040,Fossil_Fuel_Production,Oceania
+5533,3193,3248,2041,Fossil_Fuel_Production,Oceania
+5554,2994,3043,2042,Fossil_Fuel_Production,Oceania
+5569,2804,2857,2043,Fossil_Fuel_Production,Oceania
+5579,2596,2639,2044,Fossil_Fuel_Production,Oceania
+5583,2409,2458,2045,Fossil_Fuel_Production,Oceania
+5595,2215,2255,2046,Fossil_Fuel_Production,Oceania
+5603,2048,2091,2047,Fossil_Fuel_Production,Oceania
+5607,1881,1915,2048,Fossil_Fuel_Production,Oceania
+5603,1741,1778,2049,Fossil_Fuel_Production,Oceania
+5591,1604,1633,2050,Fossil_Fuel_Production,Oceania
+5567,1492,1524,2051,Fossil_Fuel_Production,Oceania
+5523,1381,1406,2052,Fossil_Fuel_Production,Oceania
+5462,1286,1306,2053,Fossil_Fuel_Production,Oceania
+5385,1190,1208,2054,Fossil_Fuel_Production,Oceania
+5295,1100,1115,2055,Fossil_Fuel_Production,Oceania
+5192,1015,1028,2056,Fossil_Fuel_Production,Oceania
+5080,936.5,947.8,2057,Fossil_Fuel_Production,Oceania
+4960,864.3,874.9,2058,Fossil_Fuel_Production,Oceania
+4895,798.1,807.9,2059,Fossil_Fuel_Production,Oceania
+4781,733,741.1,2060,Fossil_Fuel_Production,Oceania
+4878,4878,4878,2020,Fossil_Fuel_Production,Sub-Saharan Africa
+4778,4778,4778,2021,Fossil_Fuel_Production,Sub-Saharan Africa
+4921,4921,4921,2022,Fossil_Fuel_Production,Sub-Saharan Africa
+5122,5122,5122,2023,Fossil_Fuel_Production,Sub-Saharan Africa
+5188,5188,5188,2024,Fossil_Fuel_Production,Sub-Saharan Africa
+5201,5201,5201,2025,Fossil_Fuel_Production,Sub-Saharan Africa
+5193,5194,5194,2026,Fossil_Fuel_Production,Sub-Saharan Africa
+5188,5171,5170,2027,Fossil_Fuel_Production,Sub-Saharan Africa
+5186,5121,5117,2028,Fossil_Fuel_Production,Sub-Saharan Africa
+5167,5021,5018,2029,Fossil_Fuel_Production,Sub-Saharan Africa
+5138,4886,4890,2030,Fossil_Fuel_Production,Sub-Saharan Africa
+5101,4721,4734,2031,Fossil_Fuel_Production,Sub-Saharan Africa
+5060,4549,4573,2032,Fossil_Fuel_Production,Sub-Saharan Africa
+5026,4383,4421,2033,Fossil_Fuel_Production,Sub-Saharan Africa
+4998,4233,4288,2034,Fossil_Fuel_Production,Sub-Saharan Africa
+4982,4093,4165,2035,Fossil_Fuel_Production,Sub-Saharan Africa
+4971,3962,4048,2036,Fossil_Fuel_Production,Sub-Saharan Africa
+4965,3836,3933,2037,Fossil_Fuel_Production,Sub-Saharan Africa
+4948,3707,3812,2038,Fossil_Fuel_Production,Sub-Saharan Africa
+4916,3568,3678,2039,Fossil_Fuel_Production,Sub-Saharan Africa
+4879,3412,3522,2040,Fossil_Fuel_Production,Sub-Saharan Africa
+4833,3237,3347,2041,Fossil_Fuel_Production,Sub-Saharan Africa
+4785,3053,3160,2042,Fossil_Fuel_Production,Sub-Saharan Africa
+4733,2869,2970,2043,Fossil_Fuel_Production,Sub-Saharan Africa
+4688,2692,2787,2044,Fossil_Fuel_Production,Sub-Saharan Africa
+4651,2524,2614,2045,Fossil_Fuel_Production,Sub-Saharan Africa
+4627,2363,2449,2046,Fossil_Fuel_Production,Sub-Saharan Africa
+4620,2203,2284,2047,Fossil_Fuel_Production,Sub-Saharan Africa
+4623,2052,2126,2048,Fossil_Fuel_Production,Sub-Saharan Africa
+4614,1918,1987,2049,Fossil_Fuel_Production,Sub-Saharan Africa
+4608,1800,1864,2050,Fossil_Fuel_Production,Sub-Saharan Africa
+4600,1693,1754,2051,Fossil_Fuel_Production,Sub-Saharan Africa
+4577,1596,1650,2052,Fossil_Fuel_Production,Sub-Saharan Africa
+4546,1505,1555,2053,Fossil_Fuel_Production,Sub-Saharan Africa
+4504,1419,1465,2054,Fossil_Fuel_Production,Sub-Saharan Africa
+4460,1336,1376,2055,Fossil_Fuel_Production,Sub-Saharan Africa
+4416,1256,1292,2056,Fossil_Fuel_Production,Sub-Saharan Africa
+4394,1180,1211,2057,Fossil_Fuel_Production,Sub-Saharan Africa
+4368,1107,1136,2058,Fossil_Fuel_Production,Sub-Saharan Africa
+4352,1037,1063,2059,Fossil_Fuel_Production,Sub-Saharan Africa
+4343,970.8,996.7,2060,Fossil_Fuel_Production,Sub-Saharan Africa
+50939,50939,50939,2020,Fossil_Fuel_Production,Upper Middle Income Countries
+51436,51436,51436,2021,Fossil_Fuel_Production,Upper Middle Income Countries
+52472,52472,52472,2022,Fossil_Fuel_Production,Upper Middle Income Countries
+53802,53802,53802,2023,Fossil_Fuel_Production,Upper Middle Income Countries
+54916,54916,54916,2024,Fossil_Fuel_Production,Upper Middle Income Countries
+56049,56049,56049,2025,Fossil_Fuel_Production,Upper Middle Income Countries
+57186,57186,57186,2026,Fossil_Fuel_Production,Upper Middle Income Countries
+58162,57615,57603,2027,Fossil_Fuel_Production,Upper Middle Income Countries
+58960,57143,57108,2028,Fossil_Fuel_Production,Upper Middle Income Countries
+59667,55906,55882,2029,Fossil_Fuel_Production,Upper Middle Income Countries
+60388,54208,54232,2030,Fossil_Fuel_Production,Upper Middle Income Countries
+61124,52268,52371,2031,Fossil_Fuel_Production,Upper Middle Income Countries
+61802,50339,50536,2032,Fossil_Fuel_Production,Upper Middle Income Countries
+62417,48492,48787,2033,Fossil_Fuel_Production,Upper Middle Income Countries
+62993,46700,47088,2034,Fossil_Fuel_Production,Upper Middle Income Countries
+63594,44964,45433,2035,Fossil_Fuel_Production,Upper Middle Income Countries
+64460,43254,43780,2036,Fossil_Fuel_Production,Upper Middle Income Countries
+65411,41523,42083,2037,Fossil_Fuel_Production,Upper Middle Income Countries
+66201,39743,40310,2038,Fossil_Fuel_Production,Upper Middle Income Countries
+66716,37850,38434,2039,Fossil_Fuel_Production,Upper Middle Income Countries
+67069,35798,36374,2040,Fossil_Fuel_Production,Upper Middle Income Countries
+67365,33571,34144,2041,Fossil_Fuel_Production,Upper Middle Income Countries
+67591,31424,31979,2042,Fossil_Fuel_Production,Upper Middle Income Countries
+67781,29334,29868,2043,Fossil_Fuel_Production,Upper Middle Income Countries
+67888,27443,27940,2044,Fossil_Fuel_Production,Upper Middle Income Countries
+68014,25681,26146,2045,Fossil_Fuel_Production,Upper Middle Income Countries
+68118,24119,24550,2046,Fossil_Fuel_Production,Upper Middle Income Countries
+68220,22656,23077,2047,Fossil_Fuel_Production,Upper Middle Income Countries
+68254,21335,21724,2048,Fossil_Fuel_Production,Upper Middle Income Countries
+68198,20195,20585,2049,Fossil_Fuel_Production,Upper Middle Income Countries
+68005,19058,19426,2050,Fossil_Fuel_Production,Upper Middle Income Countries
+67744,17913,18297,2051,Fossil_Fuel_Production,Upper Middle Income Countries
+67361,16825,17175,2052,Fossil_Fuel_Production,Upper Middle Income Countries
+66822,15769,16109,2053,Fossil_Fuel_Production,Upper Middle Income Countries
+66185,14766,15069,2054,Fossil_Fuel_Production,Upper Middle Income Countries
+65467,13792,14073,2055,Fossil_Fuel_Production,Upper Middle Income Countries
+64705,12860,13096,2056,Fossil_Fuel_Production,Upper Middle Income Countries
+63927,11966,12193,2057,Fossil_Fuel_Production,Upper Middle Income Countries
+63153,11104,11298,2058,Fossil_Fuel_Production,Upper Middle Income Countries
+62397,10293,10488,2059,Fossil_Fuel_Production,Upper Middle Income Countries
+61653,9547,9715,2060,Fossil_Fuel_Production,Upper Middle Income Countries
+128334,128334,128334,2020,Fossil_Fuel_Production,World
+129058,129058,129058,2021,Fossil_Fuel_Production,World
+130990,130990,130990,2022,Fossil_Fuel_Production,World
+133375,133375,133375,2023,Fossil_Fuel_Production,World
+135109,135110,135110,2024,Fossil_Fuel_Production,World
+136737,136738,136738,2025,Fossil_Fuel_Production,World
+138449,138451,138452,2026,Fossil_Fuel_Production,World
+139807,138844,138817,2027,Fossil_Fuel_Production,World
+140786,137575,137496,2028,Fossil_Fuel_Production,World
+141471,134853,134807,2029,Fossil_Fuel_Production,World
+142051,131235,131321,2030,Fossil_Fuel_Production,World
+142597,127187,127472,2031,Fossil_Fuel_Production,World
+143115,123061,123607,2032,Fossil_Fuel_Production,World
+143637,118783,119618,2033,Fossil_Fuel_Production,World
+144239,114565,115686,2034,Fossil_Fuel_Production,World
+144972,110472,111849,2035,Fossil_Fuel_Production,World
+146076,106412,107982,2036,Fossil_Fuel_Production,World
+147288,102279,103971,2037,Fossil_Fuel_Production,World
+148119,97946,99676,2038,Fossil_Fuel_Production,World
+148378,93134,94893,2039,Fossil_Fuel_Production,World
+148306,87781,89499,2040,Fossil_Fuel_Production,World
+148037,81996,83660,2041,Fossil_Fuel_Production,World
+147631,76217,77800,2042,Fossil_Fuel_Production,World
+147121,70640,72134,2043,Fossil_Fuel_Production,World
+146550,65488,66858,2044,Fossil_Fuel_Production,World
+146020,60825,62100,2045,Fossil_Fuel_Production,World
+145537,56490,57685,2046,Fossil_Fuel_Production,World
+145056,52464,53633,2047,Fossil_Fuel_Production,World
+144162,48788,49853,2048,Fossil_Fuel_Production,World
+142922,45575,46633,2049,Fossil_Fuel_Production,World
+141984,42600,43582,2050,Fossil_Fuel_Production,World
+140814,39818,40779,2051,Fossil_Fuel_Production,World
+139307,37205,38086,2052,Fossil_Fuel_Production,World
+137549,34731,35574,2053,Fossil_Fuel_Production,World
+135578,32384,33140,2054,Fossil_Fuel_Production,World
+133441,30126,30824,2055,Fossil_Fuel_Production,World
+131203,27979,28577,2056,Fossil_Fuel_Production,World
+128939,25940,26501,2057,Fossil_Fuel_Production,World
+126667,24006,24505,2058,Fossil_Fuel_Production,World
+124475,22208,22690,2059,Fossil_Fuel_Production,World
+122273,20540,20972,2060,Fossil_Fuel_Production,World

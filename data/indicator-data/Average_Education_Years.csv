@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+6.478,6.478,6.478,2020,Average_Education_Years,Central & Southern Asia
+6.565,6.565,6.565,2021,Average_Education_Years,Central & Southern Asia
+6.656,6.656,6.656,2022,Average_Education_Years,Central & Southern Asia
+6.746,6.746,6.746,2023,Average_Education_Years,Central & Southern Asia
+6.836,6.836,6.836,2024,Average_Education_Years,Central & Southern Asia
+6.925,6.925,6.925,2025,Average_Education_Years,Central & Southern Asia
+7.012,7.012,7.015,2026,Average_Education_Years,Central & Southern Asia
+7.1,7.1,7.105,2027,Average_Education_Years,Central & Southern Asia
+7.187,7.187,7.197,2028,Average_Education_Years,Central & Southern Asia
+7.274,7.273,7.289,2029,Average_Education_Years,Central & Southern Asia
+7.359,7.358,7.381,2030,Average_Education_Years,Central & Southern Asia
+7.443,7.442,7.473,2031,Average_Education_Years,Central & Southern Asia
+7.525,7.524,7.565,2032,Average_Education_Years,Central & Southern Asia
+7.607,7.605,7.656,2033,Average_Education_Years,Central & Southern Asia
+7.687,7.685,7.748,2034,Average_Education_Years,Central & Southern Asia
+7.766,7.764,7.841,2035,Average_Education_Years,Central & Southern Asia
+7.844,7.842,7.933,2036,Average_Education_Years,Central & Southern Asia
+7.921,7.919,8.026,2037,Average_Education_Years,Central & Southern Asia
+7.997,7.995,8.119,2038,Average_Education_Years,Central & Southern Asia
+8.071,8.07,8.212,2039,Average_Education_Years,Central & Southern Asia
+8.146,8.144,8.304,2040,Average_Education_Years,Central & Southern Asia
+8.219,8.218,8.397,2041,Average_Education_Years,Central & Southern Asia
+8.291,8.29,8.489,2042,Average_Education_Years,Central & Southern Asia
+8.363,8.362,8.581,2043,Average_Education_Years,Central & Southern Asia
+8.433,8.433,8.673,2044,Average_Education_Years,Central & Southern Asia
+8.503,8.503,8.764,2045,Average_Education_Years,Central & Southern Asia
+8.572,8.572,8.854,2046,Average_Education_Years,Central & Southern Asia
+8.639,8.64,8.944,2047,Average_Education_Years,Central & Southern Asia
+8.707,8.708,9.034,2048,Average_Education_Years,Central & Southern Asia
+8.773,8.775,9.124,2049,Average_Education_Years,Central & Southern Asia
+8.84,8.842,9.213,2050,Average_Education_Years,Central & Southern Asia
+8.905,8.908,9.302,2051,Average_Education_Years,Central & Southern Asia
+8.971,8.974,9.39,2052,Average_Education_Years,Central & Southern Asia
+9.035,9.039,9.477,2053,Average_Education_Years,Central & Southern Asia
+9.099,9.103,9.562,2054,Average_Education_Years,Central & Southern Asia
+9.163,9.167,9.647,2055,Average_Education_Years,Central & Southern Asia
+9.225,9.229,9.731,2056,Average_Education_Years,Central & Southern Asia
+9.287,9.292,9.815,2057,Average_Education_Years,Central & Southern Asia
+9.349,9.353,9.899,2058,Average_Education_Years,Central & Southern Asia
+9.41,9.415,9.983,2059,Average_Education_Years,Central & Southern Asia
+9.472,9.477,10.07,2060,Average_Education_Years,Central & Southern Asia
+8.82,8.82,8.82,2020,Average_Education_Years,East & Southeast Asia
+8.896,8.896,8.896,2021,Average_Education_Years,East & Southeast Asia
+8.973,8.973,8.973,2022,Average_Education_Years,East & Southeast Asia
+9.046,9.046,9.046,2023,Average_Education_Years,East & Southeast Asia
+9.118,9.118,9.118,2024,Average_Education_Years,East & Southeast Asia
+9.188,9.188,9.189,2025,Average_Education_Years,East & Southeast Asia
+9.258,9.258,9.26,2026,Average_Education_Years,East & Southeast Asia
+9.326,9.326,9.331,2027,Average_Education_Years,East & Southeast Asia
+9.394,9.394,9.403,2028,Average_Education_Years,East & Southeast Asia
+9.462,9.462,9.475,2029,Average_Education_Years,East & Southeast Asia
+9.53,9.53,9.549,2030,Average_Education_Years,East & Southeast Asia
+9.599,9.599,9.624,2031,Average_Education_Years,East & Southeast Asia
+9.667,9.667,9.7,2032,Average_Education_Years,East & Southeast Asia
+9.736,9.736,9.777,2033,Average_Education_Years,East & Southeast Asia
+9.805,9.805,9.856,2034,Average_Education_Years,East & Southeast Asia
+9.875,9.875,9.936,2035,Average_Education_Years,East & Southeast Asia
+9.946,9.946,10.02,2036,Average_Education_Years,East & Southeast Asia
+10.02,10.02,10.1,2037,Average_Education_Years,East & Southeast Asia
+10.09,10.09,10.18,2038,Average_Education_Years,East & Southeast Asia
+10.16,10.16,10.27,2039,Average_Education_Years,East & Southeast Asia
+10.23,10.23,10.35,2040,Average_Education_Years,East & Southeast Asia
+10.3,10.3,10.44,2041,Average_Education_Years,East & Southeast Asia
+10.37,10.37,10.52,2042,Average_Education_Years,East & Southeast Asia
+10.44,10.44,10.61,2043,Average_Education_Years,East & Southeast Asia
+10.5,10.5,10.69,2044,Average_Education_Years,East & Southeast Asia
+10.57,10.57,10.77,2045,Average_Education_Years,East & Southeast Asia
+10.63,10.63,10.85,2046,Average_Education_Years,East & Southeast Asia
+10.69,10.69,10.92,2047,Average_Education_Years,East & Southeast Asia
+10.75,10.75,11,2048,Average_Education_Years,East & Southeast Asia
+10.81,10.81,11.07,2049,Average_Education_Years,East & Southeast Asia
+10.87,10.87,11.15,2050,Average_Education_Years,East & Southeast Asia
+10.93,10.93,11.22,2051,Average_Education_Years,East & Southeast Asia
+10.99,10.99,11.3,2052,Average_Education_Years,East & Southeast Asia
+11.05,11.05,11.38,2053,Average_Education_Years,East & Southeast Asia
+11.11,11.11,11.45,2054,Average_Education_Years,East & Southeast Asia
+11.17,11.17,11.53,2055,Average_Education_Years,East & Southeast Asia
+11.23,11.23,11.6,2056,Average_Education_Years,East & Southeast Asia
+11.28,11.29,11.68,2057,Average_Education_Years,East & Southeast Asia
+11.34,11.35,11.75,2058,Average_Education_Years,East & Southeast Asia
+11.4,11.4,11.83,2059,Average_Education_Years,East & Southeast Asia
+11.46,11.46,11.9,2060,Average_Education_Years,East & Southeast Asia
+11.71,11.71,11.71,2020,Average_Education_Years,Europe & North America
+11.76,11.76,11.76,2021,Average_Education_Years,Europe & North America
+11.81,11.81,11.81,2022,Average_Education_Years,Europe & North America
+11.85,11.85,11.85,2023,Average_Education_Years,Europe & North America
+11.9,11.9,11.9,2024,Average_Education_Years,Europe & North America
+11.94,11.94,11.94,2025,Average_Education_Years,Europe & North America
+11.98,11.98,11.99,2026,Average_Education_Years,Europe & North America
+12.03,12.03,12.03,2027,Average_Education_Years,Europe & North America
+12.07,12.07,12.08,2028,Average_Education_Years,Europe & North America
+12.11,12.11,12.13,2029,Average_Education_Years,Europe & North America
+12.15,12.15,12.17,2030,Average_Education_Years,Europe & North America
+12.19,12.19,12.22,2031,Average_Education_Years,Europe & North America
+12.23,12.23,12.27,2032,Average_Education_Years,Europe & North America
+12.28,12.28,12.32,2033,Average_Education_Years,Europe & North America
+12.31,12.32,12.37,2034,Average_Education_Years,Europe & North America
+12.35,12.35,12.42,2035,Average_Education_Years,Europe & North America
+12.39,12.39,12.47,2036,Average_Education_Years,Europe & North America
+12.43,12.43,12.52,2037,Average_Education_Years,Europe & North America
+12.47,12.47,12.57,2038,Average_Education_Years,Europe & North America
+12.51,12.51,12.62,2039,Average_Education_Years,Europe & North America
+12.55,12.55,12.67,2040,Average_Education_Years,Europe & North America
+12.58,12.58,12.72,2041,Average_Education_Years,Europe & North America
+12.62,12.62,12.77,2042,Average_Education_Years,Europe & North America
+12.65,12.66,12.82,2043,Average_Education_Years,Europe & North America
+12.69,12.69,12.87,2044,Average_Education_Years,Europe & North America
+12.73,12.73,12.92,2045,Average_Education_Years,Europe & North America
+12.76,12.76,12.97,2046,Average_Education_Years,Europe & North America
+12.79,12.79,13.02,2047,Average_Education_Years,Europe & North America
+12.83,12.83,13.07,2048,Average_Education_Years,Europe & North America
+12.86,12.86,13.11,2049,Average_Education_Years,Europe & North America
+12.89,12.89,13.16,2050,Average_Education_Years,Europe & North America
+12.92,12.93,13.21,2051,Average_Education_Years,Europe & North America
+12.96,12.96,13.26,2052,Average_Education_Years,Europe & North America
+12.99,12.99,13.3,2053,Average_Education_Years,Europe & North America
+13.02,13.02,13.35,2054,Average_Education_Years,Europe & North America
+13.05,13.05,13.4,2055,Average_Education_Years,Europe & North America
+13.08,13.09,13.44,2056,Average_Education_Years,Europe & North America
+13.11,13.12,13.49,2057,Average_Education_Years,Europe & North America
+13.14,13.15,13.54,2058,Average_Education_Years,Europe & North America
+13.17,13.18,13.58,2059,Average_Education_Years,Europe & North America
+13.2,13.21,13.63,2060,Average_Education_Years,Europe & North America
+12.44,12.44,12.44,2020,Average_Education_Years,High Income Countries
+12.47,12.47,12.47,2021,Average_Education_Years,High Income Countries
+12.51,12.51,12.51,2022,Average_Education_Years,High Income Countries
+12.54,12.54,12.54,2023,Average_Education_Years,High Income Countries
+12.57,12.57,12.57,2024,Average_Education_Years,High Income Countries
+12.6,12.6,12.6,2025,Average_Education_Years,High Income Countries
+12.64,12.64,12.64,2026,Average_Education_Years,High Income Countries
+12.67,12.67,12.68,2027,Average_Education_Years,High Income Countries
+12.7,12.7,12.71,2028,Average_Education_Years,High Income Countries
+12.74,12.74,12.75,2029,Average_Education_Years,High Income Countries
+12.77,12.77,12.79,2030,Average_Education_Years,High Income Countries
+12.8,12.8,12.83,2031,Average_Education_Years,High Income Countries
+12.84,12.84,12.87,2032,Average_Education_Years,High Income Countries
+12.87,12.87,12.91,2033,Average_Education_Years,High Income Countries
+12.9,12.9,12.95,2034,Average_Education_Years,High Income Countries
+12.93,12.93,13,2035,Average_Education_Years,High Income Countries
+12.97,12.97,13.04,2036,Average_Education_Years,High Income Countries
+13,13,13.08,2037,Average_Education_Years,High Income Countries
+13.04,13.04,13.13,2038,Average_Education_Years,High Income Countries
+13.07,13.07,13.17,2039,Average_Education_Years,High Income Countries
+13.1,13.1,13.22,2040,Average_Education_Years,High Income Countries
+13.13,13.13,13.26,2041,Average_Education_Years,High Income Countries
+13.16,13.16,13.3,2042,Average_Education_Years,High Income Countries
+13.18,13.18,13.34,2043,Average_Education_Years,High Income Countries
+13.21,13.21,13.38,2044,Average_Education_Years,High Income Countries
+13.23,13.23,13.41,2045,Average_Education_Years,High Income Countries
+13.26,13.26,13.45,2046,Average_Education_Years,High Income Countries
+13.28,13.28,13.49,2047,Average_Education_Years,High Income Countries
+13.3,13.3,13.52,2048,Average_Education_Years,High Income Countries
+13.32,13.33,13.56,2049,Average_Education_Years,High Income Countries
+13.35,13.35,13.6,2050,Average_Education_Years,High Income Countries
+13.37,13.37,13.63,2051,Average_Education_Years,High Income Countries
+13.39,13.39,13.67,2052,Average_Education_Years,High Income Countries
+13.41,13.41,13.7,2053,Average_Education_Years,High Income Countries
+13.43,13.43,13.74,2054,Average_Education_Years,High Income Countries
+13.45,13.45,13.77,2055,Average_Education_Years,High Income Countries
+13.47,13.47,13.81,2056,Average_Education_Years,High Income Countries
+13.49,13.49,13.84,2057,Average_Education_Years,High Income Countries
+13.51,13.51,13.87,2058,Average_Education_Years,High Income Countries
+13.53,13.53,13.91,2059,Average_Education_Years,High Income Countries
+13.55,13.55,13.94,2060,Average_Education_Years,High Income Countries
+8.455,8.455,8.455,2020,Average_Education_Years,Latin America & the Caribbean
+8.537,8.537,8.537,2021,Average_Education_Years,Latin America & the Caribbean
+8.622,8.622,8.622,2022,Average_Education_Years,Latin America & the Caribbean
+8.704,8.704,8.704,2023,Average_Education_Years,Latin America & the Caribbean
+8.785,8.785,8.785,2024,Average_Education_Years,Latin America & the Caribbean
+8.863,8.863,8.863,2025,Average_Education_Years,Latin America & the Caribbean
+8.939,8.939,8.942,2026,Average_Education_Years,Latin America & the Caribbean
+9.014,9.014,9.021,2027,Average_Education_Years,Latin America & the Caribbean
+9.088,9.088,9.1,2028,Average_Education_Years,Latin America & the Caribbean
+9.161,9.161,9.18,2029,Average_Education_Years,Latin America & the Caribbean
+9.233,9.233,9.259,2030,Average_Education_Years,Latin America & the Caribbean
+9.304,9.304,9.339,2031,Average_Education_Years,Latin America & the Caribbean
+9.373,9.373,9.419,2032,Average_Education_Years,Latin America & the Caribbean
+9.442,9.442,9.498,2033,Average_Education_Years,Latin America & the Caribbean
+9.509,9.51,9.578,2034,Average_Education_Years,Latin America & the Caribbean
+9.576,9.577,9.658,2035,Average_Education_Years,Latin America & the Caribbean
+9.642,9.643,9.739,2036,Average_Education_Years,Latin America & the Caribbean
+9.707,9.708,9.819,2037,Average_Education_Years,Latin America & the Caribbean
+9.771,9.772,9.899,2038,Average_Education_Years,Latin America & the Caribbean
+9.834,9.836,9.979,2039,Average_Education_Years,Latin America & the Caribbean
+9.896,9.899,10.06,2040,Average_Education_Years,Latin America & the Caribbean
+9.958,9.96,10.14,2041,Average_Education_Years,Latin America & the Caribbean
+10.02,10.02,10.22,2042,Average_Education_Years,Latin America & the Caribbean
+10.08,10.08,10.29,2043,Average_Education_Years,Latin America & the Caribbean
+10.14,10.14,10.37,2044,Average_Education_Years,Latin America & the Caribbean
+10.19,10.2,10.45,2045,Average_Education_Years,Latin America & the Caribbean
+10.25,10.25,10.52,2046,Average_Education_Years,Latin America & the Caribbean
+10.3,10.31,10.6,2047,Average_Education_Years,Latin America & the Caribbean
+10.36,10.37,10.67,2048,Average_Education_Years,Latin America & the Caribbean
+10.41,10.42,10.74,2049,Average_Education_Years,Latin America & the Caribbean
+10.47,10.47,10.82,2050,Average_Education_Years,Latin America & the Caribbean
+10.52,10.53,10.89,2051,Average_Education_Years,Latin America & the Caribbean
+10.57,10.58,10.96,2052,Average_Education_Years,Latin America & the Caribbean
+10.62,10.63,11.03,2053,Average_Education_Years,Latin America & the Caribbean
+10.68,10.69,11.11,2054,Average_Education_Years,Latin America & the Caribbean
+10.73,10.74,11.18,2055,Average_Education_Years,Latin America & the Caribbean
+10.78,10.79,11.25,2056,Average_Education_Years,Latin America & the Caribbean
+10.83,10.84,11.32,2057,Average_Education_Years,Latin America & the Caribbean
+10.88,10.89,11.39,2058,Average_Education_Years,Latin America & the Caribbean
+10.93,10.94,11.46,2059,Average_Education_Years,Latin America & the Caribbean
+10.97,10.99,11.53,2060,Average_Education_Years,Latin America & the Caribbean
+5.228,5.228,5.228,2020,Average_Education_Years,Low Income Countries
+5.275,5.275,5.275,2021,Average_Education_Years,Low Income Countries
+5.332,5.332,5.332,2022,Average_Education_Years,Low Income Countries
+5.391,5.391,5.391,2023,Average_Education_Years,Low Income Countries
+5.453,5.453,5.453,2024,Average_Education_Years,Low Income Countries
+5.522,5.522,5.523,2025,Average_Education_Years,Low Income Countries
+5.594,5.594,5.597,2026,Average_Education_Years,Low Income Countries
+5.664,5.663,5.669,2027,Average_Education_Years,Low Income Countries
+5.732,5.731,5.742,2028,Average_Education_Years,Low Income Countries
+5.8,5.798,5.816,2029,Average_Education_Years,Low Income Countries
+5.867,5.865,5.89,2030,Average_Education_Years,Low Income Countries
+5.933,5.93,5.965,2031,Average_Education_Years,Low Income Countries
+5.998,5.995,6.041,2032,Average_Education_Years,Low Income Countries
+6.063,6.06,6.117,2033,Average_Education_Years,Low Income Countries
+6.127,6.124,6.193,2034,Average_Education_Years,Low Income Countries
+6.192,6.188,6.27,2035,Average_Education_Years,Low Income Countries
+6.256,6.252,6.348,2036,Average_Education_Years,Low Income Countries
+6.32,6.316,6.426,2037,Average_Education_Years,Low Income Countries
+6.384,6.38,6.504,2038,Average_Education_Years,Low Income Countries
+6.448,6.444,6.582,2039,Average_Education_Years,Low Income Countries
+6.511,6.508,6.66,2040,Average_Education_Years,Low Income Countries
+6.575,6.572,6.739,2041,Average_Education_Years,Low Income Countries
+6.638,6.635,6.818,2042,Average_Education_Years,Low Income Countries
+6.702,6.699,6.897,2043,Average_Education_Years,Low Income Countries
+6.766,6.764,6.977,2044,Average_Education_Years,Low Income Countries
+6.83,6.829,7.057,2045,Average_Education_Years,Low Income Countries
+6.895,6.895,7.139,2046,Average_Education_Years,Low Income Countries
+6.96,6.961,7.221,2047,Average_Education_Years,Low Income Countries
+7.025,7.028,7.304,2048,Average_Education_Years,Low Income Countries
+7.091,7.095,7.387,2049,Average_Education_Years,Low Income Countries
+7.157,7.162,7.47,2050,Average_Education_Years,Low Income Countries
+7.224,7.23,7.554,2051,Average_Education_Years,Low Income Countries
+7.29,7.298,7.638,2052,Average_Education_Years,Low Income Countries
+7.357,7.366,7.723,2053,Average_Education_Years,Low Income Countries
+7.424,7.434,7.807,2054,Average_Education_Years,Low Income Countries
+7.491,7.502,7.892,2055,Average_Education_Years,Low Income Countries
+7.558,7.57,7.977,2056,Average_Education_Years,Low Income Countries
+7.626,7.639,8.061,2057,Average_Education_Years,Low Income Countries
+7.693,7.707,8.146,2058,Average_Education_Years,Low Income Countries
+7.761,7.775,8.23,2059,Average_Education_Years,Low Income Countries
+7.829,7.843,8.314,2060,Average_Education_Years,Low Income Countries
+7.386,7.386,7.386,2020,Average_Education_Years,Low Middle Income Countries
+7.448,7.448,7.448,2021,Average_Education_Years,Low Middle Income Countries
+7.517,7.517,7.517,2022,Average_Education_Years,Low Middle Income Countries
+7.586,7.586,7.586,2023,Average_Education_Years,Low Middle Income Countries
+7.656,7.656,7.656,2024,Average_Education_Years,Low Middle Income Countries
+7.724,7.724,7.726,2025,Average_Education_Years,Low Middle Income Countries
+7.793,7.793,7.798,2026,Average_Education_Years,Low Middle Income Countries
+7.86,7.859,7.869,2027,Average_Education_Years,Low Middle Income Countries
+7.925,7.924,7.94,2028,Average_Education_Years,Low Middle Income Countries
+7.988,7.988,8.01,2029,Average_Education_Years,Low Middle Income Countries
+8.052,8.051,8.081,2030,Average_Education_Years,Low Middle Income Countries
+8.114,8.113,8.152,2031,Average_Education_Years,Low Middle Income Countries
+8.176,8.174,8.225,2032,Average_Education_Years,Low Middle Income Countries
+8.237,8.236,8.298,2033,Average_Education_Years,Low Middle Income Countries
+8.298,8.296,8.371,2034,Average_Education_Years,Low Middle Income Countries
+8.359,8.357,8.445,2035,Average_Education_Years,Low Middle Income Countries
+8.419,8.417,8.52,2036,Average_Education_Years,Low Middle Income Countries
+8.479,8.477,8.595,2037,Average_Education_Years,Low Middle Income Countries
+8.538,8.537,8.67,2038,Average_Education_Years,Low Middle Income Countries
+8.596,8.595,8.744,2039,Average_Education_Years,Low Middle Income Countries
+8.654,8.653,8.817,2040,Average_Education_Years,Low Middle Income Countries
+8.711,8.711,8.89,2041,Average_Education_Years,Low Middle Income Countries
+8.768,8.768,8.963,2042,Average_Education_Years,Low Middle Income Countries
+8.824,8.824,9.036,2043,Average_Education_Years,Low Middle Income Countries
+8.88,8.88,9.109,2044,Average_Education_Years,Low Middle Income Countries
+8.936,8.936,9.182,2045,Average_Education_Years,Low Middle Income Countries
+8.992,8.992,9.256,2046,Average_Education_Years,Low Middle Income Countries
+9.047,9.048,9.329,2047,Average_Education_Years,Low Middle Income Countries
+9.101,9.103,9.401,2048,Average_Education_Years,Low Middle Income Countries
+9.155,9.157,9.473,2049,Average_Education_Years,Low Middle Income Countries
+9.208,9.21,9.544,2050,Average_Education_Years,Low Middle Income Countries
+9.26,9.262,9.614,2051,Average_Education_Years,Low Middle Income Countries
+9.311,9.314,9.685,2052,Average_Education_Years,Low Middle Income Countries
+9.362,9.365,9.755,2053,Average_Education_Years,Low Middle Income Countries
+9.413,9.417,9.824,2054,Average_Education_Years,Low Middle Income Countries
+9.463,9.468,9.893,2055,Average_Education_Years,Low Middle Income Countries
+9.514,9.519,9.962,2056,Average_Education_Years,Low Middle Income Countries
+9.564,9.57,10.03,2057,Average_Education_Years,Low Middle Income Countries
+9.615,9.621,10.1,2058,Average_Education_Years,Low Middle Income Countries
+9.665,9.672,10.17,2059,Average_Education_Years,Low Middle Income Countries
+9.716,9.723,10.24,2060,Average_Education_Years,Low Middle Income Countries
+7.892,7.892,7.892,2020,Average_Education_Years,North Africa & West Asia
+7.966,7.966,7.966,2021,Average_Education_Years,North Africa & West Asia
+8.039,8.039,8.039,2022,Average_Education_Years,North Africa & West Asia
+8.11,8.11,8.11,2023,Average_Education_Years,North Africa & West Asia
+8.18,8.18,8.18,2024,Average_Education_Years,North Africa & West Asia
+8.247,8.247,8.247,2025,Average_Education_Years,North Africa & West Asia
+8.313,8.313,8.316,2026,Average_Education_Years,North Africa & West Asia
+8.379,8.379,8.384,2027,Average_Education_Years,North Africa & West Asia
+8.445,8.445,8.455,2028,Average_Education_Years,North Africa & West Asia
+8.511,8.511,8.526,2029,Average_Education_Years,North Africa & West Asia
+8.577,8.577,8.598,2030,Average_Education_Years,North Africa & West Asia
+8.642,8.642,8.671,2031,Average_Education_Years,North Africa & West Asia
+8.706,8.706,8.745,2032,Average_Education_Years,North Africa & West Asia
+8.77,8.769,8.819,2033,Average_Education_Years,North Africa & West Asia
+8.833,8.833,8.894,2034,Average_Education_Years,North Africa & West Asia
+8.897,8.896,8.97,2035,Average_Education_Years,North Africa & West Asia
+8.959,8.958,9.047,2036,Average_Education_Years,North Africa & West Asia
+9.021,9.02,9.124,2037,Average_Education_Years,North Africa & West Asia
+9.081,9.08,9.202,2038,Average_Education_Years,North Africa & West Asia
+9.141,9.14,9.28,2039,Average_Education_Years,North Africa & West Asia
+9.2,9.198,9.358,2040,Average_Education_Years,North Africa & West Asia
+9.258,9.256,9.435,2041,Average_Education_Years,North Africa & West Asia
+9.314,9.312,9.511,2042,Average_Education_Years,North Africa & West Asia
+9.369,9.367,9.587,2043,Average_Education_Years,North Africa & West Asia
+9.422,9.42,9.661,2044,Average_Education_Years,North Africa & West Asia
+9.474,9.471,9.734,2045,Average_Education_Years,North Africa & West Asia
+9.525,9.523,9.807,2046,Average_Education_Years,North Africa & West Asia
+9.575,9.573,9.88,2047,Average_Education_Years,North Africa & West Asia
+9.624,9.622,9.953,2048,Average_Education_Years,North Africa & West Asia
+9.673,9.671,10.03,2049,Average_Education_Years,North Africa & West Asia
+9.721,9.72,10.1,2050,Average_Education_Years,North Africa & West Asia
+9.768,9.768,10.17,2051,Average_Education_Years,North Africa & West Asia
+9.815,9.815,10.24,2052,Average_Education_Years,North Africa & West Asia
+9.862,9.862,10.31,2053,Average_Education_Years,North Africa & West Asia
+9.908,9.909,10.38,2054,Average_Education_Years,North Africa & West Asia
+9.954,9.956,10.45,2055,Average_Education_Years,North Africa & West Asia
+10,10,10.52,2056,Average_Education_Years,North Africa & West Asia
+10.05,10.05,10.59,2057,Average_Education_Years,North Africa & West Asia
+10.09,10.1,10.66,2058,Average_Education_Years,North Africa & West Asia
+10.14,10.14,10.73,2059,Average_Education_Years,North Africa & West Asia
+10.18,10.19,10.8,2060,Average_Education_Years,North Africa & West Asia
+11.37,11.37,11.37,2020,Average_Education_Years,Oceania
+11.39,11.39,11.39,2021,Average_Education_Years,Oceania
+11.41,11.41,11.41,2022,Average_Education_Years,Oceania
+11.44,11.44,11.44,2023,Average_Education_Years,Oceania
+11.46,11.46,11.46,2024,Average_Education_Years,Oceania
+11.48,11.48,11.48,2025,Average_Education_Years,Oceania
+11.5,11.5,11.5,2026,Average_Education_Years,Oceania
+11.51,11.51,11.52,2027,Average_Education_Years,Oceania
+11.53,11.53,11.54,2028,Average_Education_Years,Oceania
+11.55,11.55,11.57,2029,Average_Education_Years,Oceania
+11.58,11.58,11.6,2030,Average_Education_Years,Oceania
+11.6,11.6,11.62,2031,Average_Education_Years,Oceania
+11.62,11.62,11.65,2032,Average_Education_Years,Oceania
+11.64,11.64,11.69,2033,Average_Education_Years,Oceania
+11.66,11.66,11.72,2034,Average_Education_Years,Oceania
+11.68,11.68,11.76,2035,Average_Education_Years,Oceania
+11.71,11.71,11.79,2036,Average_Education_Years,Oceania
+11.73,11.73,11.83,2037,Average_Education_Years,Oceania
+11.75,11.75,11.87,2038,Average_Education_Years,Oceania
+11.78,11.78,11.91,2039,Average_Education_Years,Oceania
+11.8,11.8,11.96,2040,Average_Education_Years,Oceania
+11.83,11.83,12,2041,Average_Education_Years,Oceania
+11.85,11.85,12.05,2042,Average_Education_Years,Oceania
+11.88,11.88,12.09,2043,Average_Education_Years,Oceania
+11.91,11.9,12.14,2044,Average_Education_Years,Oceania
+11.93,11.93,12.19,2045,Average_Education_Years,Oceania
+11.96,11.96,12.24,2046,Average_Education_Years,Oceania
+11.99,11.99,12.29,2047,Average_Education_Years,Oceania
+12.02,12.01,12.34,2048,Average_Education_Years,Oceania
+12.04,12.04,12.39,2049,Average_Education_Years,Oceania
+12.07,12.07,12.44,2050,Average_Education_Years,Oceania
+12.1,12.1,12.49,2051,Average_Education_Years,Oceania
+12.13,12.13,12.54,2052,Average_Education_Years,Oceania
+12.16,12.16,12.6,2053,Average_Education_Years,Oceania
+12.19,12.19,12.65,2054,Average_Education_Years,Oceania
+12.22,12.22,12.7,2055,Average_Education_Years,Oceania
+12.25,12.25,12.76,2056,Average_Education_Years,Oceania
+12.28,12.28,12.81,2057,Average_Education_Years,Oceania
+12.32,12.32,12.87,2058,Average_Education_Years,Oceania
+12.35,12.35,12.92,2059,Average_Education_Years,Oceania
+12.38,12.38,12.97,2060,Average_Education_Years,Oceania
+5.773,5.773,5.773,2020,Average_Education_Years,Sub-Saharan Africa
+5.814,5.814,5.814,2021,Average_Education_Years,Sub-Saharan Africa
+5.861,5.861,5.861,2022,Average_Education_Years,Sub-Saharan Africa
+5.911,5.911,5.911,2023,Average_Education_Years,Sub-Saharan Africa
+5.96,5.96,5.96,2024,Average_Education_Years,Sub-Saharan Africa
+6.01,6.01,6.01,2025,Average_Education_Years,Sub-Saharan Africa
+6.06,6.06,6.06,2026,Average_Education_Years,Sub-Saharan Africa
+6.109,6.109,6.11,2027,Average_Education_Years,Sub-Saharan Africa
+6.161,6.16,6.162,2028,Average_Education_Years,Sub-Saharan Africa
+6.213,6.213,6.217,2029,Average_Education_Years,Sub-Saharan Africa
+6.267,6.266,6.274,2030,Average_Education_Years,Sub-Saharan Africa
+6.322,6.321,6.332,2031,Average_Education_Years,Sub-Saharan Africa
+6.378,6.377,6.393,2032,Average_Education_Years,Sub-Saharan Africa
+6.435,6.433,6.456,2033,Average_Education_Years,Sub-Saharan Africa
+6.492,6.491,6.52,2034,Average_Education_Years,Sub-Saharan Africa
+6.551,6.549,6.587,2035,Average_Education_Years,Sub-Saharan Africa
+6.609,6.607,6.655,2036,Average_Education_Years,Sub-Saharan Africa
+6.669,6.666,6.725,2037,Average_Education_Years,Sub-Saharan Africa
+6.729,6.726,6.797,2038,Average_Education_Years,Sub-Saharan Africa
+6.79,6.787,6.87,2039,Average_Education_Years,Sub-Saharan Africa
+6.851,6.848,6.945,2040,Average_Education_Years,Sub-Saharan Africa
+6.913,6.91,7.02,2041,Average_Education_Years,Sub-Saharan Africa
+6.974,6.972,7.097,2042,Average_Education_Years,Sub-Saharan Africa
+7.037,7.034,7.174,2043,Average_Education_Years,Sub-Saharan Africa
+7.099,7.096,7.252,2044,Average_Education_Years,Sub-Saharan Africa
+7.162,7.159,7.331,2045,Average_Education_Years,Sub-Saharan Africa
+7.224,7.222,7.41,2046,Average_Education_Years,Sub-Saharan Africa
+7.287,7.286,7.489,2047,Average_Education_Years,Sub-Saharan Africa
+7.351,7.349,7.57,2048,Average_Education_Years,Sub-Saharan Africa
+7.414,7.413,7.651,2049,Average_Education_Years,Sub-Saharan Africa
+7.478,7.478,7.733,2050,Average_Education_Years,Sub-Saharan Africa
+7.542,7.543,7.816,2051,Average_Education_Years,Sub-Saharan Africa
+7.607,7.608,7.899,2052,Average_Education_Years,Sub-Saharan Africa
+7.671,7.674,7.982,2053,Average_Education_Years,Sub-Saharan Africa
+7.736,7.739,8.065,2054,Average_Education_Years,Sub-Saharan Africa
+7.8,7.805,8.149,2055,Average_Education_Years,Sub-Saharan Africa
+7.865,7.871,8.233,2056,Average_Education_Years,Sub-Saharan Africa
+7.93,7.938,8.317,2057,Average_Education_Years,Sub-Saharan Africa
+7.996,8.004,8.401,2058,Average_Education_Years,Sub-Saharan Africa
+8.061,8.071,8.485,2059,Average_Education_Years,Sub-Saharan Africa
+8.127,8.138,8.569,2060,Average_Education_Years,Sub-Saharan Africa
+8.993,8.993,8.993,2020,Average_Education_Years,Upper Middle Income Countries
+9.056,9.056,9.056,2021,Average_Education_Years,Upper Middle Income Countries
+9.12,9.12,9.12,2022,Average_Education_Years,Upper Middle Income Countries
+9.183,9.183,9.183,2023,Average_Education_Years,Upper Middle Income Countries
+9.245,9.245,9.245,2024,Average_Education_Years,Upper Middle Income Countries
+9.307,9.307,9.308,2025,Average_Education_Years,Upper Middle Income Countries
+9.368,9.368,9.372,2026,Average_Education_Years,Upper Middle Income Countries
+9.428,9.428,9.435,2027,Average_Education_Years,Upper Middle Income Countries
+9.488,9.488,9.5,2028,Average_Education_Years,Upper Middle Income Countries
+9.548,9.548,9.565,2029,Average_Education_Years,Upper Middle Income Countries
+9.609,9.609,9.632,2030,Average_Education_Years,Upper Middle Income Countries
+9.67,9.67,9.701,2031,Average_Education_Years,Upper Middle Income Countries
+9.733,9.733,9.772,2032,Average_Education_Years,Upper Middle Income Countries
+9.797,9.797,9.846,2033,Average_Education_Years,Upper Middle Income Countries
+9.863,9.863,9.922,2034,Average_Education_Years,Upper Middle Income Countries
+9.931,9.931,10,2035,Average_Education_Years,Upper Middle Income Countries
+10,10,10.08,2036,Average_Education_Years,Upper Middle Income Countries
+10.07,10.07,10.17,2037,Average_Education_Years,Upper Middle Income Countries
+10.14,10.14,10.25,2038,Average_Education_Years,Upper Middle Income Countries
+10.21,10.21,10.33,2039,Average_Education_Years,Upper Middle Income Countries
+10.27,10.27,10.41,2040,Average_Education_Years,Upper Middle Income Countries
+10.34,10.34,10.49,2041,Average_Education_Years,Upper Middle Income Countries
+10.4,10.4,10.56,2042,Average_Education_Years,Upper Middle Income Countries
+10.45,10.46,10.64,2043,Average_Education_Years,Upper Middle Income Countries
+10.51,10.51,10.71,2044,Average_Education_Years,Upper Middle Income Countries
+10.57,10.57,10.78,2045,Average_Education_Years,Upper Middle Income Countries
+10.62,10.62,10.85,2046,Average_Education_Years,Upper Middle Income Countries
+10.67,10.68,10.92,2047,Average_Education_Years,Upper Middle Income Countries
+10.73,10.73,10.99,2048,Average_Education_Years,Upper Middle Income Countries
+10.78,10.78,11.06,2049,Average_Education_Years,Upper Middle Income Countries
+10.83,10.83,11.12,2050,Average_Education_Years,Upper Middle Income Countries
+10.88,10.89,11.19,2051,Average_Education_Years,Upper Middle Income Countries
+10.93,10.94,11.26,2052,Average_Education_Years,Upper Middle Income Countries
+10.98,10.99,11.33,2053,Average_Education_Years,Upper Middle Income Countries
+11.03,11.04,11.39,2054,Average_Education_Years,Upper Middle Income Countries
+11.08,11.09,11.46,2055,Average_Education_Years,Upper Middle Income Countries
+11.13,11.14,11.52,2056,Average_Education_Years,Upper Middle Income Countries
+11.18,11.19,11.59,2057,Average_Education_Years,Upper Middle Income Countries
+11.23,11.24,11.65,2058,Average_Education_Years,Upper Middle Income Countries
+11.28,11.29,11.72,2059,Average_Education_Years,Upper Middle Income Countries
+11.33,11.34,11.79,2060,Average_Education_Years,Upper Middle Income Countries
+8.588,8.588,8.588,2020,Average_Education_Years,World
+8.631,8.631,8.631,2021,Average_Education_Years,World
+8.68,8.68,8.68,2022,Average_Education_Years,World
+8.727,8.727,8.727,2023,Average_Education_Years,World
+8.773,8.773,8.773,2024,Average_Education_Years,World
+8.821,8.821,8.822,2025,Average_Education_Years,World
+8.868,8.868,8.872,2026,Average_Education_Years,World
+8.915,8.914,8.923,2027,Average_Education_Years,World
+8.96,8.96,8.973,2028,Average_Education_Years,World
+9.006,9.005,9.025,2029,Average_Education_Years,World
+9.051,9.051,9.078,2030,Average_Education_Years,World
+9.097,9.096,9.131,2031,Average_Education_Years,World
+9.143,9.142,9.187,2032,Average_Education_Years,World
+9.189,9.188,9.243,2033,Average_Education_Years,World
+9.235,9.234,9.301,2034,Average_Education_Years,World
+9.282,9.281,9.361,2035,Average_Education_Years,World
+9.33,9.329,9.422,2036,Average_Education_Years,World
+9.378,9.377,9.484,2037,Average_Education_Years,World
+9.425,9.424,9.546,2038,Average_Education_Years,World
+9.472,9.471,9.607,2039,Average_Education_Years,World
+9.517,9.516,9.668,2040,Average_Education_Years,World
+9.561,9.56,9.728,2041,Average_Education_Years,World
+9.603,9.603,9.786,2042,Average_Education_Years,World
+9.645,9.645,9.845,2043,Average_Education_Years,World
+9.686,9.687,9.903,2044,Average_Education_Years,World
+9.727,9.728,9.961,2045,Average_Education_Years,World
+9.768,9.769,10.02,2046,Average_Education_Years,World
+9.808,9.81,10.08,2047,Average_Education_Years,World
+9.848,9.85,10.14,2048,Average_Education_Years,World
+9.887,9.89,10.19,2049,Average_Education_Years,World
+9.926,9.93,10.25,2050,Average_Education_Years,World
+9.965,9.969,10.31,2051,Average_Education_Years,World
+10,10.01,10.36,2052,Average_Education_Years,World
+10.04,10.05,10.42,2053,Average_Education_Years,World
+10.08,10.09,10.48,2054,Average_Education_Years,World
+10.12,10.13,10.54,2055,Average_Education_Years,World
+10.16,10.17,10.59,2056,Average_Education_Years,World
+10.2,10.21,10.65,2057,Average_Education_Years,World
+10.24,10.24,10.71,2058,Average_Education_Years,World
+10.28,10.28,10.77,2059,Average_Education_Years,World
+10.32,10.32,10.82,2060,Average_Education_Years,World

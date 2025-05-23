@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+4.412,4.412,4.412,2020,GDP_(MER),Central & Southern Asia
+4.751,4.751,4.751,2021,GDP_(MER),Central & Southern Asia
+5.039,5.039,5.039,2022,GDP_(MER),Central & Southern Asia
+5.355,5.355,5.355,2023,GDP_(MER),Central & Southern Asia
+5.659,5.659,5.659,2024,GDP_(MER),Central & Southern Asia
+5.985,5.985,5.985,2025,GDP_(MER),Central & Southern Asia
+6.328,6.328,6.328,2026,GDP_(MER),Central & Southern Asia
+6.651,6.651,6.674,2027,GDP_(MER),Central & Southern Asia
+7.002,7,7.051,2028,GDP_(MER),Central & Southern Asia
+7.365,7.364,7.451,2029,GDP_(MER),Central & Southern Asia
+7.748,7.751,7.881,2030,GDP_(MER),Central & Southern Asia
+8.152,8.161,8.338,2031,GDP_(MER),Central & Southern Asia
+8.577,8.593,8.821,2032,GDP_(MER),Central & Southern Asia
+9.021,9.047,9.335,2033,GDP_(MER),Central & Southern Asia
+9.484,9.521,9.88,2034,GDP_(MER),Central & Southern Asia
+9.966,10.01,10.46,2035,GDP_(MER),Central & Southern Asia
+10.47,10.52,11.06,2036,GDP_(MER),Central & Southern Asia
+10.99,11.05,11.71,2037,GDP_(MER),Central & Southern Asia
+11.53,11.6,12.39,2038,GDP_(MER),Central & Southern Asia
+12.09,12.17,13.09,2039,GDP_(MER),Central & Southern Asia
+12.68,12.77,13.83,2040,GDP_(MER),Central & Southern Asia
+13.29,13.38,14.6,2041,GDP_(MER),Central & Southern Asia
+13.93,14.02,15.42,2042,GDP_(MER),Central & Southern Asia
+14.58,14.68,16.27,2043,GDP_(MER),Central & Southern Asia
+15.26,15.36,17.15,2044,GDP_(MER),Central & Southern Asia
+15.95,16.06,18.07,2045,GDP_(MER),Central & Southern Asia
+16.65,16.78,19.03,2046,GDP_(MER),Central & Southern Asia
+17.38,17.52,20.02,2047,GDP_(MER),Central & Southern Asia
+18.12,18.28,21.04,2048,GDP_(MER),Central & Southern Asia
+18.87,19.06,22.11,2049,GDP_(MER),Central & Southern Asia
+19.66,19.85,23.21,2050,GDP_(MER),Central & Southern Asia
+20.45,20.65,24.35,2051,GDP_(MER),Central & Southern Asia
+21.25,21.47,25.52,2052,GDP_(MER),Central & Southern Asia
+22.08,22.31,26.74,2053,GDP_(MER),Central & Southern Asia
+22.94,23.18,28,2054,GDP_(MER),Central & Southern Asia
+23.83,24.06,29.31,2055,GDP_(MER),Central & Southern Asia
+24.74,24.97,30.66,2056,GDP_(MER),Central & Southern Asia
+25.68,25.91,32.06,2057,GDP_(MER),Central & Southern Asia
+26.65,26.85,33.54,2058,GDP_(MER),Central & Southern Asia
+27.64,27.87,35.05,2059,GDP_(MER),Central & Southern Asia
+28.66,28.87,36.64,2060,GDP_(MER),Central & Southern Asia
+24.06,24.06,24.06,2020,GDP_(MER),East & Southeast Asia
+25.59,25.59,25.59,2021,GDP_(MER),East & Southeast Asia
+26.3,26.3,26.3,2022,GDP_(MER),East & Southeast Asia
+27.4,27.4,27.4,2023,GDP_(MER),East & Southeast Asia
+28.42,28.42,28.42,2024,GDP_(MER),East & Southeast Asia
+29.41,29.41,29.41,2025,GDP_(MER),East & Southeast Asia
+30.36,30.36,30.36,2026,GDP_(MER),East & Southeast Asia
+31.53,31.53,31.6,2027,GDP_(MER),East & Southeast Asia
+32.73,32.74,32.88,2028,GDP_(MER),East & Southeast Asia
+33.96,33.99,34.23,2029,GDP_(MER),East & Southeast Asia
+35.22,35.26,35.62,2030,GDP_(MER),East & Southeast Asia
+36.49,36.55,37.06,2031,GDP_(MER),East & Southeast Asia
+37.75,37.85,38.53,2032,GDP_(MER),East & Southeast Asia
+39.02,39.15,40.04,2033,GDP_(MER),East & Southeast Asia
+40.27,40.44,41.57,2034,GDP_(MER),East & Southeast Asia
+41.51,41.72,43.12,2035,GDP_(MER),East & Southeast Asia
+42.75,42.98,44.67,2036,GDP_(MER),East & Southeast Asia
+43.97,44.22,46.26,2037,GDP_(MER),East & Southeast Asia
+45.19,45.43,47.83,2038,GDP_(MER),East & Southeast Asia
+46.43,46.7,49.49,2039,GDP_(MER),East & Southeast Asia
+47.71,47.99,51.15,2040,GDP_(MER),East & Southeast Asia
+49.03,49.27,52.85,2041,GDP_(MER),East & Southeast Asia
+50.39,50.66,54.69,2042,GDP_(MER),East & Southeast Asia
+51.78,52.04,56.54,2043,GDP_(MER),East & Southeast Asia
+53.17,53.46,58.47,2044,GDP_(MER),East & Southeast Asia
+54.56,54.84,60.38,2045,GDP_(MER),East & Southeast Asia
+55.94,56.24,62.33,2046,GDP_(MER),East & Southeast Asia
+57.3,57.6,64.27,2047,GDP_(MER),East & Southeast Asia
+58.64,58.96,66.23,2048,GDP_(MER),East & Southeast Asia
+59.96,60.33,68.24,2049,GDP_(MER),East & Southeast Asia
+61.22,61.61,70.15,2050,GDP_(MER),East & Southeast Asia
+62.47,62.85,72.05,2051,GDP_(MER),East & Southeast Asia
+63.69,64.08,73.92,2052,GDP_(MER),East & Southeast Asia
+64.9,65.27,75.79,2053,GDP_(MER),East & Southeast Asia
+66.13,66.48,77.66,2054,GDP_(MER),East & Southeast Asia
+67.39,67.69,79.56,2055,GDP_(MER),East & Southeast Asia
+68.68,68.93,81.49,2056,GDP_(MER),East & Southeast Asia
+70.01,70.19,83.47,2057,GDP_(MER),East & Southeast Asia
+71.35,71.48,85.47,2058,GDP_(MER),East & Southeast Asia
+72.7,72.76,87.51,2059,GDP_(MER),East & Southeast Asia
+74.04,74.07,89.56,2060,GDP_(MER),East & Southeast Asia
+41.54,41.54,41.54,2020,GDP_(MER),Europe & North America
+44.05,44.05,44.05,2021,GDP_(MER),Europe & North America
+45.13,45.13,45.13,2022,GDP_(MER),Europe & North America
+45.85,45.85,45.85,2023,GDP_(MER),Europe & North America
+46.72,46.72,46.72,2024,GDP_(MER),Europe & North America
+47.56,47.56,47.56,2025,GDP_(MER),Europe & North America
+48.43,48.43,48.43,2026,GDP_(MER),Europe & North America
+49.31,49.31,49.39,2027,GDP_(MER),Europe & North America
+50.2,50.21,50.41,2028,GDP_(MER),Europe & North America
+51.11,51.14,51.5,2029,GDP_(MER),Europe & North America
+52.04,52.11,52.65,2030,GDP_(MER),Europe & North America
+52.99,53.09,53.84,2031,GDP_(MER),Europe & North America
+53.94,54.09,55.09,2032,GDP_(MER),Europe & North America
+54.91,55.09,56.38,2033,GDP_(MER),Europe & North America
+55.88,56.1,57.71,2034,GDP_(MER),Europe & North America
+56.86,57.12,59.08,2035,GDP_(MER),Europe & North America
+57.82,58.11,60.42,2036,GDP_(MER),Europe & North America
+58.78,59.1,61.78,2037,GDP_(MER),Europe & North America
+59.74,60.08,63.13,2038,GDP_(MER),Europe & North America
+60.7,61.05,64.47,2039,GDP_(MER),Europe & North America
+61.67,62.02,65.81,2040,GDP_(MER),Europe & North America
+62.64,63,67.16,2041,GDP_(MER),Europe & North America
+63.62,64,68.53,2042,GDP_(MER),Europe & North America
+64.6,65,69.92,2043,GDP_(MER),Europe & North America
+65.58,66,71.32,2044,GDP_(MER),Europe & North America
+66.54,66.99,72.71,2045,GDP_(MER),Europe & North America
+67.5,67.97,74.1,2046,GDP_(MER),Europe & North America
+68.45,68.94,75.47,2047,GDP_(MER),Europe & North America
+69.38,69.89,76.81,2048,GDP_(MER),Europe & North America
+70.3,70.83,78.18,2049,GDP_(MER),Europe & North America
+71.23,71.76,79.5,2050,GDP_(MER),Europe & North America
+72.1,72.64,80.81,2051,GDP_(MER),Europe & North America
+72.98,73.51,82.06,2052,GDP_(MER),Europe & North America
+73.86,74.37,83.34,2053,GDP_(MER),Europe & North America
+74.76,75.24,84.58,2054,GDP_(MER),Europe & North America
+75.67,76.1,85.86,2055,GDP_(MER),Europe & North America
+76.6,76.98,87.1,2056,GDP_(MER),Europe & North America
+77.54,77.86,88.4,2057,GDP_(MER),Europe & North America
+78.47,78.75,89.64,2058,GDP_(MER),Europe & North America
+79.39,79.63,90.94,2059,GDP_(MER),Europe & North America
+80.28,80.52,92.16,2060,GDP_(MER),Europe & North America
+51.37,51.37,51.37,2020,GDP_(MER),High Income Countries
+54.24,54.24,54.24,2021,GDP_(MER),High Income Countries
+55.74,55.74,55.74,2022,GDP_(MER),High Income Countries
+56.59,56.59,56.59,2023,GDP_(MER),High Income Countries
+57.61,57.61,57.61,2024,GDP_(MER),High Income Countries
+58.69,58.69,58.69,2025,GDP_(MER),High Income Countries
+59.79,59.79,59.79,2026,GDP_(MER),High Income Countries
+60.89,60.89,60.99,2027,GDP_(MER),High Income Countries
+62.01,62.02,62.26,2028,GDP_(MER),High Income Countries
+63.14,63.17,63.6,2029,GDP_(MER),High Income Countries
+64.28,64.36,65.01,2030,GDP_(MER),High Income Countries
+65.43,65.55,66.47,2031,GDP_(MER),High Income Countries
+66.58,66.76,67.98,2032,GDP_(MER),High Income Countries
+67.74,67.96,69.52,2033,GDP_(MER),High Income Countries
+68.89,69.15,71.1,2034,GDP_(MER),High Income Countries
+70.03,70.34,72.71,2035,GDP_(MER),High Income Countries
+71.15,71.5,74.29,2036,GDP_(MER),High Income Countries
+72.25,72.65,75.86,2037,GDP_(MER),High Income Countries
+73.35,73.76,77.42,2038,GDP_(MER),High Income Countries
+74.45,74.89,78.99,2039,GDP_(MER),High Income Countries
+75.56,76,80.53,2040,GDP_(MER),High Income Countries
+76.67,77.14,82.11,2041,GDP_(MER),High Income Countries
+77.79,78.27,83.69,2042,GDP_(MER),High Income Countries
+78.91,79.43,85.3,2043,GDP_(MER),High Income Countries
+80.03,80.57,86.9,2044,GDP_(MER),High Income Countries
+81.14,81.71,88.51,2045,GDP_(MER),High Income Countries
+82.23,82.83,90.08,2046,GDP_(MER),High Income Countries
+83.3,83.94,91.67,2047,GDP_(MER),High Income Countries
+84.36,85.02,93.18,2048,GDP_(MER),High Income Countries
+85.41,86.1,94.76,2049,GDP_(MER),High Income Countries
+86.48,87.18,96.25,2050,GDP_(MER),High Income Countries
+87.46,88.17,97.74,2051,GDP_(MER),High Income Countries
+88.45,89.15,99.13,2052,GDP_(MER),High Income Countries
+89.44,90.11,100.6,2053,GDP_(MER),High Income Countries
+90.45,91.07,101.9,2054,GDP_(MER),High Income Countries
+91.46,92.01,103.4,2055,GDP_(MER),High Income Countries
+92.48,92.98,104.7,2056,GDP_(MER),High Income Countries
+93.5,93.92,106.1,2057,GDP_(MER),High Income Countries
+94.51,94.88,107.5,2058,GDP_(MER),High Income Countries
+95.51,95.81,108.9,2059,GDP_(MER),High Income Countries
+96.46,96.77,110.2,2060,GDP_(MER),High Income Countries
+5.375,5.375,5.375,2020,GDP_(MER),Latin America & the Caribbean
+5.747,5.747,5.747,2021,GDP_(MER),Latin America & the Caribbean
+5.97,5.97,5.97,2022,GDP_(MER),Latin America & the Caribbean
+6.095,6.095,6.095,2023,GDP_(MER),Latin America & the Caribbean
+6.203,6.203,6.203,2024,GDP_(MER),Latin America & the Caribbean
+6.355,6.355,6.355,2025,GDP_(MER),Latin America & the Caribbean
+6.518,6.518,6.518,2026,GDP_(MER),Latin America & the Caribbean
+6.695,6.696,6.721,2027,GDP_(MER),Latin America & the Caribbean
+6.879,6.882,6.936,2028,GDP_(MER),Latin America & the Caribbean
+7.066,7.073,7.162,2029,GDP_(MER),Latin America & the Caribbean
+7.259,7.268,7.399,2030,GDP_(MER),Latin America & the Caribbean
+7.455,7.471,7.649,2031,GDP_(MER),Latin America & the Caribbean
+7.657,7.683,7.917,2032,GDP_(MER),Latin America & the Caribbean
+7.864,7.903,8.2,2033,GDP_(MER),Latin America & the Caribbean
+8.079,8.13,8.498,2034,GDP_(MER),Latin America & the Caribbean
+8.297,8.362,8.81,2035,GDP_(MER),Latin America & the Caribbean
+8.52,8.597,9.134,2036,GDP_(MER),Latin America & the Caribbean
+8.748,8.837,9.472,2037,GDP_(MER),Latin America & the Caribbean
+8.981,9.082,9.825,2038,GDP_(MER),Latin America & the Caribbean
+9.219,9.33,10.18,2039,GDP_(MER),Latin America & the Caribbean
+9.464,9.585,10.54,2040,GDP_(MER),Latin America & the Caribbean
+9.715,9.847,10.91,2041,GDP_(MER),Latin America & the Caribbean
+9.973,10.12,11.29,2042,GDP_(MER),Latin America & the Caribbean
+10.24,10.4,11.68,2043,GDP_(MER),Latin America & the Caribbean
+10.51,10.68,12.08,2044,GDP_(MER),Latin America & the Caribbean
+10.78,10.97,12.5,2045,GDP_(MER),Latin America & the Caribbean
+11.06,11.27,12.93,2046,GDP_(MER),Latin America & the Caribbean
+11.35,11.57,13.37,2047,GDP_(MER),Latin America & the Caribbean
+11.64,11.88,13.82,2048,GDP_(MER),Latin America & the Caribbean
+11.93,12.2,14.28,2049,GDP_(MER),Latin America & the Caribbean
+12.24,12.51,14.74,2050,GDP_(MER),Latin America & the Caribbean
+12.54,12.83,15.22,2051,GDP_(MER),Latin America & the Caribbean
+12.85,13.13,15.69,2052,GDP_(MER),Latin America & the Caribbean
+13.17,13.46,16.18,2053,GDP_(MER),Latin America & the Caribbean
+13.49,13.77,16.67,2054,GDP_(MER),Latin America & the Caribbean
+13.82,14.1,17.2,2055,GDP_(MER),Latin America & the Caribbean
+14.16,14.42,17.71,2056,GDP_(MER),Latin America & the Caribbean
+14.51,14.77,18.27,2057,GDP_(MER),Latin America & the Caribbean
+14.87,15.1,18.8,2058,GDP_(MER),Latin America & the Caribbean
+15.23,15.47,19.4,2059,GDP_(MER),Latin America & the Caribbean
+15.59,15.8,19.95,2060,GDP_(MER),Latin America & the Caribbean
+0.561,0.561,0.561,2020,GDP_(MER),Low Income Countries
+0.571,0.571,0.571,2021,GDP_(MER),Low Income Countries
+0.588,0.588,0.588,2022,GDP_(MER),Low Income Countries
+0.587,0.587,0.587,2023,GDP_(MER),Low Income Countries
+0.605,0.605,0.605,2024,GDP_(MER),Low Income Countries
+0.635,0.635,0.635,2025,GDP_(MER),Low Income Countries
+0.67,0.67,0.67,2026,GDP_(MER),Low Income Countries
+0.699,0.699,0.702,2027,GDP_(MER),Low Income Countries
+0.733,0.733,0.739,2028,GDP_(MER),Low Income Countries
+0.768,0.768,0.777,2029,GDP_(MER),Low Income Countries
+0.805,0.805,0.819,2030,GDP_(MER),Low Income Countries
+0.845,0.846,0.865,2031,GDP_(MER),Low Income Countries
+0.89,0.892,0.917,2032,GDP_(MER),Low Income Countries
+0.938,0.941,0.973,2033,GDP_(MER),Low Income Countries
+0.99,0.995,1.036,2034,GDP_(MER),Low Income Countries
+1.047,1.053,1.104,2035,GDP_(MER),Low Income Countries
+1.108,1.116,1.179,2036,GDP_(MER),Low Income Countries
+1.173,1.185,1.26,2037,GDP_(MER),Low Income Countries
+1.244,1.258,1.349,2038,GDP_(MER),Low Income Countries
+1.32,1.337,1.446,2039,GDP_(MER),Low Income Countries
+1.403,1.423,1.551,2040,GDP_(MER),Low Income Countries
+1.492,1.515,1.666,2041,GDP_(MER),Low Income Countries
+1.589,1.616,1.792,2042,GDP_(MER),Low Income Countries
+1.694,1.727,1.93,2043,GDP_(MER),Low Income Countries
+1.808,1.847,2.08,2044,GDP_(MER),Low Income Countries
+1.932,1.977,2.245,2045,GDP_(MER),Low Income Countries
+2.066,2.119,2.424,2046,GDP_(MER),Low Income Countries
+2.211,2.272,2.618,2047,GDP_(MER),Low Income Countries
+2.367,2.438,2.829,2048,GDP_(MER),Low Income Countries
+2.534,2.616,3.058,2049,GDP_(MER),Low Income Countries
+2.714,2.809,3.304,2050,GDP_(MER),Low Income Countries
+2.907,3.015,3.568,2051,GDP_(MER),Low Income Countries
+3.115,3.236,3.853,2052,GDP_(MER),Low Income Countries
+3.337,3.473,4.159,2053,GDP_(MER),Low Income Countries
+3.576,3.727,4.489,2054,GDP_(MER),Low Income Countries
+3.832,3.998,4.843,2055,GDP_(MER),Low Income Countries
+4.107,4.288,5.222,2056,GDP_(MER),Low Income Countries
+4.402,4.597,5.63,2057,GDP_(MER),Low Income Countries
+4.716,4.926,6.066,2058,GDP_(MER),Low Income Countries
+5.051,5.275,6.533,2059,GDP_(MER),Low Income Countries
+5.407,5.648,7.029,2060,GDP_(MER),Low Income Countries
+6.231,6.231,6.231,2020,GDP_(MER),Low Middle Income Countries
+6.642,6.642,6.642,2021,GDP_(MER),Low Middle Income Countries
+6.997,6.997,6.997,2022,GDP_(MER),Low Middle Income Countries
+7.387,7.387,7.387,2023,GDP_(MER),Low Middle Income Countries
+7.786,7.786,7.786,2024,GDP_(MER),Low Middle Income Countries
+8.219,8.219,8.219,2025,GDP_(MER),Low Middle Income Countries
+8.682,8.682,8.682,2026,GDP_(MER),Low Middle Income Countries
+9.117,9.116,9.147,2027,GDP_(MER),Low Middle Income Countries
+9.587,9.586,9.652,2028,GDP_(MER),Low Middle Income Countries
+10.07,10.07,10.19,2029,GDP_(MER),Low Middle Income Countries
+10.59,10.6,10.77,2030,GDP_(MER),Low Middle Income Countries
+11.14,11.15,11.38,2031,GDP_(MER),Low Middle Income Countries
+11.72,11.74,12.04,2032,GDP_(MER),Low Middle Income Countries
+12.32,12.36,12.74,2033,GDP_(MER),Low Middle Income Countries
+12.96,13.01,13.49,2034,GDP_(MER),Low Middle Income Countries
+13.63,13.69,14.28,2035,GDP_(MER),Low Middle Income Countries
+14.32,14.4,15.12,2036,GDP_(MER),Low Middle Income Countries
+15.05,15.14,16.01,2037,GDP_(MER),Low Middle Income Countries
+15.81,15.91,16.96,2038,GDP_(MER),Low Middle Income Countries
+16.6,16.72,17.95,2039,GDP_(MER),Low Middle Income Countries
+17.43,17.56,18.99,2040,GDP_(MER),Low Middle Income Countries
+18.31,18.44,20.1,2041,GDP_(MER),Low Middle Income Countries
+19.23,19.37,21.26,2042,GDP_(MER),Low Middle Income Countries
+20.18,20.33,22.49,2043,GDP_(MER),Low Middle Income Countries
+21.16,21.33,23.77,2044,GDP_(MER),Low Middle Income Countries
+22.18,22.37,25.12,2045,GDP_(MER),Low Middle Income Countries
+23.24,23.45,26.54,2046,GDP_(MER),Low Middle Income Countries
+24.32,24.57,28.02,2047,GDP_(MER),Low Middle Income Countries
+25.45,25.72,29.56,2048,GDP_(MER),Low Middle Income Countries
+26.6,26.92,31.18,2049,GDP_(MER),Low Middle Income Countries
+27.82,28.15,32.87,2050,GDP_(MER),Low Middle Income Countries
+29.05,29.41,34.63,2051,GDP_(MER),Low Middle Income Countries
+30.33,30.72,36.47,2052,GDP_(MER),Low Middle Income Countries
+31.66,32.06,38.39,2053,GDP_(MER),Low Middle Income Countries
+33.04,33.46,40.39,2054,GDP_(MER),Low Middle Income Countries
+34.47,34.9,42.47,2055,GDP_(MER),Low Middle Income Countries
+35.97,36.39,44.66,2056,GDP_(MER),Low Middle Income Countries
+37.52,37.94,46.92,2057,GDP_(MER),Low Middle Income Countries
+39.13,39.52,49.33,2058,GDP_(MER),Low Middle Income Countries
+40.79,41.21,51.8,2059,GDP_(MER),Low Middle Income Countries
+42.5,42.92,54.44,2060,GDP_(MER),Low Middle Income Countries
+3.945,3.945,3.945,2020,GDP_(MER),North Africa & West Asia
+4.184,4.184,4.184,2021,GDP_(MER),North Africa & West Asia
+4.433,4.433,4.433,2022,GDP_(MER),North Africa & West Asia
+4.508,4.508,4.508,2023,GDP_(MER),North Africa & West Asia
+4.621,4.621,4.621,2024,GDP_(MER),North Africa & West Asia
+4.814,4.814,4.814,2025,GDP_(MER),North Africa & West Asia
+4.993,4.993,4.993,2026,GDP_(MER),North Africa & West Asia
+5.168,5.165,5.174,2027,GDP_(MER),North Africa & West Asia
+5.346,5.34,5.361,2028,GDP_(MER),North Africa & West Asia
+5.535,5.529,5.566,2029,GDP_(MER),North Africa & West Asia
+5.729,5.726,5.783,2030,GDP_(MER),North Africa & West Asia
+5.926,5.929,6.01,2031,GDP_(MER),North Africa & West Asia
+6.128,6.14,6.25,2032,GDP_(MER),North Africa & West Asia
+6.331,6.352,6.497,2033,GDP_(MER),North Africa & West Asia
+6.536,6.565,6.75,2034,GDP_(MER),North Africa & West Asia
+6.741,6.777,7.007,2035,GDP_(MER),North Africa & West Asia
+6.945,6.988,7.269,2036,GDP_(MER),North Africa & West Asia
+7.15,7.199,7.536,2037,GDP_(MER),North Africa & West Asia
+7.356,7.412,7.81,2038,GDP_(MER),North Africa & West Asia
+7.563,7.626,8.089,2039,GDP_(MER),North Africa & West Asia
+7.774,7.844,8.374,2040,GDP_(MER),North Africa & West Asia
+7.989,8.067,8.667,2041,GDP_(MER),North Africa & West Asia
+8.209,8.297,8.973,2042,GDP_(MER),North Africa & West Asia
+8.432,8.533,9.291,2043,GDP_(MER),North Africa & West Asia
+8.659,8.775,9.618,2044,GDP_(MER),North Africa & West Asia
+8.888,9.021,9.956,2045,GDP_(MER),North Africa & West Asia
+9.121,9.272,10.3,2046,GDP_(MER),North Africa & West Asia
+9.357,9.525,10.66,2047,GDP_(MER),North Africa & West Asia
+9.595,9.784,11.02,2048,GDP_(MER),North Africa & West Asia
+9.837,10.05,11.39,2049,GDP_(MER),North Africa & West Asia
+10.08,10.32,11.77,2050,GDP_(MER),North Africa & West Asia
+10.33,10.59,12.16,2051,GDP_(MER),North Africa & West Asia
+10.59,10.86,12.55,2052,GDP_(MER),North Africa & West Asia
+10.85,11.14,12.96,2053,GDP_(MER),North Africa & West Asia
+11.12,11.43,13.38,2054,GDP_(MER),North Africa & West Asia
+11.4,11.73,13.82,2055,GDP_(MER),North Africa & West Asia
+11.7,12.04,14.28,2056,GDP_(MER),North Africa & West Asia
+11.99,12.35,14.75,2057,GDP_(MER),North Africa & West Asia
+12.3,12.68,15.24,2058,GDP_(MER),North Africa & West Asia
+12.62,13.01,15.76,2059,GDP_(MER),North Africa & West Asia
+12.94,13.36,16.3,2060,GDP_(MER),North Africa & West Asia
+1.64,1.64,1.64,2020,GDP_(MER),Oceania
+1.68,1.68,1.68,2021,GDP_(MER),Oceania
+1.749,1.749,1.749,2022,GDP_(MER),Oceania
+1.782,1.782,1.782,2023,GDP_(MER),Oceania
+1.808,1.808,1.808,2024,GDP_(MER),Oceania
+1.846,1.846,1.846,2025,GDP_(MER),Oceania
+1.886,1.886,1.886,2026,GDP_(MER),Oceania
+1.932,1.932,1.935,2027,GDP_(MER),Oceania
+1.978,1.979,1.986,2028,GDP_(MER),Oceania
+2.025,2.028,2.041,2029,GDP_(MER),Oceania
+2.076,2.082,2.103,2030,GDP_(MER),Oceania
+2.128,2.137,2.167,2031,GDP_(MER),Oceania
+2.18,2.194,2.234,2032,GDP_(MER),Oceania
+2.233,2.247,2.3,2033,GDP_(MER),Oceania
+2.287,2.304,2.371,2034,GDP_(MER),Oceania
+2.34,2.362,2.441,2035,GDP_(MER),Oceania
+2.394,2.42,2.512,2036,GDP_(MER),Oceania
+2.449,2.476,2.581,2037,GDP_(MER),Oceania
+2.503,2.527,2.643,2038,GDP_(MER),Oceania
+2.557,2.589,2.722,2039,GDP_(MER),Oceania
+2.611,2.643,2.785,2040,GDP_(MER),Oceania
+2.667,2.707,2.867,2041,GDP_(MER),Oceania
+2.724,2.762,2.931,2042,GDP_(MER),Oceania
+2.781,2.827,3.015,2043,GDP_(MER),Oceania
+2.839,2.882,3.08,2044,GDP_(MER),Oceania
+2.894,2.948,3.165,2045,GDP_(MER),Oceania
+2.95,3.002,3.229,2046,GDP_(MER),Oceania
+3.004,3.067,3.315,2047,GDP_(MER),Oceania
+3.058,3.12,3.377,2048,GDP_(MER),Oceania
+3.111,3.184,3.463,2049,GDP_(MER),Oceania
+3.164,3.235,3.524,2050,GDP_(MER),Oceania
+3.217,3.299,3.609,2051,GDP_(MER),Oceania
+3.27,3.348,3.672,2052,GDP_(MER),Oceania
+3.323,3.409,3.749,2053,GDP_(MER),Oceania
+3.377,3.461,3.819,2054,GDP_(MER),Oceania
+3.431,3.515,3.89,2055,GDP_(MER),Oceania
+3.486,3.569,3.961,2056,GDP_(MER),Oceania
+3.54,3.622,4.031,2057,GDP_(MER),Oceania
+3.594,3.676,4.103,2058,GDP_(MER),Oceania
+3.651,3.73,4.174,2059,GDP_(MER),Oceania
+3.703,3.784,4.247,2060,GDP_(MER),Oceania
+1.647,1.647,1.647,2020,GDP_(MER),Sub-Saharan Africa
+1.723,1.723,1.723,2021,GDP_(MER),Sub-Saharan Africa
+1.788,1.788,1.788,2022,GDP_(MER),Sub-Saharan Africa
+1.847,1.847,1.847,2023,GDP_(MER),Sub-Saharan Africa
+1.914,1.914,1.914,2024,GDP_(MER),Sub-Saharan Africa
+1.988,1.988,1.988,2025,GDP_(MER),Sub-Saharan Africa
+2.065,2.065,2.065,2026,GDP_(MER),Sub-Saharan Africa
+2.151,2.152,2.157,2027,GDP_(MER),Sub-Saharan Africa
+2.244,2.244,2.257,2028,GDP_(MER),Sub-Saharan Africa
+2.342,2.343,2.364,2029,GDP_(MER),Sub-Saharan Africa
+2.446,2.449,2.48,2030,GDP_(MER),Sub-Saharan Africa
+2.557,2.562,2.607,2031,GDP_(MER),Sub-Saharan Africa
+2.676,2.685,2.745,2032,GDP_(MER),Sub-Saharan Africa
+2.803,2.817,2.895,2033,GDP_(MER),Sub-Saharan Africa
+2.939,2.959,3.058,2034,GDP_(MER),Sub-Saharan Africa
+3.085,3.111,3.233,2035,GDP_(MER),Sub-Saharan Africa
+3.241,3.272,3.422,2036,GDP_(MER),Sub-Saharan Africa
+3.407,3.445,3.627,2037,GDP_(MER),Sub-Saharan Africa
+3.584,3.629,3.849,2038,GDP_(MER),Sub-Saharan Africa
+3.774,3.826,4.087,2039,GDP_(MER),Sub-Saharan Africa
+3.978,4.037,4.342,2040,GDP_(MER),Sub-Saharan Africa
+4.196,4.265,4.619,2041,GDP_(MER),Sub-Saharan Africa
+4.43,4.509,4.919,2042,GDP_(MER),Sub-Saharan Africa
+4.681,4.772,5.244,2043,GDP_(MER),Sub-Saharan Africa
+4.95,5.055,5.596,2044,GDP_(MER),Sub-Saharan Africa
+5.237,5.357,5.975,2045,GDP_(MER),Sub-Saharan Africa
+5.544,5.681,6.383,2046,GDP_(MER),Sub-Saharan Africa
+5.871,6.028,6.823,2047,GDP_(MER),Sub-Saharan Africa
+6.221,6.399,7.297,2048,GDP_(MER),Sub-Saharan Africa
+6.593,6.796,7.81,2049,GDP_(MER),Sub-Saharan Africa
+6.989,7.218,8.36,2050,GDP_(MER),Sub-Saharan Africa
+7.411,7.668,8.947,2051,GDP_(MER),Sub-Saharan Africa
+7.862,8.146,9.577,2052,GDP_(MER),Sub-Saharan Africa
+8.344,8.653,10.25,2053,GDP_(MER),Sub-Saharan Africa
+8.859,9.192,10.97,2054,GDP_(MER),Sub-Saharan Africa
+9.409,9.766,11.73,2055,GDP_(MER),Sub-Saharan Africa
+9.996,10.37,12.55,2056,GDP_(MER),Sub-Saharan Africa
+10.62,11.02,13.41,2057,GDP_(MER),Sub-Saharan Africa
+11.29,11.7,14.34,2058,GDP_(MER),Sub-Saharan Africa
+11.99,12.43,15.33,2059,GDP_(MER),Sub-Saharan Africa
+12.74,13.19,16.39,2060,GDP_(MER),Sub-Saharan Africa
+25.1,25.1,25.1,2020,GDP_(MER),Upper Middle Income Countries
+26.96,26.96,26.96,2021,GDP_(MER),Upper Middle Income Countries
+27.8,27.8,27.8,2022,GDP_(MER),Upper Middle Income Countries
+29,29,29,2023,GDP_(MER),Upper Middle Income Countries
+30.1,30.1,30.1,2024,GDP_(MER),Upper Middle Income Countries
+31.18,31.18,31.18,2025,GDP_(MER),Upper Middle Income Countries
+32.23,32.23,32.23,2026,GDP_(MER),Upper Middle Income Countries
+33.54,33.54,33.62,2027,GDP_(MER),Upper Middle Income Countries
+34.89,34.9,35.08,2028,GDP_(MER),Upper Middle Income Countries
+36.3,36.32,36.62,2029,GDP_(MER),Upper Middle Income Countries
+37.73,37.77,38.22,2030,GDP_(MER),Upper Middle Income Countries
+39.19,39.27,39.89,2031,GDP_(MER),Upper Middle Income Countries
+40.66,40.78,41.62,2032,GDP_(MER),Upper Middle Income Countries
+42.15,42.32,43.4,2033,GDP_(MER),Upper Middle Income Countries
+43.63,43.86,45.23,2034,GDP_(MER),Upper Middle Income Countries
+45.12,45.39,47.1,2035,GDP_(MER),Upper Middle Income Countries
+46.6,46.92,48.99,2036,GDP_(MER),Upper Middle Income Countries
+48.08,48.44,50.93,2037,GDP_(MER),Upper Middle Income Countries
+49.57,49.93,52.88,2038,GDP_(MER),Upper Middle Income Countries
+51.07,51.47,54.92,2039,GDP_(MER),Upper Middle Income Countries
+52.63,53.04,56.95,2040,GDP_(MER),Upper Middle Income Countries
+54.21,54.6,59.03,2041,GDP_(MER),Upper Middle Income Countries
+55.84,56.29,61.26,2042,GDP_(MER),Upper Middle Income Countries
+57.5,57.96,63.51,2043,GDP_(MER),Upper Middle Income Countries
+59.17,59.68,65.86,2044,GDP_(MER),Upper Middle Income Countries
+60.83,61.36,68.2,2045,GDP_(MER),Upper Middle Income Countries
+62.49,63.06,70.59,2046,GDP_(MER),Upper Middle Income Countries
+64.13,64.73,72.99,2047,GDP_(MER),Upper Middle Income Countries
+65.74,66.4,75.4,2048,GDP_(MER),Upper Middle Income Countries
+67.34,68.09,77.88,2049,GDP_(MER),Upper Middle Income Countries
+68.86,69.66,80.24,2050,GDP_(MER),Upper Middle Income Countries
+70.4,71.24,82.63,2051,GDP_(MER),Upper Middle Income Countries
+71.91,72.77,84.99,2052,GDP_(MER),Upper Middle Income Countries
+73.42,74.31,87.37,2053,GDP_(MER),Upper Middle Income Countries
+74.95,75.83,89.75,2054,GDP_(MER),Upper Middle Income Countries
+76.53,77.41,92.19,2055,GDP_(MER),Upper Middle Income Countries
+78.16,78.98,94.67,2056,GDP_(MER),Upper Middle Income Countries
+79.83,80.63,97.24,2057,GDP_(MER),Upper Middle Income Countries
+81.53,82.26,99.81,2058,GDP_(MER),Upper Middle Income Countries
+83.24,83.98,102.5,2059,GDP_(MER),Upper Middle Income Countries
+84.96,85.64,105.2,2060,GDP_(MER),Upper Middle Income Countries
+83.27,83.27,83.27,2020,GDP_(MER),World
+88.42,88.42,88.42,2021,GDP_(MER),World
+91.13,91.13,91.13,2022,GDP_(MER),World
+93.56,93.56,93.56,2023,GDP_(MER),World
+96.1,96.1,96.1,2024,GDP_(MER),World
+98.72,98.72,98.72,2025,GDP_(MER),World
+101.4,101.4,101.4,2026,GDP_(MER),World
+104.2,104.2,104.5,2027,GDP_(MER),World
+107.2,107.2,107.7,2028,GDP_(MER),World
+110.3,110.3,111.2,2029,GDP_(MER),World
+113.4,113.5,114.8,2030,GDP_(MER),World
+116.6,116.8,118.6,2031,GDP_(MER),World
+119.9,120.2,122.6,2032,GDP_(MER),World
+123.1,123.6,126.6,2033,GDP_(MER),World
+126.5,127,130.9,2034,GDP_(MER),World
+129.8,130.5,135.2,2035,GDP_(MER),World
+133.2,133.9,139.6,2036,GDP_(MER),World
+136.6,137.4,144.1,2037,GDP_(MER),World
+140,140.9,148.6,2038,GDP_(MER),World
+143.4,144.4,153.3,2039,GDP_(MER),World
+147,148,158,2040,GDP_(MER),World
+150.7,151.7,162.9,2041,GDP_(MER),World
+154.5,155.5,168,2042,GDP_(MER),World
+158.3,159.4,173.2,2043,GDP_(MER),World
+162.2,163.4,178.6,2044,GDP_(MER),World
+166.1,167.4,184.1,2045,GDP_(MER),World
+170,171.5,189.6,2046,GDP_(MER),World
+174,175.5,195.3,2047,GDP_(MER),World
+177.9,179.6,201,2048,GDP_(MER),World
+181.9,183.7,206.9,2049,GDP_(MER),World
+185.9,187.8,212.7,2050,GDP_(MER),World
+189.8,191.8,218.6,2051,GDP_(MER),World
+193.8,195.9,224.4,2052,GDP_(MER),World
+197.9,200,230.5,2053,GDP_(MER),World
+202,204.1,236.6,2054,GDP_(MER),World
+206.3,208.3,242.9,2055,GDP_(MER),World
+210.7,212.6,249.3,2056,GDP_(MER),World
+215.3,217.1,255.9,2057,GDP_(MER),World
+219.9,221.6,262.7,2058,GDP_(MER),World
+224.6,226.3,269.7,2059,GDP_(MER),World
+229.3,231,276.8,2060,GDP_(MER),World

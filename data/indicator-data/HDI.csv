@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+0.641,0.641,0.641,2020,HDI,Central & Southern Asia
+0.648,0.648,0.648,2021,HDI,Central & Southern Asia
+0.652,0.652,0.652,2022,HDI,Central & Southern Asia
+0.657,0.657,0.657,2023,HDI,Central & Southern Asia
+0.661,0.661,0.661,2024,HDI,Central & Southern Asia
+0.665,0.665,0.666,2025,HDI,Central & Southern Asia
+0.669,0.669,0.67,2026,HDI,Central & Southern Asia
+0.673,0.672,0.674,2027,HDI,Central & Southern Asia
+0.676,0.676,0.679,2028,HDI,Central & Southern Asia
+0.68,0.68,0.683,2029,HDI,Central & Southern Asia
+0.683,0.683,0.688,2030,HDI,Central & Southern Asia
+0.687,0.687,0.693,2031,HDI,Central & Southern Asia
+0.691,0.691,0.697,2032,HDI,Central & Southern Asia
+0.694,0.694,0.702,2033,HDI,Central & Southern Asia
+0.698,0.698,0.706,2034,HDI,Central & Southern Asia
+0.701,0.701,0.711,2035,HDI,Central & Southern Asia
+0.705,0.705,0.715,2036,HDI,Central & Southern Asia
+0.708,0.708,0.72,2037,HDI,Central & Southern Asia
+0.711,0.712,0.724,2038,HDI,Central & Southern Asia
+0.715,0.715,0.728,2039,HDI,Central & Southern Asia
+0.718,0.718,0.733,2040,HDI,Central & Southern Asia
+0.722,0.722,0.737,2041,HDI,Central & Southern Asia
+0.725,0.725,0.741,2042,HDI,Central & Southern Asia
+0.728,0.729,0.746,2043,HDI,Central & Southern Asia
+0.732,0.732,0.75,2044,HDI,Central & Southern Asia
+0.735,0.736,0.754,2045,HDI,Central & Southern Asia
+0.738,0.739,0.758,2046,HDI,Central & Southern Asia
+0.741,0.742,0.762,2047,HDI,Central & Southern Asia
+0.744,0.745,0.767,2048,HDI,Central & Southern Asia
+0.747,0.748,0.771,2049,HDI,Central & Southern Asia
+0.751,0.751,0.775,2050,HDI,Central & Southern Asia
+0.753,0.754,0.778,2051,HDI,Central & Southern Asia
+0.756,0.757,0.782,2052,HDI,Central & Southern Asia
+0.759,0.76,0.786,2053,HDI,Central & Southern Asia
+0.762,0.763,0.79,2054,HDI,Central & Southern Asia
+0.765,0.766,0.794,2055,HDI,Central & Southern Asia
+0.768,0.769,0.797,2056,HDI,Central & Southern Asia
+0.771,0.771,0.801,2057,HDI,Central & Southern Asia
+0.774,0.774,0.805,2058,HDI,Central & Southern Asia
+0.777,0.777,0.808,2059,HDI,Central & Southern Asia
+0.78,0.78,0.812,2060,HDI,Central & Southern Asia
+0.767,0.767,0.767,2020,HDI,East & Southeast Asia
+0.77,0.77,0.77,2021,HDI,East & Southeast Asia
+0.773,0.773,0.773,2022,HDI,East & Southeast Asia
+0.776,0.776,0.776,2023,HDI,East & Southeast Asia
+0.779,0.779,0.779,2024,HDI,East & Southeast Asia
+0.782,0.782,0.782,2025,HDI,East & Southeast Asia
+0.785,0.785,0.785,2026,HDI,East & Southeast Asia
+0.788,0.788,0.789,2027,HDI,East & Southeast Asia
+0.791,0.791,0.793,2028,HDI,East & Southeast Asia
+0.794,0.794,0.797,2029,HDI,East & Southeast Asia
+0.797,0.797,0.801,2030,HDI,East & Southeast Asia
+0.8,0.8,0.805,2031,HDI,East & Southeast Asia
+0.803,0.803,0.808,2032,HDI,East & Southeast Asia
+0.806,0.806,0.812,2033,HDI,East & Southeast Asia
+0.809,0.809,0.816,2034,HDI,East & Southeast Asia
+0.812,0.812,0.82,2035,HDI,East & Southeast Asia
+0.815,0.815,0.824,2036,HDI,East & Southeast Asia
+0.818,0.818,0.828,2037,HDI,East & Southeast Asia
+0.82,0.821,0.832,2038,HDI,East & Southeast Asia
+0.823,0.824,0.836,2039,HDI,East & Southeast Asia
+0.826,0.827,0.84,2040,HDI,East & Southeast Asia
+0.829,0.83,0.843,2041,HDI,East & Southeast Asia
+0.833,0.833,0.847,2042,HDI,East & Southeast Asia
+0.836,0.836,0.851,2043,HDI,East & Southeast Asia
+0.839,0.839,0.855,2044,HDI,East & Southeast Asia
+0.841,0.842,0.858,2045,HDI,East & Southeast Asia
+0.844,0.845,0.862,2046,HDI,East & Southeast Asia
+0.847,0.847,0.865,2047,HDI,East & Southeast Asia
+0.849,0.85,0.868,2048,HDI,East & Southeast Asia
+0.851,0.852,0.872,2049,HDI,East & Southeast Asia
+0.854,0.854,0.875,2050,HDI,East & Southeast Asia
+0.856,0.857,0.878,2051,HDI,East & Southeast Asia
+0.858,0.859,0.881,2052,HDI,East & Southeast Asia
+0.861,0.861,0.884,2053,HDI,East & Southeast Asia
+0.863,0.864,0.887,2054,HDI,East & Southeast Asia
+0.865,0.866,0.89,2055,HDI,East & Southeast Asia
+0.868,0.868,0.893,2056,HDI,East & Southeast Asia
+0.87,0.871,0.896,2057,HDI,East & Southeast Asia
+0.873,0.873,0.899,2058,HDI,East & Southeast Asia
+0.875,0.875,0.901,2059,HDI,East & Southeast Asia
+0.877,0.878,0.904,2060,HDI,East & Southeast Asia
+0.884,0.884,0.884,2020,HDI,Europe & North America
+0.889,0.889,0.889,2021,HDI,Europe & North America
+0.89,0.89,0.89,2022,HDI,Europe & North America
+0.892,0.892,0.892,2023,HDI,Europe & North America
+0.894,0.894,0.894,2024,HDI,Europe & North America
+0.896,0.896,0.896,2025,HDI,Europe & North America
+0.898,0.898,0.899,2026,HDI,Europe & North America
+0.9,0.9,0.901,2027,HDI,Europe & North America
+0.902,0.902,0.904,2028,HDI,Europe & North America
+0.903,0.903,0.906,2029,HDI,Europe & North America
+0.905,0.905,0.909,2030,HDI,Europe & North America
+0.907,0.907,0.912,2031,HDI,Europe & North America
+0.909,0.909,0.914,2032,HDI,Europe & North America
+0.911,0.911,0.917,2033,HDI,Europe & North America
+0.912,0.913,0.92,2034,HDI,Europe & North America
+0.914,0.915,0.922,2035,HDI,Europe & North America
+0.916,0.916,0.925,2036,HDI,Europe & North America
+0.918,0.918,0.928,2037,HDI,Europe & North America
+0.92,0.92,0.93,2038,HDI,Europe & North America
+0.921,0.922,0.933,2039,HDI,Europe & North America
+0.923,0.924,0.935,2040,HDI,Europe & North America
+0.925,0.925,0.938,2041,HDI,Europe & North America
+0.927,0.927,0.94,2042,HDI,Europe & North America
+0.928,0.929,0.942,2043,HDI,Europe & North America
+0.93,0.931,0.945,2044,HDI,Europe & North America
+0.932,0.933,0.947,2045,HDI,Europe & North America
+0.934,0.934,0.949,2046,HDI,Europe & North America
+0.935,0.936,0.952,2047,HDI,Europe & North America
+0.937,0.938,0.954,2048,HDI,Europe & North America
+0.939,0.939,0.956,2049,HDI,Europe & North America
+0.94,0.941,0.958,2050,HDI,Europe & North America
+0.942,0.942,0.96,2051,HDI,Europe & North America
+0.943,0.944,0.962,2052,HDI,Europe & North America
+0.945,0.946,0.964,2053,HDI,Europe & North America
+0.946,0.947,0.966,2054,HDI,Europe & North America
+0.948,0.949,0.968,2055,HDI,Europe & North America
+0.95,0.95,0.97,2056,HDI,Europe & North America
+0.951,0.952,0.972,2057,HDI,Europe & North America
+0.953,0.953,0.974,2058,HDI,Europe & North America
+0.955,0.955,0.976,2059,HDI,Europe & North America
+0.956,0.957,0.978,2060,HDI,Europe & North America
+0.902,0.902,0.902,2020,HDI,High Income Countries
+0.907,0.907,0.907,2021,HDI,High Income Countries
+0.909,0.909,0.909,2022,HDI,High Income Countries
+0.911,0.911,0.911,2023,HDI,High Income Countries
+0.913,0.913,0.913,2024,HDI,High Income Countries
+0.914,0.914,0.915,2025,HDI,High Income Countries
+0.916,0.916,0.917,2026,HDI,High Income Countries
+0.918,0.918,0.919,2027,HDI,High Income Countries
+0.92,0.92,0.922,2028,HDI,High Income Countries
+0.921,0.921,0.924,2029,HDI,High Income Countries
+0.923,0.923,0.926,2030,HDI,High Income Countries
+0.924,0.924,0.929,2031,HDI,High Income Countries
+0.926,0.926,0.931,2032,HDI,High Income Countries
+0.928,0.928,0.934,2033,HDI,High Income Countries
+0.929,0.929,0.936,2034,HDI,High Income Countries
+0.931,0.931,0.939,2035,HDI,High Income Countries
+0.932,0.933,0.941,2036,HDI,High Income Countries
+0.934,0.934,0.944,2037,HDI,High Income Countries
+0.935,0.936,0.946,2038,HDI,High Income Countries
+0.937,0.937,0.948,2039,HDI,High Income Countries
+0.939,0.939,0.95,2040,HDI,High Income Countries
+0.94,0.941,0.953,2041,HDI,High Income Countries
+0.942,0.942,0.955,2042,HDI,High Income Countries
+0.943,0.944,0.957,2043,HDI,High Income Countries
+0.945,0.945,0.959,2044,HDI,High Income Countries
+0.947,0.947,0.961,2045,HDI,High Income Countries
+0.948,0.949,0.964,2046,HDI,High Income Countries
+0.95,0.95,0.966,2047,HDI,High Income Countries
+0.951,0.952,0.968,2048,HDI,High Income Countries
+0.952,0.953,0.97,2049,HDI,High Income Countries
+0.954,0.955,0.972,2050,HDI,High Income Countries
+0.955,0.956,0.974,2051,HDI,High Income Countries
+0.957,0.957,0.975,2052,HDI,High Income Countries
+0.958,0.959,0.977,2053,HDI,High Income Countries
+0.96,0.96,0.979,2054,HDI,High Income Countries
+0.961,0.962,0.981,2055,HDI,High Income Countries
+0.962,0.963,0.983,2056,HDI,High Income Countries
+0.964,0.964,0.984,2057,HDI,High Income Countries
+0.965,0.966,0.986,2058,HDI,High Income Countries
+0.967,0.967,0.988,2059,HDI,High Income Countries
+0.968,0.969,0.989,2060,HDI,High Income Countries
+0.762,0.762,0.762,2020,HDI,Latin America & the Caribbean
+0.768,0.768,0.768,2021,HDI,Latin America & the Caribbean
+0.77,0.77,0.77,2022,HDI,Latin America & the Caribbean
+0.771,0.771,0.771,2023,HDI,Latin America & the Caribbean
+0.773,0.773,0.773,2024,HDI,Latin America & the Caribbean
+0.774,0.774,0.775,2025,HDI,Latin America & the Caribbean
+0.776,0.776,0.777,2026,HDI,Latin America & the Caribbean
+0.778,0.778,0.779,2027,HDI,Latin America & the Caribbean
+0.78,0.78,0.782,2028,HDI,Latin America & the Caribbean
+0.782,0.782,0.785,2029,HDI,Latin America & the Caribbean
+0.784,0.784,0.788,2030,HDI,Latin America & the Caribbean
+0.786,0.786,0.791,2031,HDI,Latin America & the Caribbean
+0.787,0.788,0.794,2032,HDI,Latin America & the Caribbean
+0.789,0.79,0.797,2033,HDI,Latin America & the Caribbean
+0.791,0.792,0.8,2034,HDI,Latin America & the Caribbean
+0.794,0.794,0.803,2035,HDI,Latin America & the Caribbean
+0.796,0.796,0.806,2036,HDI,Latin America & the Caribbean
+0.798,0.798,0.809,2037,HDI,Latin America & the Caribbean
+0.8,0.8,0.812,2038,HDI,Latin America & the Caribbean
+0.802,0.803,0.815,2039,HDI,Latin America & the Caribbean
+0.804,0.805,0.818,2040,HDI,Latin America & the Caribbean
+0.806,0.807,0.821,2041,HDI,Latin America & the Caribbean
+0.808,0.809,0.824,2042,HDI,Latin America & the Caribbean
+0.81,0.811,0.827,2043,HDI,Latin America & the Caribbean
+0.812,0.813,0.83,2044,HDI,Latin America & the Caribbean
+0.814,0.816,0.833,2045,HDI,Latin America & the Caribbean
+0.817,0.818,0.836,2046,HDI,Latin America & the Caribbean
+0.819,0.82,0.839,2047,HDI,Latin America & the Caribbean
+0.821,0.822,0.842,2048,HDI,Latin America & the Caribbean
+0.823,0.824,0.845,2049,HDI,Latin America & the Caribbean
+0.825,0.826,0.848,2050,HDI,Latin America & the Caribbean
+0.827,0.828,0.85,2051,HDI,Latin America & the Caribbean
+0.829,0.83,0.853,2052,HDI,Latin America & the Caribbean
+0.831,0.833,0.856,2053,HDI,Latin America & the Caribbean
+0.833,0.835,0.859,2054,HDI,Latin America & the Caribbean
+0.835,0.837,0.862,2055,HDI,Latin America & the Caribbean
+0.837,0.839,0.864,2056,HDI,Latin America & the Caribbean
+0.84,0.841,0.867,2057,HDI,Latin America & the Caribbean
+0.842,0.843,0.87,2058,HDI,Latin America & the Caribbean
+0.844,0.845,0.873,2059,HDI,Latin America & the Caribbean
+0.846,0.847,0.876,2060,HDI,Latin America & the Caribbean
+0.498,0.498,0.498,2020,HDI,Low Income Countries
+0.502,0.502,0.502,2021,HDI,Low Income Countries
+0.507,0.507,0.507,2022,HDI,Low Income Countries
+0.51,0.51,0.51,2023,HDI,Low Income Countries
+0.514,0.514,0.514,2024,HDI,Low Income Countries
+0.519,0.519,0.519,2025,HDI,Low Income Countries
+0.523,0.523,0.524,2026,HDI,Low Income Countries
+0.527,0.527,0.529,2027,HDI,Low Income Countries
+0.531,0.531,0.533,2028,HDI,Low Income Countries
+0.535,0.535,0.538,2029,HDI,Low Income Countries
+0.539,0.539,0.543,2030,HDI,Low Income Countries
+0.543,0.543,0.548,2031,HDI,Low Income Countries
+0.547,0.547,0.552,2032,HDI,Low Income Countries
+0.55,0.551,0.557,2033,HDI,Low Income Countries
+0.554,0.554,0.562,2034,HDI,Low Income Countries
+0.558,0.558,0.567,2035,HDI,Low Income Countries
+0.562,0.562,0.572,2036,HDI,Low Income Countries
+0.566,0.566,0.577,2037,HDI,Low Income Countries
+0.57,0.57,0.581,2038,HDI,Low Income Countries
+0.574,0.575,0.586,2039,HDI,Low Income Countries
+0.578,0.579,0.591,2040,HDI,Low Income Countries
+0.582,0.583,0.596,2041,HDI,Low Income Countries
+0.586,0.587,0.601,2042,HDI,Low Income Countries
+0.59,0.591,0.606,2043,HDI,Low Income Countries
+0.594,0.596,0.611,2044,HDI,Low Income Countries
+0.599,0.6,0.617,2045,HDI,Low Income Countries
+0.603,0.604,0.622,2046,HDI,Low Income Countries
+0.607,0.609,0.627,2047,HDI,Low Income Countries
+0.611,0.613,0.632,2048,HDI,Low Income Countries
+0.616,0.618,0.637,2049,HDI,Low Income Countries
+0.62,0.622,0.642,2050,HDI,Low Income Countries
+0.624,0.626,0.648,2051,HDI,Low Income Countries
+0.628,0.631,0.653,2052,HDI,Low Income Countries
+0.633,0.635,0.658,2053,HDI,Low Income Countries
+0.637,0.64,0.663,2054,HDI,Low Income Countries
+0.641,0.644,0.668,2055,HDI,Low Income Countries
+0.646,0.649,0.674,2056,HDI,Low Income Countries
+0.65,0.653,0.679,2057,HDI,Low Income Countries
+0.655,0.657,0.684,2058,HDI,Low Income Countries
+0.659,0.662,0.689,2059,HDI,Low Income Countries
+0.663,0.666,0.695,2060,HDI,Low Income Countries
+0.637,0.637,0.637,2020,HDI,Low Middle Income Countries
+0.642,0.642,0.642,2021,HDI,Low Middle Income Countries
+0.646,0.646,0.646,2022,HDI,Low Middle Income Countries
+0.65,0.65,0.65,2023,HDI,Low Middle Income Countries
+0.654,0.654,0.654,2024,HDI,Low Middle Income Countries
+0.658,0.658,0.658,2025,HDI,Low Middle Income Countries
+0.662,0.662,0.662,2026,HDI,Low Middle Income Countries
+0.665,0.665,0.666,2027,HDI,Low Middle Income Countries
+0.668,0.668,0.671,2028,HDI,Low Middle Income Countries
+0.671,0.671,0.675,2029,HDI,Low Middle Income Countries
+0.675,0.675,0.679,2030,HDI,Low Middle Income Countries
+0.678,0.678,0.683,2031,HDI,Low Middle Income Countries
+0.681,0.681,0.687,2032,HDI,Low Middle Income Countries
+0.685,0.685,0.692,2033,HDI,Low Middle Income Countries
+0.688,0.688,0.696,2034,HDI,Low Middle Income Countries
+0.691,0.691,0.7,2035,HDI,Low Middle Income Countries
+0.694,0.694,0.704,2036,HDI,Low Middle Income Countries
+0.697,0.698,0.708,2037,HDI,Low Middle Income Countries
+0.701,0.701,0.713,2038,HDI,Low Middle Income Countries
+0.704,0.704,0.717,2039,HDI,Low Middle Income Countries
+0.707,0.707,0.721,2040,HDI,Low Middle Income Countries
+0.71,0.711,0.725,2041,HDI,Low Middle Income Countries
+0.714,0.714,0.729,2042,HDI,Low Middle Income Countries
+0.717,0.717,0.733,2043,HDI,Low Middle Income Countries
+0.72,0.721,0.737,2044,HDI,Low Middle Income Countries
+0.723,0.724,0.741,2045,HDI,Low Middle Income Countries
+0.726,0.727,0.745,2046,HDI,Low Middle Income Countries
+0.729,0.73,0.749,2047,HDI,Low Middle Income Countries
+0.732,0.733,0.753,2048,HDI,Low Middle Income Countries
+0.735,0.736,0.757,2049,HDI,Low Middle Income Countries
+0.738,0.739,0.761,2050,HDI,Low Middle Income Countries
+0.741,0.742,0.765,2051,HDI,Low Middle Income Countries
+0.744,0.745,0.769,2052,HDI,Low Middle Income Countries
+0.747,0.748,0.773,2053,HDI,Low Middle Income Countries
+0.75,0.751,0.777,2054,HDI,Low Middle Income Countries
+0.753,0.754,0.781,2055,HDI,Low Middle Income Countries
+0.756,0.757,0.784,2056,HDI,Low Middle Income Countries
+0.759,0.76,0.788,2057,HDI,Low Middle Income Countries
+0.762,0.763,0.792,2058,HDI,Low Middle Income Countries
+0.765,0.766,0.796,2059,HDI,Low Middle Income Countries
+0.768,0.769,0.8,2060,HDI,Low Middle Income Countries
+0.713,0.713,0.713,2020,HDI,North Africa & West Asia
+0.716,0.716,0.716,2021,HDI,North Africa & West Asia
+0.719,0.719,0.719,2022,HDI,North Africa & West Asia
+0.719,0.719,0.719,2023,HDI,North Africa & West Asia
+0.72,0.72,0.72,2024,HDI,North Africa & West Asia
+0.722,0.722,0.722,2025,HDI,North Africa & West Asia
+0.723,0.723,0.724,2026,HDI,North Africa & West Asia
+0.725,0.725,0.727,2027,HDI,North Africa & West Asia
+0.727,0.727,0.729,2028,HDI,North Africa & West Asia
+0.729,0.729,0.732,2029,HDI,North Africa & West Asia
+0.731,0.731,0.735,2030,HDI,North Africa & West Asia
+0.733,0.733,0.738,2031,HDI,North Africa & West Asia
+0.735,0.735,0.741,2032,HDI,North Africa & West Asia
+0.737,0.737,0.744,2033,HDI,North Africa & West Asia
+0.739,0.739,0.747,2034,HDI,North Africa & West Asia
+0.741,0.741,0.75,2035,HDI,North Africa & West Asia
+0.743,0.743,0.753,2036,HDI,North Africa & West Asia
+0.745,0.746,0.757,2037,HDI,North Africa & West Asia
+0.747,0.748,0.76,2038,HDI,North Africa & West Asia
+0.749,0.75,0.763,2039,HDI,North Africa & West Asia
+0.751,0.752,0.766,2040,HDI,North Africa & West Asia
+0.754,0.754,0.769,2041,HDI,North Africa & West Asia
+0.756,0.756,0.772,2042,HDI,North Africa & West Asia
+0.758,0.758,0.775,2043,HDI,North Africa & West Asia
+0.76,0.761,0.778,2044,HDI,North Africa & West Asia
+0.762,0.763,0.781,2045,HDI,North Africa & West Asia
+0.765,0.765,0.784,2046,HDI,North Africa & West Asia
+0.767,0.767,0.788,2047,HDI,North Africa & West Asia
+0.769,0.77,0.791,2048,HDI,North Africa & West Asia
+0.771,0.772,0.794,2049,HDI,North Africa & West Asia
+0.773,0.774,0.797,2050,HDI,North Africa & West Asia
+0.775,0.776,0.8,2051,HDI,North Africa & West Asia
+0.777,0.778,0.803,2052,HDI,North Africa & West Asia
+0.779,0.781,0.806,2053,HDI,North Africa & West Asia
+0.781,0.783,0.81,2054,HDI,North Africa & West Asia
+0.784,0.785,0.813,2055,HDI,North Africa & West Asia
+0.786,0.788,0.816,2056,HDI,North Africa & West Asia
+0.788,0.79,0.819,2057,HDI,North Africa & West Asia
+0.791,0.793,0.822,2058,HDI,North Africa & West Asia
+0.793,0.795,0.826,2059,HDI,North Africa & West Asia
+0.795,0.797,0.829,2060,HDI,North Africa & West Asia
+0.845,0.845,0.845,2020,HDI,Oceania
+0.845,0.845,0.845,2021,HDI,Oceania
+0.848,0.848,0.848,2022,HDI,Oceania
+0.849,0.849,0.849,2023,HDI,Oceania
+0.85,0.85,0.85,2024,HDI,Oceania
+0.851,0.851,0.851,2025,HDI,Oceania
+0.852,0.852,0.853,2026,HDI,Oceania
+0.853,0.853,0.855,2027,HDI,Oceania
+0.854,0.854,0.857,2028,HDI,Oceania
+0.855,0.855,0.859,2029,HDI,Oceania
+0.856,0.857,0.861,2030,HDI,Oceania
+0.858,0.858,0.863,2031,HDI,Oceania
+0.859,0.859,0.865,2032,HDI,Oceania
+0.86,0.861,0.868,2033,HDI,Oceania
+0.862,0.862,0.87,2034,HDI,Oceania
+0.863,0.864,0.873,2035,HDI,Oceania
+0.864,0.865,0.875,2036,HDI,Oceania
+0.866,0.867,0.877,2037,HDI,Oceania
+0.867,0.868,0.88,2038,HDI,Oceania
+0.869,0.869,0.882,2039,HDI,Oceania
+0.87,0.871,0.884,2040,HDI,Oceania
+0.872,0.873,0.886,2041,HDI,Oceania
+0.873,0.874,0.889,2042,HDI,Oceania
+0.875,0.876,0.891,2043,HDI,Oceania
+0.876,0.878,0.893,2044,HDI,Oceania
+0.878,0.879,0.896,2045,HDI,Oceania
+0.879,0.881,0.898,2046,HDI,Oceania
+0.881,0.883,0.901,2047,HDI,Oceania
+0.883,0.884,0.903,2048,HDI,Oceania
+0.884,0.886,0.906,2049,HDI,Oceania
+0.886,0.887,0.908,2050,HDI,Oceania
+0.887,0.889,0.91,2051,HDI,Oceania
+0.889,0.891,0.913,2052,HDI,Oceania
+0.891,0.892,0.915,2053,HDI,Oceania
+0.892,0.894,0.918,2054,HDI,Oceania
+0.894,0.896,0.92,2055,HDI,Oceania
+0.896,0.897,0.923,2056,HDI,Oceania
+0.897,0.899,0.925,2057,HDI,Oceania
+0.899,0.901,0.927,2058,HDI,Oceania
+0.901,0.902,0.93,2059,HDI,Oceania
+0.903,0.904,0.932,2060,HDI,Oceania
+0.538,0.538,0.538,2020,HDI,Sub-Saharan Africa
+0.543,0.543,0.543,2021,HDI,Sub-Saharan Africa
+0.547,0.547,0.547,2022,HDI,Sub-Saharan Africa
+0.551,0.551,0.551,2023,HDI,Sub-Saharan Africa
+0.556,0.556,0.556,2024,HDI,Sub-Saharan Africa
+0.56,0.56,0.56,2025,HDI,Sub-Saharan Africa
+0.564,0.564,0.564,2026,HDI,Sub-Saharan Africa
+0.568,0.568,0.569,2027,HDI,Sub-Saharan Africa
+0.571,0.571,0.573,2028,HDI,Sub-Saharan Africa
+0.575,0.575,0.578,2029,HDI,Sub-Saharan Africa
+0.579,0.579,0.582,2030,HDI,Sub-Saharan Africa
+0.582,0.582,0.587,2031,HDI,Sub-Saharan Africa
+0.586,0.586,0.591,2032,HDI,Sub-Saharan Africa
+0.59,0.59,0.596,2033,HDI,Sub-Saharan Africa
+0.593,0.594,0.6,2034,HDI,Sub-Saharan Africa
+0.597,0.597,0.605,2035,HDI,Sub-Saharan Africa
+0.601,0.601,0.609,2036,HDI,Sub-Saharan Africa
+0.604,0.605,0.614,2037,HDI,Sub-Saharan Africa
+0.608,0.609,0.619,2038,HDI,Sub-Saharan Africa
+0.612,0.613,0.623,2039,HDI,Sub-Saharan Africa
+0.616,0.617,0.628,2040,HDI,Sub-Saharan Africa
+0.62,0.621,0.633,2041,HDI,Sub-Saharan Africa
+0.623,0.625,0.637,2042,HDI,Sub-Saharan Africa
+0.627,0.629,0.642,2043,HDI,Sub-Saharan Africa
+0.631,0.633,0.647,2044,HDI,Sub-Saharan Africa
+0.635,0.637,0.652,2045,HDI,Sub-Saharan Africa
+0.639,0.641,0.656,2046,HDI,Sub-Saharan Africa
+0.643,0.645,0.661,2047,HDI,Sub-Saharan Africa
+0.647,0.649,0.666,2048,HDI,Sub-Saharan Africa
+0.651,0.653,0.671,2049,HDI,Sub-Saharan Africa
+0.655,0.657,0.676,2050,HDI,Sub-Saharan Africa
+0.659,0.661,0.681,2051,HDI,Sub-Saharan Africa
+0.663,0.665,0.686,2052,HDI,Sub-Saharan Africa
+0.667,0.669,0.691,2053,HDI,Sub-Saharan Africa
+0.671,0.673,0.696,2054,HDI,Sub-Saharan Africa
+0.675,0.678,0.7,2055,HDI,Sub-Saharan Africa
+0.679,0.682,0.705,2056,HDI,Sub-Saharan Africa
+0.683,0.686,0.71,2057,HDI,Sub-Saharan Africa
+0.687,0.69,0.715,2058,HDI,Sub-Saharan Africa
+0.691,0.694,0.72,2059,HDI,Sub-Saharan Africa
+0.695,0.698,0.725,2060,HDI,Sub-Saharan Africa
+0.768,0.768,0.768,2020,HDI,Upper Middle Income Countries
+0.773,0.773,0.773,2021,HDI,Upper Middle Income Countries
+0.775,0.775,0.775,2022,HDI,Upper Middle Income Countries
+0.778,0.778,0.778,2023,HDI,Upper Middle Income Countries
+0.78,0.78,0.78,2024,HDI,Upper Middle Income Countries
+0.783,0.783,0.783,2025,HDI,Upper Middle Income Countries
+0.785,0.785,0.786,2026,HDI,Upper Middle Income Countries
+0.788,0.788,0.789,2027,HDI,Upper Middle Income Countries
+0.791,0.791,0.793,2028,HDI,Upper Middle Income Countries
+0.794,0.794,0.797,2029,HDI,Upper Middle Income Countries
+0.796,0.797,0.8,2030,HDI,Upper Middle Income Countries
+0.799,0.799,0.804,2031,HDI,Upper Middle Income Countries
+0.802,0.802,0.808,2032,HDI,Upper Middle Income Countries
+0.805,0.805,0.812,2033,HDI,Upper Middle Income Countries
+0.808,0.808,0.815,2034,HDI,Upper Middle Income Countries
+0.81,0.811,0.819,2035,HDI,Upper Middle Income Countries
+0.813,0.814,0.823,2036,HDI,Upper Middle Income Countries
+0.816,0.816,0.827,2037,HDI,Upper Middle Income Countries
+0.819,0.819,0.83,2038,HDI,Upper Middle Income Countries
+0.821,0.822,0.834,2039,HDI,Upper Middle Income Countries
+0.824,0.825,0.837,2040,HDI,Upper Middle Income Countries
+0.827,0.827,0.841,2041,HDI,Upper Middle Income Countries
+0.83,0.83,0.845,2042,HDI,Upper Middle Income Countries
+0.833,0.833,0.848,2043,HDI,Upper Middle Income Countries
+0.835,0.836,0.852,2044,HDI,Upper Middle Income Countries
+0.838,0.839,0.855,2045,HDI,Upper Middle Income Countries
+0.84,0.841,0.859,2046,HDI,Upper Middle Income Countries
+0.843,0.843,0.862,2047,HDI,Upper Middle Income Countries
+0.845,0.846,0.865,2048,HDI,Upper Middle Income Countries
+0.847,0.848,0.868,2049,HDI,Upper Middle Income Countries
+0.849,0.85,0.871,2050,HDI,Upper Middle Income Countries
+0.851,0.852,0.874,2051,HDI,Upper Middle Income Countries
+0.854,0.855,0.877,2052,HDI,Upper Middle Income Countries
+0.856,0.857,0.88,2053,HDI,Upper Middle Income Countries
+0.858,0.859,0.882,2054,HDI,Upper Middle Income Countries
+0.86,0.861,0.885,2055,HDI,Upper Middle Income Countries
+0.862,0.863,0.888,2056,HDI,Upper Middle Income Countries
+0.865,0.866,0.891,2057,HDI,Upper Middle Income Countries
+0.867,0.868,0.894,2058,HDI,Upper Middle Income Countries
+0.869,0.87,0.897,2059,HDI,Upper Middle Income Countries
+0.871,0.872,0.9,2060,HDI,Upper Middle Income Countries
+0.715,0.715,0.715,2020,HDI,World
+0.719,0.719,0.719,2021,HDI,World
+0.721,0.721,0.721,2022,HDI,World
+0.724,0.724,0.724,2023,HDI,World
+0.726,0.726,0.726,2024,HDI,World
+0.728,0.728,0.728,2025,HDI,World
+0.73,0.73,0.731,2026,HDI,World
+0.732,0.732,0.734,2027,HDI,World
+0.735,0.735,0.737,2028,HDI,World
+0.737,0.737,0.74,2029,HDI,World
+0.739,0.739,0.743,2030,HDI,World
+0.741,0.741,0.746,2031,HDI,World
+0.743,0.743,0.749,2032,HDI,World
+0.745,0.746,0.752,2033,HDI,World
+0.747,0.748,0.755,2034,HDI,World
+0.75,0.75,0.758,2035,HDI,World
+0.752,0.752,0.762,2036,HDI,World
+0.754,0.754,0.765,2037,HDI,World
+0.756,0.756,0.768,2038,HDI,World
+0.758,0.759,0.771,2039,HDI,World
+0.76,0.761,0.774,2040,HDI,World
+0.763,0.763,0.777,2041,HDI,World
+0.765,0.766,0.78,2042,HDI,World
+0.767,0.768,0.783,2043,HDI,World
+0.769,0.77,0.787,2044,HDI,World
+0.772,0.772,0.79,2045,HDI,World
+0.774,0.775,0.793,2046,HDI,World
+0.776,0.777,0.796,2047,HDI,World
+0.778,0.779,0.799,2048,HDI,World
+0.78,0.781,0.802,2049,HDI,World
+0.782,0.783,0.805,2050,HDI,World
+0.784,0.785,0.808,2051,HDI,World
+0.786,0.787,0.811,2052,HDI,World
+0.788,0.79,0.814,2053,HDI,World
+0.79,0.792,0.817,2054,HDI,World
+0.793,0.794,0.82,2055,HDI,World
+0.795,0.796,0.822,2056,HDI,World
+0.797,0.798,0.825,2057,HDI,World
+0.799,0.8,0.829,2058,HDI,World
+0.801,0.803,0.832,2059,HDI,World
+0.804,0.805,0.835,2060,HDI,World

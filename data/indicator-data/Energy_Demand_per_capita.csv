@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+7065,7065,7065,2020,Energy_Demand_per_capita,Central & Southern Asia
+7336,7336,7336,2021,Energy_Demand_per_capita,Central & Southern Asia
+7579,7579,7579,2022,Energy_Demand_per_capita,Central & Southern Asia
+7807,7807,7807,2023,Energy_Demand_per_capita,Central & Southern Asia
+8043,8043,8043,2024,Energy_Demand_per_capita,Central & Southern Asia
+8261,8261,8261,2025,Energy_Demand_per_capita,Central & Southern Asia
+8480,8486,8483,2026,Energy_Demand_per_capita,Central & Southern Asia
+8697,8709,8703,2027,Energy_Demand_per_capita,Central & Southern Asia
+8894,8915,8930,2028,Energy_Demand_per_capita,Central & Southern Asia
+9107,9142,9177,2029,Energy_Demand_per_capita,Central & Southern Asia
+9327,9383,9444,2030,Energy_Demand_per_capita,Central & Southern Asia
+9556,9623,9711,2031,Energy_Demand_per_capita,Central & Southern Asia
+9793,9871,9986,2032,Energy_Demand_per_capita,Central & Southern Asia
+10037,10127,10269,2033,Energy_Demand_per_capita,Central & Southern Asia
+10286,10386,10559,2034,Energy_Demand_per_capita,Central & Southern Asia
+10540,10646,10852,2035,Energy_Demand_per_capita,Central & Southern Asia
+10796,10901,11145,2036,Energy_Demand_per_capita,Central & Southern Asia
+11045,11154,11439,2037,Energy_Demand_per_capita,Central & Southern Asia
+11292,11346,11677,2038,Energy_Demand_per_capita,Central & Southern Asia
+11544,11528,11908,2039,Energy_Demand_per_capita,Central & Southern Asia
+11800,11701,12130,2040,Energy_Demand_per_capita,Central & Southern Asia
+12062,11877,12355,2041,Energy_Demand_per_capita,Central & Southern Asia
+12330,12044,12572,2042,Energy_Demand_per_capita,Central & Southern Asia
+12603,12199,12780,2043,Energy_Demand_per_capita,Central & Southern Asia
+12878,12341,12976,2044,Energy_Demand_per_capita,Central & Southern Asia
+13152,12468,13157,2045,Energy_Demand_per_capita,Central & Southern Asia
+13426,12579,13321,2046,Energy_Demand_per_capita,Central & Southern Asia
+13696,12672,13468,2047,Energy_Demand_per_capita,Central & Southern Asia
+13963,12881,13737,2048,Energy_Demand_per_capita,Central & Southern Asia
+14231,13079,13997,2049,Energy_Demand_per_capita,Central & Southern Asia
+14492,13267,14247,2050,Energy_Demand_per_capita,Central & Southern Asia
+14759,13443,14490,2051,Energy_Demand_per_capita,Central & Southern Asia
+15020,13606,14723,2052,Energy_Demand_per_capita,Central & Southern Asia
+15282,13760,14949,2053,Energy_Demand_per_capita,Central & Southern Asia
+15546,13903,15168,2054,Energy_Demand_per_capita,Central & Southern Asia
+15814,14038,15381,2055,Energy_Demand_per_capita,Central & Southern Asia
+16085,14166,15586,2056,Energy_Demand_per_capita,Central & Southern Asia
+16360,14248,15746,2057,Energy_Demand_per_capita,Central & Southern Asia
+16638,14326,15897,2058,Energy_Demand_per_capita,Central & Southern Asia
+16918,14393,16060,2059,Energy_Demand_per_capita,Central & Southern Asia
+17198,14474,16213,2060,Energy_Demand_per_capita,Central & Southern Asia
+22943,22943,22943,2020,Energy_Demand_per_capita,East & Southeast Asia
+23082,23082,23082,2021,Energy_Demand_per_capita,East & Southeast Asia
+23496,23496,23496,2022,Energy_Demand_per_capita,East & Southeast Asia
+23756,23756,23756,2023,Energy_Demand_per_capita,East & Southeast Asia
+24019,24019,24019,2024,Energy_Demand_per_capita,East & Southeast Asia
+24258,24258,24258,2025,Energy_Demand_per_capita,East & Southeast Asia
+24446,24197,24196,2026,Energy_Demand_per_capita,East & Southeast Asia
+24613,24112,24104,2027,Energy_Demand_per_capita,East & Southeast Asia
+24900,24148,24170,2028,Energy_Demand_per_capita,East & Southeast Asia
+25205,24206,24269,2029,Energy_Demand_per_capita,East & Southeast Asia
+25528,24288,24399,2030,Energy_Demand_per_capita,East & Southeast Asia
+25862,24387,24553,2031,Energy_Demand_per_capita,East & Southeast Asia
+26199,24494,24720,2032,Energy_Demand_per_capita,East & Southeast Asia
+26534,24600,24895,2033,Energy_Demand_per_capita,East & Southeast Asia
+26864,24701,25072,2034,Energy_Demand_per_capita,East & Southeast Asia
+27185,24789,25243,2035,Energy_Demand_per_capita,East & Southeast Asia
+27494,24860,25402,2036,Energy_Demand_per_capita,East & Southeast Asia
+27794,24909,25545,2037,Energy_Demand_per_capita,East & Southeast Asia
+28089,24570,25296,2038,Energy_Demand_per_capita,East & Southeast Asia
+28388,24199,25015,2039,Energy_Demand_per_capita,East & Southeast Asia
+28704,23841,24751,2040,Energy_Demand_per_capita,East & Southeast Asia
+29046,23551,24536,2041,Energy_Demand_per_capita,East & Southeast Asia
+29413,23249,24314,2042,Energy_Demand_per_capita,East & Southeast Asia
+29804,22973,24116,2043,Energy_Demand_per_capita,East & Southeast Asia
+30213,22669,23891,2044,Energy_Demand_per_capita,East & Southeast Asia
+30631,22364,23661,2045,Energy_Demand_per_capita,East & Southeast Asia
+31048,22024,23393,2046,Energy_Demand_per_capita,East & Southeast Asia
+31461,21612,23034,2047,Energy_Demand_per_capita,East & Southeast Asia
+31871,21827,23359,2048,Energy_Demand_per_capita,East & Southeast Asia
+32276,22035,23675,2049,Energy_Demand_per_capita,East & Southeast Asia
+32678,22236,23991,2050,Energy_Demand_per_capita,East & Southeast Asia
+33059,22415,24274,2051,Energy_Demand_per_capita,East & Southeast Asia
+33453,22577,24542,2052,Energy_Demand_per_capita,East & Southeast Asia
+33845,22727,24792,2053,Energy_Demand_per_capita,East & Southeast Asia
+34242,22864,25031,2054,Energy_Demand_per_capita,East & Southeast Asia
+34657,22999,25266,2055,Energy_Demand_per_capita,East & Southeast Asia
+35096,23135,25507,2056,Energy_Demand_per_capita,East & Southeast Asia
+35557,23086,25539,2057,Energy_Demand_per_capita,East & Southeast Asia
+36039,23034,25572,2058,Energy_Demand_per_capita,East & Southeast Asia
+36537,22988,25605,2059,Energy_Demand_per_capita,East & Southeast Asia
+37042,22943,25645,2060,Energy_Demand_per_capita,East & Southeast Asia
+47184,47184,47184,2020,Energy_Demand_per_capita,Europe & North America
+46700,46700,46700,2021,Energy_Demand_per_capita,Europe & North America
+47064,47064,47064,2022,Energy_Demand_per_capita,Europe & North America
+47191,47191,47191,2023,Energy_Demand_per_capita,Europe & North America
+47308,47308,47308,2024,Energy_Demand_per_capita,Europe & North America
+47367,47367,47367,2025,Energy_Demand_per_capita,Europe & North America
+47329,46714,46713,2026,Energy_Demand_per_capita,Europe & North America
+47263,46030,46025,2027,Energy_Demand_per_capita,Europe & North America
+47253,45411,45453,2028,Energy_Demand_per_capita,Europe & North America
+47257,44822,44929,2029,Energy_Demand_per_capita,Europe & North America
+47282,44271,44461,2030,Energy_Demand_per_capita,Europe & North America
+47329,43761,44045,2031,Energy_Demand_per_capita,Europe & North America
+47396,43280,43666,2032,Energy_Demand_per_capita,Europe & North America
+47477,42808,43304,2033,Energy_Demand_per_capita,Europe & North America
+47565,42342,42953,2034,Energy_Demand_per_capita,Europe & North America
+47654,41870,42599,2035,Energy_Demand_per_capita,Europe & North America
+47741,41380,42232,2036,Energy_Demand_per_capita,Europe & North America
+47815,40866,41835,2037,Energy_Demand_per_capita,Europe & North America
+47888,40175,41252,2038,Energy_Demand_per_capita,Europe & North America
+47967,39466,40648,2039,Energy_Demand_per_capita,Europe & North America
+48067,38750,40025,2040,Energy_Demand_per_capita,Europe & North America
+48186,38307,39667,2041,Energy_Demand_per_capita,Europe & North America
+48314,37866,39307,2042,Energy_Demand_per_capita,Europe & North America
+48451,37419,38936,2043,Energy_Demand_per_capita,Europe & North America
+48597,36968,38558,2044,Energy_Demand_per_capita,Europe & North America
+48747,36512,38169,2045,Energy_Demand_per_capita,Europe & North America
+48893,36038,37755,2046,Energy_Demand_per_capita,Europe & North America
+49034,35545,37319,2047,Energy_Demand_per_capita,Europe & North America
+49165,35268,37108,2048,Energy_Demand_per_capita,Europe & North America
+49292,34965,36855,2049,Energy_Demand_per_capita,Europe & North America
+49414,34642,36586,2050,Energy_Demand_per_capita,Europe & North America
+49529,34298,36282,2051,Energy_Demand_per_capita,Europe & North America
+49637,33927,35958,2052,Energy_Demand_per_capita,Europe & North America
+49748,33534,35631,2053,Energy_Demand_per_capita,Europe & North America
+49868,33132,35287,2054,Energy_Demand_per_capita,Europe & North America
+49998,32713,34922,2055,Energy_Demand_per_capita,Europe & North America
+50140,32360,34622,2056,Energy_Demand_per_capita,Europe & North America
+50291,31956,34265,2057,Energy_Demand_per_capita,Europe & North America
+50445,31555,33905,2058,Energy_Demand_per_capita,Europe & North America
+50596,31166,33537,2059,Energy_Demand_per_capita,Europe & North America
+50736,30801,33182,2060,Energy_Demand_per_capita,Europe & North America
+49343,49343,49343,2020,Energy_Demand_per_capita,High Income Countries
+48855,48855,48855,2021,Energy_Demand_per_capita,High Income Countries
+49190,49190,49190,2022,Energy_Demand_per_capita,High Income Countries
+49463,49463,49463,2023,Energy_Demand_per_capita,High Income Countries
+49568,49568,49568,2024,Energy_Demand_per_capita,High Income Countries
+49605,49605,49605,2025,Energy_Demand_per_capita,High Income Countries
+49586,48923,48922,2026,Energy_Demand_per_capita,High Income Countries
+49521,48191,48186,2027,Energy_Demand_per_capita,High Income Countries
+49516,47528,47571,2028,Energy_Demand_per_capita,High Income Countries
+49525,46896,47007,2029,Energy_Demand_per_capita,High Income Countries
+49556,46306,46501,2030,Energy_Demand_per_capita,High Income Countries
+49607,45758,46049,2031,Energy_Demand_per_capita,High Income Countries
+49670,45231,45626,2032,Energy_Demand_per_capita,High Income Countries
+49741,44709,45216,2033,Energy_Demand_per_capita,High Income Countries
+49812,44185,44811,2034,Energy_Demand_per_capita,High Income Countries
+49876,43649,44399,2035,Energy_Demand_per_capita,High Income Countries
+49926,43086,43964,2036,Energy_Demand_per_capita,High Income Countries
+49966,42501,43498,2037,Energy_Demand_per_capita,High Income Countries
+50000,41775,42882,2038,Energy_Demand_per_capita,High Income Countries
+50039,41027,42241,2039,Energy_Demand_per_capita,High Income Countries
+50096,40278,41587,2040,Energy_Demand_per_capita,High Income Countries
+50169,39826,41226,2041,Energy_Demand_per_capita,High Income Countries
+50252,39379,40867,2042,Energy_Demand_per_capita,High Income Countries
+50344,38924,40495,2043,Energy_Demand_per_capita,High Income Countries
+50445,38464,40115,2044,Energy_Demand_per_capita,High Income Countries
+50550,37995,39716,2045,Energy_Demand_per_capita,High Income Countries
+50648,37509,39296,2046,Energy_Demand_per_capita,High Income Countries
+50740,37003,38848,2047,Energy_Demand_per_capita,High Income Countries
+50822,36660,38570,2048,Energy_Demand_per_capita,High Income Countries
+50899,36287,38245,2049,Energy_Demand_per_capita,High Income Countries
+50972,35896,37914,2050,Energy_Demand_per_capita,High Income Countries
+51039,35485,37545,2051,Energy_Demand_per_capita,High Income Countries
+51097,35046,37156,2052,Energy_Demand_per_capita,High Income Countries
+51163,34587,36755,2053,Energy_Demand_per_capita,High Income Countries
+51237,34119,36341,2054,Energy_Demand_per_capita,High Income Countries
+51320,33634,35904,2055,Energy_Demand_per_capita,High Income Countries
+51414,33221,35542,2056,Energy_Demand_per_capita,High Income Countries
+51516,32774,35136,2057,Energy_Demand_per_capita,High Income Countries
+51620,32328,34728,2058,Energy_Demand_per_capita,High Income Countries
+51721,31895,34316,2059,Energy_Demand_per_capita,High Income Countries
+51815,31485,33916,2060,Energy_Demand_per_capita,High Income Countries
+11493,11493,11493,2020,Energy_Demand_per_capita,Latin America & the Caribbean
+11912,11912,11912,2021,Energy_Demand_per_capita,Latin America & the Caribbean
+12282,12282,12282,2022,Energy_Demand_per_capita,Latin America & the Caribbean
+12660,12660,12660,2023,Energy_Demand_per_capita,Latin America & the Caribbean
+12922,12922,12922,2024,Energy_Demand_per_capita,Latin America & the Caribbean
+13121,13121,13121,2025,Energy_Demand_per_capita,Latin America & the Caribbean
+13348,13210,13208,2026,Energy_Demand_per_capita,Latin America & the Caribbean
+13580,13298,13291,2027,Energy_Demand_per_capita,Latin America & the Caribbean
+13822,13396,13417,2028,Energy_Demand_per_capita,Latin America & the Caribbean
+14067,13497,13548,2029,Energy_Demand_per_capita,Latin America & the Caribbean
+14317,13603,13688,2030,Energy_Demand_per_capita,Latin America & the Caribbean
+14572,13713,13838,2031,Energy_Demand_per_capita,Latin America & the Caribbean
+14830,13829,13996,2032,Energy_Demand_per_capita,Latin America & the Caribbean
+15093,13949,14164,2033,Energy_Demand_per_capita,Latin America & the Caribbean
+15361,14071,14336,2034,Energy_Demand_per_capita,Latin America & the Caribbean
+15632,14191,14510,2035,Energy_Demand_per_capita,Latin America & the Caribbean
+15905,14306,14681,2036,Energy_Demand_per_capita,Latin America & the Caribbean
+16180,14412,14849,2037,Energy_Demand_per_capita,Latin America & the Caribbean
+16458,14247,14741,2038,Energy_Demand_per_capita,Latin America & the Caribbean
+16741,14065,14619,2039,Energy_Demand_per_capita,Latin America & the Caribbean
+17032,13867,14471,2040,Energy_Demand_per_capita,Latin America & the Caribbean
+17331,13690,14339,2041,Energy_Demand_per_capita,Latin America & the Caribbean
+17639,13502,14195,2042,Energy_Demand_per_capita,Latin America & the Caribbean
+17955,13300,14036,2043,Energy_Demand_per_capita,Latin America & the Caribbean
+18278,13083,13859,2044,Energy_Demand_per_capita,Latin America & the Caribbean
+18607,12851,13664,2045,Energy_Demand_per_capita,Latin America & the Caribbean
+18940,12599,13446,2046,Energy_Demand_per_capita,Latin America & the Caribbean
+19272,12327,13209,2047,Energy_Demand_per_capita,Latin America & the Caribbean
+19606,12508,13454,2048,Energy_Demand_per_capita,Latin America & the Caribbean
+19942,12681,13695,2049,Energy_Demand_per_capita,Latin America & the Caribbean
+20280,12860,13942,2050,Energy_Demand_per_capita,Latin America & the Caribbean
+20630,13027,14176,2051,Energy_Demand_per_capita,Latin America & the Caribbean
+20979,13194,14408,2052,Energy_Demand_per_capita,Latin America & the Caribbean
+21328,13345,14628,2053,Energy_Demand_per_capita,Latin America & the Caribbean
+21684,13504,14857,2054,Energy_Demand_per_capita,Latin America & the Caribbean
+22049,13646,15073,2055,Energy_Demand_per_capita,Latin America & the Caribbean
+22423,13804,15309,2056,Energy_Demand_per_capita,Latin America & the Caribbean
+22810,13821,15391,2057,Energy_Demand_per_capita,Latin America & the Caribbean
+23206,13854,15489,2058,Energy_Demand_per_capita,Latin America & the Caribbean
+23606,13864,15566,2059,Energy_Demand_per_capita,Latin America & the Caribbean
+24009,13900,15670,2060,Energy_Demand_per_capita,Latin America & the Caribbean
+1944,1944,1944,2020,Energy_Demand_per_capita,Low Income Countries
+2023,2023,2023,2021,Energy_Demand_per_capita,Low Income Countries
+2053,2053,2053,2022,Energy_Demand_per_capita,Low Income Countries
+2078,2078,2078,2023,Energy_Demand_per_capita,Low Income Countries
+2089,2089,2089,2024,Energy_Demand_per_capita,Low Income Countries
+2114,2114,2114,2025,Energy_Demand_per_capita,Low Income Countries
+2159,2159,2157,2026,Energy_Demand_per_capita,Low Income Countries
+2214,2214,2211,2027,Energy_Demand_per_capita,Low Income Countries
+2267,2267,2273,2028,Energy_Demand_per_capita,Low Income Countries
+2323,2324,2336,2029,Energy_Demand_per_capita,Low Income Countries
+2380,2381,2399,2030,Energy_Demand_per_capita,Low Income Countries
+2437,2439,2465,2031,Energy_Demand_per_capita,Low Income Countries
+2496,2500,2536,2032,Energy_Demand_per_capita,Low Income Countries
+2559,2567,2612,2033,Energy_Demand_per_capita,Low Income Countries
+2624,2637,2693,2034,Energy_Demand_per_capita,Low Income Countries
+2691,2709,2776,2035,Energy_Demand_per_capita,Low Income Countries
+2762,2783,2864,2036,Energy_Demand_per_capita,Low Income Countries
+2835,2861,2956,2037,Energy_Demand_per_capita,Low Income Countries
+2911,2936,3046,2038,Energy_Demand_per_capita,Low Income Countries
+2991,3013,3141,2039,Energy_Demand_per_capita,Low Income Countries
+3076,3091,3238,2040,Energy_Demand_per_capita,Low Income Countries
+3165,3173,3341,2041,Energy_Demand_per_capita,Low Income Countries
+3259,3259,3448,2042,Energy_Demand_per_capita,Low Income Countries
+3359,3346,3560,2043,Energy_Demand_per_capita,Low Income Countries
+3464,3437,3675,2044,Energy_Demand_per_capita,Low Income Countries
+3574,3530,3794,2045,Energy_Demand_per_capita,Low Income Countries
+3690,3624,3916,2046,Energy_Demand_per_capita,Low Income Countries
+3811,3721,4040,2047,Energy_Demand_per_capita,Low Income Countries
+3938,3838,4187,2048,Energy_Demand_per_capita,Low Income Countries
+4069,3959,4339,2049,Energy_Demand_per_capita,Low Income Countries
+4205,4084,4495,2050,Energy_Demand_per_capita,Low Income Countries
+4345,4211,4656,2051,Energy_Demand_per_capita,Low Income Countries
+4491,4341,4820,2052,Energy_Demand_per_capita,Low Income Countries
+4643,4475,4989,2053,Energy_Demand_per_capita,Low Income Countries
+4801,4612,5163,2054,Energy_Demand_per_capita,Low Income Countries
+4966,4752,5342,2055,Energy_Demand_per_capita,Low Income Countries
+5138,4896,5528,2056,Energy_Demand_per_capita,Low Income Countries
+5316,5036,5711,2057,Energy_Demand_per_capita,Low Income Countries
+5502,5180,5902,2058,Energy_Demand_per_capita,Low Income Countries
+5694,5329,6099,2059,Energy_Demand_per_capita,Low Income Countries
+5893,5481,6305,2060,Energy_Demand_per_capita,Low Income Countries
+5301,5301,5301,2020,Energy_Demand_per_capita,Low Middle Income Countries
+5599,5599,5599,2021,Energy_Demand_per_capita,Low Middle Income Countries
+5814,5814,5814,2022,Energy_Demand_per_capita,Low Middle Income Countries
+6029,6029,6029,2023,Energy_Demand_per_capita,Low Middle Income Countries
+6233,6234,6234,2024,Energy_Demand_per_capita,Low Middle Income Countries
+6437,6438,6438,2025,Energy_Demand_per_capita,Low Middle Income Countries
+6643,6669,6667,2026,Energy_Demand_per_capita,Low Middle Income Countries
+6855,6907,6902,2027,Energy_Demand_per_capita,Low Middle Income Countries
+7043,7123,7134,2028,Energy_Demand_per_capita,Low Middle Income Countries
+7245,7356,7383,2029,Energy_Demand_per_capita,Low Middle Income Countries
+7451,7598,7646,2030,Energy_Demand_per_capita,Low Middle Income Countries
+7664,7843,7913,2031,Energy_Demand_per_capita,Low Middle Income Countries
+7883,8094,8186,2032,Energy_Demand_per_capita,Low Middle Income Countries
+8108,8351,8468,2033,Energy_Demand_per_capita,Low Middle Income Countries
+8337,8613,8756,2034,Energy_Demand_per_capita,Low Middle Income Countries
+8569,8876,9049,2035,Energy_Demand_per_capita,Low Middle Income Countries
+8803,9136,9343,2036,Energy_Demand_per_capita,Low Middle Income Countries
+9034,9396,9639,2037,Energy_Demand_per_capita,Low Middle Income Countries
+9265,9632,9916,2038,Energy_Demand_per_capita,Low Middle Income Countries
+9499,9862,10191,2039,Energy_Demand_per_capita,Low Middle Income Countries
+9739,10086,10460,2040,Energy_Demand_per_capita,Low Middle Income Countries
+9984,10310,10731,2041,Energy_Demand_per_capita,Low Middle Income Countries
+10234,10530,10999,2042,Energy_Demand_per_capita,Low Middle Income Countries
+10491,10742,11262,2043,Energy_Demand_per_capita,Low Middle Income Countries
+10750,10945,11517,2044,Energy_Demand_per_capita,Low Middle Income Countries
+11012,11139,11765,2045,Energy_Demand_per_capita,Low Middle Income Countries
+11274,11320,12002,2046,Energy_Demand_per_capita,Low Middle Income Countries
+11536,11491,12229,2047,Energy_Demand_per_capita,Low Middle Income Countries
+11796,11720,12520,2048,Energy_Demand_per_capita,Low Middle Income Countries
+12059,11943,12807,2049,Energy_Demand_per_capita,Low Middle Income Countries
+12318,12158,13089,2050,Energy_Demand_per_capita,Low Middle Income Countries
+12586,12368,13371,2051,Energy_Demand_per_capita,Low Middle Income Countries
+12850,12568,13645,2052,Energy_Demand_per_capita,Low Middle Income Countries
+13115,12762,13917,2053,Energy_Demand_per_capita,Low Middle Income Countries
+13385,12949,14182,2054,Energy_Demand_per_capita,Low Middle Income Countries
+13660,13131,14449,2055,Energy_Demand_per_capita,Low Middle Income Countries
+13941,13308,14710,2056,Energy_Demand_per_capita,Low Middle Income Countries
+14226,13460,14950,2057,Energy_Demand_per_capita,Low Middle Income Countries
+14516,13609,15185,2058,Energy_Demand_per_capita,Low Middle Income Countries
+14810,13753,15436,2059,Energy_Demand_per_capita,Low Middle Income Countries
+15106,13907,15681,2060,Energy_Demand_per_capita,Low Middle Income Countries
+20430,20430,20430,2020,Energy_Demand_per_capita,North Africa & West Asia
+20529,20529,20529,2021,Energy_Demand_per_capita,North Africa & West Asia
+20670,20670,20670,2022,Energy_Demand_per_capita,North Africa & West Asia
+20943,20943,20943,2023,Energy_Demand_per_capita,North Africa & West Asia
+20838,20838,20838,2024,Energy_Demand_per_capita,North Africa & West Asia
+20771,20771,20771,2025,Energy_Demand_per_capita,North Africa & West Asia
+20856,20673,20670,2026,Energy_Demand_per_capita,North Africa & West Asia
+20891,20524,20518,2027,Energy_Demand_per_capita,North Africa & West Asia
+20928,20377,20396,2028,Energy_Demand_per_capita,North Africa & West Asia
+20963,20234,20281,2029,Energy_Demand_per_capita,North Africa & West Asia
+21016,20123,20203,2030,Energy_Demand_per_capita,North Africa & West Asia
+21078,20037,20157,2031,Energy_Demand_per_capita,North Africa & West Asia
+21143,19964,20128,2032,Energy_Demand_per_capita,North Africa & West Asia
+21213,19906,20119,2033,Energy_Demand_per_capita,North Africa & West Asia
+21280,19846,20111,2034,Energy_Demand_per_capita,North Africa & West Asia
+21340,19776,20099,2035,Energy_Demand_per_capita,North Africa & West Asia
+21393,19696,20079,2036,Energy_Demand_per_capita,North Africa & West Asia
+21442,19610,20057,2037,Energy_Demand_per_capita,North Africa & West Asia
+21489,19387,19895,2038,Energy_Demand_per_capita,North Africa & West Asia
+21537,19153,19727,2039,Energy_Demand_per_capita,North Africa & West Asia
+21589,18915,19553,2040,Energy_Demand_per_capita,North Africa & West Asia
+21647,18749,19452,2041,Energy_Demand_per_capita,North Africa & West Asia
+21714,18582,19349,2042,Energy_Demand_per_capita,North Africa & West Asia
+21790,18414,19247,2043,Energy_Demand_per_capita,North Africa & West Asia
+21872,18246,19144,2044,Energy_Demand_per_capita,North Africa & West Asia
+21960,18075,19035,2045,Energy_Demand_per_capita,North Africa & West Asia
+22049,17896,18919,2046,Energy_Demand_per_capita,North Africa & West Asia
+22141,17712,18800,2047,Energy_Demand_per_capita,North Africa & West Asia
+22232,17748,18932,2048,Energy_Demand_per_capita,North Africa & West Asia
+22323,17784,19061,2049,Energy_Demand_per_capita,North Africa & West Asia
+22418,17816,19195,2050,Energy_Demand_per_capita,North Africa & West Asia
+22522,17864,19325,2051,Energy_Demand_per_capita,North Africa & West Asia
+22653,17910,19451,2052,Energy_Demand_per_capita,North Africa & West Asia
+22792,17957,19576,2053,Energy_Demand_per_capita,North Africa & West Asia
+22939,18000,19701,2054,Energy_Demand_per_capita,North Africa & West Asia
+23099,18050,19829,2055,Energy_Demand_per_capita,North Africa & West Asia
+23268,18109,19973,2056,Energy_Demand_per_capita,North Africa & West Asia
+23445,18116,20058,2057,Energy_Demand_per_capita,North Africa & West Asia
+23628,18126,20149,2058,Energy_Demand_per_capita,North Africa & West Asia
+23818,18142,20248,2059,Energy_Demand_per_capita,North Africa & West Asia
+24013,18166,20359,2060,Energy_Demand_per_capita,North Africa & West Asia
+37647,37647,37647,2020,Energy_Demand_per_capita,Oceania
+37167,37167,37167,2021,Energy_Demand_per_capita,Oceania
+37049,37049,37049,2022,Energy_Demand_per_capita,Oceania
+37161,37162,37162,2023,Energy_Demand_per_capita,Oceania
+37125,37125,37125,2024,Energy_Demand_per_capita,Oceania
+36903,36903,36903,2025,Energy_Demand_per_capita,Oceania
+36704,36213,36213,2026,Energy_Demand_per_capita,Oceania
+36555,35572,35572,2027,Energy_Demand_per_capita,Oceania
+36472,35012,35046,2028,Energy_Demand_per_capita,Oceania
+36420,34502,34586,2029,Energy_Demand_per_capita,Oceania
+36387,34033,34184,2030,Energy_Demand_per_capita,Oceania
+36406,33641,33869,2031,Energy_Demand_per_capita,Oceania
+36433,33264,33581,2032,Energy_Demand_per_capita,Oceania
+36472,32907,33319,2033,Energy_Demand_per_capita,Oceania
+36520,32522,33041,2034,Energy_Demand_per_capita,Oceania
+36575,32165,32782,2035,Energy_Demand_per_capita,Oceania
+36617,31801,32508,2036,Energy_Demand_per_capita,Oceania
+36671,31422,32212,2037,Energy_Demand_per_capita,Oceania
+36722,31021,31883,2038,Energy_Demand_per_capita,Oceania
+36779,30562,31482,2039,Energy_Demand_per_capita,Oceania
+36839,30189,31202,2040,Energy_Demand_per_capita,Oceania
+36909,29985,31034,2041,Energy_Demand_per_capita,Oceania
+37002,29849,30997,2042,Energy_Demand_per_capita,Oceania
+37109,29641,30825,2043,Energy_Demand_per_capita,Oceania
+37223,29493,30769,2044,Energy_Demand_per_capita,Oceania
+37338,29273,30583,2045,Energy_Demand_per_capita,Oceania
+37437,29106,30510,2046,Energy_Demand_per_capita,Oceania
+37541,28855,30289,2047,Energy_Demand_per_capita,Oceania
+37632,28680,30204,2048,Energy_Demand_per_capita,Oceania
+37719,28414,29966,2049,Energy_Demand_per_capita,Oceania
+37802,28205,29843,2050,Energy_Demand_per_capita,Oceania
+37885,27913,29577,2051,Energy_Demand_per_capita,Oceania
+37971,27673,29414,2052,Energy_Demand_per_capita,Oceania
+38062,27353,29130,2053,Energy_Demand_per_capita,Oceania
+38161,27084,28907,2054,Energy_Demand_per_capita,Oceania
+38268,26765,28644,2055,Energy_Demand_per_capita,Oceania
+38385,26516,28441,2056,Energy_Demand_per_capita,Oceania
+38508,26264,28240,2057,Energy_Demand_per_capita,Oceania
+38634,26015,28039,2058,Energy_Demand_per_capita,Oceania
+38761,25772,27842,2059,Energy_Demand_per_capita,Oceania
+38904,25539,27657,2060,Energy_Demand_per_capita,Oceania
+3578,3578,3578,2020,Energy_Demand_per_capita,Sub-Saharan Africa
+3694,3694,3694,2021,Energy_Demand_per_capita,Sub-Saharan Africa
+3762,3762,3762,2022,Energy_Demand_per_capita,Sub-Saharan Africa
+3819,3819,3819,2023,Energy_Demand_per_capita,Sub-Saharan Africa
+3861,3862,3862,2024,Energy_Demand_per_capita,Sub-Saharan Africa
+3913,3914,3914,2025,Energy_Demand_per_capita,Sub-Saharan Africa
+3966,3962,3960,2026,Energy_Demand_per_capita,Sub-Saharan Africa
+4019,4010,4007,2027,Energy_Demand_per_capita,Sub-Saharan Africa
+4080,4069,4074,2028,Energy_Demand_per_capita,Sub-Saharan Africa
+4145,4134,4146,2029,Energy_Demand_per_capita,Sub-Saharan Africa
+4213,4203,4224,2030,Energy_Demand_per_capita,Sub-Saharan Africa
+4285,4279,4310,2031,Energy_Demand_per_capita,Sub-Saharan Africa
+4360,4360,4403,2032,Energy_Demand_per_capita,Sub-Saharan Africa
+4439,4447,4504,2033,Energy_Demand_per_capita,Sub-Saharan Africa
+4521,4538,4610,2034,Energy_Demand_per_capita,Sub-Saharan Africa
+4608,4634,4723,2035,Energy_Demand_per_capita,Sub-Saharan Africa
+4698,4734,4840,2036,Energy_Demand_per_capita,Sub-Saharan Africa
+4791,4837,4963,2037,Energy_Demand_per_capita,Sub-Saharan Africa
+4889,4921,5068,2038,Energy_Demand_per_capita,Sub-Saharan Africa
+4991,5007,5178,2039,Energy_Demand_per_capita,Sub-Saharan Africa
+5099,5097,5291,2040,Energy_Demand_per_capita,Sub-Saharan Africa
+5213,5193,5414,2041,Energy_Demand_per_capita,Sub-Saharan Africa
+5333,5294,5542,2042,Energy_Demand_per_capita,Sub-Saharan Africa
+5460,5398,5675,2043,Energy_Demand_per_capita,Sub-Saharan Africa
+5593,5506,5814,2044,Energy_Demand_per_capita,Sub-Saharan Africa
+5732,5617,5958,2045,Energy_Demand_per_capita,Sub-Saharan Africa
+5876,5729,6105,2046,Energy_Demand_per_capita,Sub-Saharan Africa
+6026,5844,6256,2047,Energy_Demand_per_capita,Sub-Saharan Africa
+6181,6004,6457,2048,Energy_Demand_per_capita,Sub-Saharan Africa
+6341,6168,6664,2049,Energy_Demand_per_capita,Sub-Saharan Africa
+6507,6335,6877,2050,Energy_Demand_per_capita,Sub-Saharan Africa
+6678,6504,7096,2051,Energy_Demand_per_capita,Sub-Saharan Africa
+6856,6676,7319,2052,Energy_Demand_per_capita,Sub-Saharan Africa
+7041,6850,7546,2053,Energy_Demand_per_capita,Sub-Saharan Africa
+7234,7026,7778,2054,Energy_Demand_per_capita,Sub-Saharan Africa
+7435,7205,8016,2055,Energy_Demand_per_capita,Sub-Saharan Africa
+7645,7387,8258,2056,Energy_Demand_per_capita,Sub-Saharan Africa
+7863,7560,8496,2057,Energy_Demand_per_capita,Sub-Saharan Africa
+8090,7738,8739,2058,Energy_Demand_per_capita,Sub-Saharan Africa
+8324,7918,8993,2059,Energy_Demand_per_capita,Sub-Saharan Africa
+8565,8107,9254,2060,Energy_Demand_per_capita,Sub-Saharan Africa
+21309,21309,21309,2020,Energy_Demand_per_capita,Upper Middle Income Countries
+21512,21512,21512,2021,Energy_Demand_per_capita,Upper Middle Income Countries
+21942,21942,21942,2022,Energy_Demand_per_capita,Upper Middle Income Countries
+22203,22203,22203,2023,Energy_Demand_per_capita,Upper Middle Income Countries
+22454,22454,22454,2024,Energy_Demand_per_capita,Upper Middle Income Countries
+22675,22675,22675,2025,Energy_Demand_per_capita,Upper Middle Income Countries
+22875,22644,22643,2026,Energy_Demand_per_capita,Upper Middle Income Countries
+23046,22581,22572,2027,Energy_Demand_per_capita,Upper Middle Income Countries
+23328,22628,22649,2028,Energy_Demand_per_capita,Upper Middle Income Countries
+23620,22687,22746,2029,Energy_Demand_per_capita,Upper Middle Income Countries
+23927,22766,22871,2030,Energy_Demand_per_capita,Upper Middle Income Countries
+24244,22859,23015,2031,Energy_Demand_per_capita,Upper Middle Income Countries
+24565,22960,23173,2032,Energy_Demand_per_capita,Upper Middle Income Countries
+24886,23064,23340,2033,Energy_Demand_per_capita,Upper Middle Income Countries
+25205,23162,23509,2034,Energy_Demand_per_capita,Upper Middle Income Countries
+25518,23249,23670,2035,Energy_Demand_per_capita,Upper Middle Income Countries
+25825,23319,23822,2036,Energy_Demand_per_capita,Upper Middle Income Countries
+26121,23367,23958,2037,Energy_Demand_per_capita,Upper Middle Income Countries
+26414,22970,23643,2038,Energy_Demand_per_capita,Upper Middle Income Countries
+26710,22542,23297,2039,Energy_Demand_per_capita,Upper Middle Income Countries
+27019,22114,22953,2040,Energy_Demand_per_capita,Upper Middle Income Countries
+27347,21731,22635,2041,Energy_Demand_per_capita,Upper Middle Income Countries
+27696,21332,22306,2042,Energy_Demand_per_capita,Upper Middle Income Countries
+28063,20949,21989,2043,Energy_Demand_per_capita,Upper Middle Income Countries
+28445,20540,21646,2044,Energy_Demand_per_capita,Upper Middle Income Countries
+28832,20125,21293,2045,Energy_Demand_per_capita,Upper Middle Income Countries
+29218,19676,20904,2046,Energy_Demand_per_capita,Upper Middle Income Countries
+29600,19165,20437,2047,Energy_Demand_per_capita,Upper Middle Income Countries
+29978,19366,20744,2048,Energy_Demand_per_capita,Upper Middle Income Countries
+30352,19559,21042,2049,Energy_Demand_per_capita,Upper Middle Income Countries
+30722,19750,21342,2050,Energy_Demand_per_capita,Upper Middle Income Countries
+31076,19922,21609,2051,Energy_Demand_per_capita,Upper Middle Income Countries
+31449,20084,21869,2052,Energy_Demand_per_capita,Upper Middle Income Countries
+31820,20234,22110,2053,Energy_Demand_per_capita,Upper Middle Income Countries
+32196,20376,22349,2054,Energy_Demand_per_capita,Upper Middle Income Countries
+32590,20513,22577,2055,Energy_Demand_per_capita,Upper Middle Income Countries
+33005,20653,22813,2056,Energy_Demand_per_capita,Upper Middle Income Countries
+33440,20584,22813,2057,Energy_Demand_per_capita,Upper Middle Income Countries
+33894,20520,22822,2058,Energy_Demand_per_capita,Upper Middle Income Countries
+34361,20451,22818,2059,Energy_Demand_per_capita,Upper Middle Income Countries
+34834,20395,22831,2060,Energy_Demand_per_capita,Upper Middle Income Countries
+18570,18570,18570,2020,Energy_Demand_per_capita,World
+18583,18583,18583,2021,Energy_Demand_per_capita,World
+18784,18784,18784,2022,Energy_Demand_per_capita,World
+18909,18909,18909,2023,Energy_Demand_per_capita,World
+18993,18993,18993,2024,Energy_Demand_per_capita,World
+19055,19055,19055,2025,Energy_Demand_per_capita,World
+19103,18921,18919,2026,Energy_Demand_per_capita,World
+19139,18775,18770,2027,Energy_Demand_per_capita,World
+19213,18674,18695,2028,Energy_Demand_per_capita,World
+19301,18593,18646,2029,Energy_Demand_per_capita,World
+19399,18532,18625,2030,Energy_Demand_per_capita,World
+19506,18486,18623,2031,Energy_Demand_per_capita,World
+19620,18452,18636,2032,Energy_Demand_per_capita,World
+19737,18425,18661,2033,Energy_Demand_per_capita,World
+19856,18400,18691,2034,Energy_Demand_per_capita,World
+19973,18373,18722,2035,Energy_Demand_per_capita,World
+20086,18338,18749,2036,Energy_Demand_per_capita,World
+20193,18294,18771,2037,Energy_Demand_per_capita,World
+20299,18078,18619,2038,Energy_Demand_per_capita,World
+20408,17852,18457,2039,Energy_Demand_per_capita,World
+20528,17628,18296,2040,Energy_Demand_per_capita,World
+20659,17469,18194,2041,Energy_Demand_per_capita,World
+20800,17308,18092,2042,Energy_Demand_per_capita,World
+20952,17152,17994,2043,Energy_Demand_per_capita,World
+21111,16988,17889,2044,Energy_Demand_per_capita,World
+21274,16820,17778,2045,Energy_Demand_per_capita,World
+21437,16640,17653,2046,Energy_Demand_per_capita,World
+21597,16437,17500,2047,Energy_Demand_per_capita,World
+21755,16503,17639,2048,Energy_Demand_per_capita,World
+21912,16561,17769,2049,Energy_Demand_per_capita,World
+22067,16615,17898,2050,Energy_Demand_per_capita,World
+22220,16660,18015,2051,Energy_Demand_per_capita,World
+22377,16696,18124,2052,Energy_Demand_per_capita,World
+22536,16725,18229,2053,Energy_Demand_per_capita,World
+22701,16749,18329,2054,Energy_Demand_per_capita,World
+22875,16771,18427,2055,Energy_Demand_per_capita,World
+23061,16802,18538,2056,Energy_Demand_per_capita,World
+23257,16761,18567,2057,Energy_Demand_per_capita,World
+23462,16724,18600,2058,Energy_Demand_per_capita,World
+23674,16688,18640,2059,Energy_Demand_per_capita,World
+23888,16666,18686,2060,Energy_Demand_per_capita,World

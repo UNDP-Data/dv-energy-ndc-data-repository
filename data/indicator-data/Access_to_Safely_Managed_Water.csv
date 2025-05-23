@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+64.03,64.03,64.03,2020,Access_to_Safely_Managed_Water,Central & Southern Asia
+65.08,65.08,65.08,2021,Access_to_Safely_Managed_Water,Central & Southern Asia
+66.14,66.14,66.14,2022,Access_to_Safely_Managed_Water,Central & Southern Asia
+67.02,67.02,67.02,2023,Access_to_Safely_Managed_Water,Central & Southern Asia
+67.74,67.74,67.74,2024,Access_to_Safely_Managed_Water,Central & Southern Asia
+68.47,68.47,68.89,2025,Access_to_Safely_Managed_Water,Central & Southern Asia
+69.21,69.21,70,2026,Access_to_Safely_Managed_Water,Central & Southern Asia
+69.88,69.85,70.85,2027,Access_to_Safely_Managed_Water,Central & Southern Asia
+70.54,70.51,71.78,2028,Access_to_Safely_Managed_Water,Central & Southern Asia
+71.24,71.19,72.72,2029,Access_to_Safely_Managed_Water,Central & Southern Asia
+71.97,71.91,73.72,2030,Access_to_Safely_Managed_Water,Central & Southern Asia
+72.69,72.64,74.74,2031,Access_to_Safely_Managed_Water,Central & Southern Asia
+73.39,73.35,75.71,2032,Access_to_Safely_Managed_Water,Central & Southern Asia
+74.04,74.03,76.62,2033,Access_to_Safely_Managed_Water,Central & Southern Asia
+74.59,74.62,77.5,2034,Access_to_Safely_Managed_Water,Central & Southern Asia
+75.13,75.19,78.36,2035,Access_to_Safely_Managed_Water,Central & Southern Asia
+75.68,75.76,79.2,2036,Access_to_Safely_Managed_Water,Central & Southern Asia
+76.23,76.32,80.02,2037,Access_to_Safely_Managed_Water,Central & Southern Asia
+76.79,76.88,80.82,2038,Access_to_Safely_Managed_Water,Central & Southern Asia
+77.34,77.44,81.56,2039,Access_to_Safely_Managed_Water,Central & Southern Asia
+77.9,78,82.27,2040,Access_to_Safely_Managed_Water,Central & Southern Asia
+78.46,78.57,82.96,2041,Access_to_Safely_Managed_Water,Central & Southern Asia
+79.02,79.13,83.62,2042,Access_to_Safely_Managed_Water,Central & Southern Asia
+79.58,79.69,84.26,2043,Access_to_Safely_Managed_Water,Central & Southern Asia
+80.12,80.24,84.89,2044,Access_to_Safely_Managed_Water,Central & Southern Asia
+80.65,80.78,85.5,2045,Access_to_Safely_Managed_Water,Central & Southern Asia
+81.18,81.32,86.1,2046,Access_to_Safely_Managed_Water,Central & Southern Asia
+81.7,81.85,86.68,2047,Access_to_Safely_Managed_Water,Central & Southern Asia
+82.22,82.37,87.26,2048,Access_to_Safely_Managed_Water,Central & Southern Asia
+82.73,82.89,87.81,2049,Access_to_Safely_Managed_Water,Central & Southern Asia
+83.25,83.39,88.36,2050,Access_to_Safely_Managed_Water,Central & Southern Asia
+83.75,83.89,88.86,2051,Access_to_Safely_Managed_Water,Central & Southern Asia
+84.24,84.38,89.36,2052,Access_to_Safely_Managed_Water,Central & Southern Asia
+84.73,84.87,89.85,2053,Access_to_Safely_Managed_Water,Central & Southern Asia
+85.23,85.35,90.33,2054,Access_to_Safely_Managed_Water,Central & Southern Asia
+85.72,85.83,90.8,2055,Access_to_Safely_Managed_Water,Central & Southern Asia
+86.19,86.28,91.27,2056,Access_to_Safely_Managed_Water,Central & Southern Asia
+86.65,86.73,91.73,2057,Access_to_Safely_Managed_Water,Central & Southern Asia
+87.11,87.17,92.19,2058,Access_to_Safely_Managed_Water,Central & Southern Asia
+87.55,87.62,92.61,2059,Access_to_Safely_Managed_Water,Central & Southern Asia
+88,88.06,92.87,2060,Access_to_Safely_Managed_Water,Central & Southern Asia
+78.38,78.38,78.38,2020,Access_to_Safely_Managed_Water,East & Southeast Asia
+79.83,79.83,79.83,2021,Access_to_Safely_Managed_Water,East & Southeast Asia
+80.78,80.78,80.78,2022,Access_to_Safely_Managed_Water,East & Southeast Asia
+81.82,81.82,81.82,2023,Access_to_Safely_Managed_Water,East & Southeast Asia
+82.84,82.84,82.84,2024,Access_to_Safely_Managed_Water,East & Southeast Asia
+83.64,83.64,83.82,2025,Access_to_Safely_Managed_Water,East & Southeast Asia
+84.37,84.37,84.67,2026,Access_to_Safely_Managed_Water,East & Southeast Asia
+85.08,85.08,85.54,2027,Access_to_Safely_Managed_Water,East & Southeast Asia
+85.68,85.69,86.4,2028,Access_to_Safely_Managed_Water,East & Southeast Asia
+86.24,86.26,87.22,2029,Access_to_Safely_Managed_Water,East & Southeast Asia
+86.78,86.8,88.01,2030,Access_to_Safely_Managed_Water,East & Southeast Asia
+87.29,87.32,88.76,2031,Access_to_Safely_Managed_Water,East & Southeast Asia
+87.76,87.81,89.47,2032,Access_to_Safely_Managed_Water,East & Southeast Asia
+88.21,88.26,90.1,2033,Access_to_Safely_Managed_Water,East & Southeast Asia
+88.6,88.66,90.67,2034,Access_to_Safely_Managed_Water,East & Southeast Asia
+88.96,89.04,91.19,2035,Access_to_Safely_Managed_Water,East & Southeast Asia
+89.33,89.4,91.68,2036,Access_to_Safely_Managed_Water,East & Southeast Asia
+89.67,89.74,92.14,2037,Access_to_Safely_Managed_Water,East & Southeast Asia
+89.99,90.06,92.57,2038,Access_to_Safely_Managed_Water,East & Southeast Asia
+90.3,90.37,92.97,2039,Access_to_Safely_Managed_Water,East & Southeast Asia
+90.62,90.69,93.33,2040,Access_to_Safely_Managed_Water,East & Southeast Asia
+90.95,91.01,93.68,2041,Access_to_Safely_Managed_Water,East & Southeast Asia
+91.27,91.33,94.01,2042,Access_to_Safely_Managed_Water,East & Southeast Asia
+91.59,91.65,94.33,2043,Access_to_Safely_Managed_Water,East & Southeast Asia
+91.9,91.96,94.62,2044,Access_to_Safely_Managed_Water,East & Southeast Asia
+92.2,92.25,94.9,2045,Access_to_Safely_Managed_Water,East & Southeast Asia
+92.49,92.54,95.16,2046,Access_to_Safely_Managed_Water,East & Southeast Asia
+92.77,92.82,95.41,2047,Access_to_Safely_Managed_Water,East & Southeast Asia
+93.04,93.1,95.66,2048,Access_to_Safely_Managed_Water,East & Southeast Asia
+93.31,93.37,95.89,2049,Access_to_Safely_Managed_Water,East & Southeast Asia
+93.56,93.64,96.12,2050,Access_to_Safely_Managed_Water,East & Southeast Asia
+93.82,93.89,96.34,2051,Access_to_Safely_Managed_Water,East & Southeast Asia
+94.07,94.15,96.55,2052,Access_to_Safely_Managed_Water,East & Southeast Asia
+94.32,94.39,96.75,2053,Access_to_Safely_Managed_Water,East & Southeast Asia
+94.56,94.64,96.95,2054,Access_to_Safely_Managed_Water,East & Southeast Asia
+94.81,94.88,97.14,2055,Access_to_Safely_Managed_Water,East & Southeast Asia
+95.05,95.12,97.33,2056,Access_to_Safely_Managed_Water,East & Southeast Asia
+95.29,95.35,97.52,2057,Access_to_Safely_Managed_Water,East & Southeast Asia
+95.53,95.58,97.69,2058,Access_to_Safely_Managed_Water,East & Southeast Asia
+95.76,95.81,97.87,2059,Access_to_Safely_Managed_Water,East & Southeast Asia
+95.98,96.04,98.04,2060,Access_to_Safely_Managed_Water,East & Southeast Asia
+94.12,94.12,94.12,2020,Access_to_Safely_Managed_Water,Europe & North America
+94.57,94.57,94.57,2021,Access_to_Safely_Managed_Water,Europe & North America
+94.52,94.52,94.52,2022,Access_to_Safely_Managed_Water,Europe & North America
+94.62,94.62,94.62,2023,Access_to_Safely_Managed_Water,Europe & North America
+94.78,94.78,94.78,2024,Access_to_Safely_Managed_Water,Europe & North America
+94.92,94.92,95.11,2025,Access_to_Safely_Managed_Water,Europe & North America
+95.11,95.11,95.36,2026,Access_to_Safely_Managed_Water,Europe & North America
+95.29,95.29,95.59,2027,Access_to_Safely_Managed_Water,Europe & North America
+95.43,95.43,95.83,2028,Access_to_Safely_Managed_Water,Europe & North America
+95.56,95.56,96.08,2029,Access_to_Safely_Managed_Water,Europe & North America
+95.69,95.69,96.32,2030,Access_to_Safely_Managed_Water,Europe & North America
+95.82,95.82,96.55,2031,Access_to_Safely_Managed_Water,Europe & North America
+95.95,95.95,96.78,2032,Access_to_Safely_Managed_Water,Europe & North America
+96.09,96.08,97,2033,Access_to_Safely_Managed_Water,Europe & North America
+96.22,96.21,97.21,2034,Access_to_Safely_Managed_Water,Europe & North America
+96.35,96.35,97.4,2035,Access_to_Safely_Managed_Water,Europe & North America
+96.48,96.47,97.58,2036,Access_to_Safely_Managed_Water,Europe & North America
+96.6,96.59,97.74,2037,Access_to_Safely_Managed_Water,Europe & North America
+96.72,96.71,97.9,2038,Access_to_Safely_Managed_Water,Europe & North America
+96.83,96.83,98.03,2039,Access_to_Safely_Managed_Water,Europe & North America
+96.95,96.95,98.15,2040,Access_to_Safely_Managed_Water,Europe & North America
+97.06,97.06,98.26,2041,Access_to_Safely_Managed_Water,Europe & North America
+97.17,97.18,98.36,2042,Access_to_Safely_Managed_Water,Europe & North America
+97.27,97.3,98.46,2043,Access_to_Safely_Managed_Water,Europe & North America
+97.4,97.41,98.55,2044,Access_to_Safely_Managed_Water,Europe & North America
+97.51,97.52,98.63,2045,Access_to_Safely_Managed_Water,Europe & North America
+97.61,97.63,98.71,2046,Access_to_Safely_Managed_Water,Europe & North America
+97.72,97.74,98.78,2047,Access_to_Safely_Managed_Water,Europe & North America
+97.82,97.84,98.85,2048,Access_to_Safely_Managed_Water,Europe & North America
+97.93,97.95,98.92,2049,Access_to_Safely_Managed_Water,Europe & North America
+98.03,98.06,98.98,2050,Access_to_Safely_Managed_Water,Europe & North America
+98.14,98.16,99.04,2051,Access_to_Safely_Managed_Water,Europe & North America
+98.24,98.27,99.11,2052,Access_to_Safely_Managed_Water,Europe & North America
+98.35,98.37,99.17,2053,Access_to_Safely_Managed_Water,Europe & North America
+98.45,98.47,99.23,2054,Access_to_Safely_Managed_Water,Europe & North America
+98.55,98.57,99.29,2055,Access_to_Safely_Managed_Water,Europe & North America
+98.66,98.68,99.35,2056,Access_to_Safely_Managed_Water,Europe & North America
+98.76,98.78,99.4,2057,Access_to_Safely_Managed_Water,Europe & North America
+98.87,98.89,99.46,2058,Access_to_Safely_Managed_Water,Europe & North America
+98.97,99,99.51,2059,Access_to_Safely_Managed_Water,Europe & North America
+99.08,99.1,99.57,2060,Access_to_Safely_Managed_Water,Europe & North America
+97.96,97.96,97.96,2020,Access_to_Safely_Managed_Water,High Income Countries
+98.21,98.21,98.21,2021,Access_to_Safely_Managed_Water,High Income Countries
+98.28,98.28,98.28,2022,Access_to_Safely_Managed_Water,High Income Countries
+98.29,98.29,98.29,2023,Access_to_Safely_Managed_Water,High Income Countries
+98.34,98.34,98.34,2024,Access_to_Safely_Managed_Water,High Income Countries
+98.4,98.4,98.52,2025,Access_to_Safely_Managed_Water,High Income Countries
+98.45,98.45,98.63,2026,Access_to_Safely_Managed_Water,High Income Countries
+98.49,98.49,98.71,2027,Access_to_Safely_Managed_Water,High Income Countries
+98.52,98.52,98.79,2028,Access_to_Safely_Managed_Water,High Income Countries
+98.54,98.54,98.87,2029,Access_to_Safely_Managed_Water,High Income Countries
+98.57,98.57,98.95,2030,Access_to_Safely_Managed_Water,High Income Countries
+98.59,98.59,99.02,2031,Access_to_Safely_Managed_Water,High Income Countries
+98.61,98.62,99.08,2032,Access_to_Safely_Managed_Water,High Income Countries
+98.64,98.65,99.14,2033,Access_to_Safely_Managed_Water,High Income Countries
+98.67,98.67,99.2,2034,Access_to_Safely_Managed_Water,High Income Countries
+98.69,98.7,99.25,2035,Access_to_Safely_Managed_Water,High Income Countries
+98.72,98.72,99.29,2036,Access_to_Safely_Managed_Water,High Income Countries
+98.74,98.75,99.33,2037,Access_to_Safely_Managed_Water,High Income Countries
+98.77,98.77,99.37,2038,Access_to_Safely_Managed_Water,High Income Countries
+98.79,98.8,99.4,2039,Access_to_Safely_Managed_Water,High Income Countries
+98.82,98.82,99.43,2040,Access_to_Safely_Managed_Water,High Income Countries
+98.84,98.85,99.45,2041,Access_to_Safely_Managed_Water,High Income Countries
+98.87,98.87,99.48,2042,Access_to_Safely_Managed_Water,High Income Countries
+98.89,98.91,99.5,2043,Access_to_Safely_Managed_Water,High Income Countries
+98.93,98.94,99.52,2044,Access_to_Safely_Managed_Water,High Income Countries
+98.96,98.97,99.54,2045,Access_to_Safely_Managed_Water,High Income Countries
+98.99,98.99,99.57,2046,Access_to_Safely_Managed_Water,High Income Countries
+99.02,99.02,99.59,2047,Access_to_Safely_Managed_Water,High Income Countries
+99.04,99.05,99.61,2048,Access_to_Safely_Managed_Water,High Income Countries
+99.08,99.08,99.63,2049,Access_to_Safely_Managed_Water,High Income Countries
+99.11,99.12,99.65,2050,Access_to_Safely_Managed_Water,High Income Countries
+99.14,99.15,99.67,2051,Access_to_Safely_Managed_Water,High Income Countries
+99.17,99.18,99.69,2052,Access_to_Safely_Managed_Water,High Income Countries
+99.21,99.22,99.71,2053,Access_to_Safely_Managed_Water,High Income Countries
+99.25,99.26,99.73,2054,Access_to_Safely_Managed_Water,High Income Countries
+99.28,99.29,99.75,2055,Access_to_Safely_Managed_Water,High Income Countries
+99.32,99.33,99.77,2056,Access_to_Safely_Managed_Water,High Income Countries
+99.36,99.38,99.78,2057,Access_to_Safely_Managed_Water,High Income Countries
+99.41,99.42,99.8,2058,Access_to_Safely_Managed_Water,High Income Countries
+99.45,99.47,99.82,2059,Access_to_Safely_Managed_Water,High Income Countries
+99.5,99.51,99.84,2060,Access_to_Safely_Managed_Water,High Income Countries
+70.69,70.69,70.69,2020,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+72.12,72.12,72.12,2021,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+72.7,72.7,72.7,2022,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+73.02,73.02,73.02,2023,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+73.43,73.43,73.43,2024,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+73.93,73.93,74.24,2025,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+74.48,74.48,74.98,2026,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+75.08,75.09,75.77,2027,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+75.62,75.63,76.53,2028,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+76.15,76.16,77.32,2029,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+76.69,76.71,78.13,2030,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+77.23,77.26,78.94,2031,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+77.77,77.82,79.77,2032,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+78.3,78.37,80.6,2033,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+78.83,78.92,81.42,2034,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+79.35,79.46,82.23,2035,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+79.85,79.98,83.02,2036,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+80.35,80.5,83.79,2037,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+80.85,81.01,84.53,2038,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+81.34,81.52,85.21,2039,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+81.84,82.03,85.85,2040,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+82.34,82.55,86.47,2041,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+82.84,83.06,87.07,2042,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+83.34,83.58,87.65,2043,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+83.85,84.1,88.22,2044,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+84.35,84.62,88.77,2045,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+84.85,85.14,89.3,2046,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+85.35,85.66,89.82,2047,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+85.86,86.17,90.33,2048,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+86.37,86.69,90.83,2049,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+86.88,87.21,91.32,2050,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+87.4,87.73,91.79,2051,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+87.91,88.24,92.26,2052,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+88.42,88.76,92.72,2053,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+88.95,89.27,93.16,2054,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+89.48,89.79,93.61,2055,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+90.01,90.29,94.03,2056,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+90.54,90.81,94.46,2057,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+91.06,91.3,94.86,2058,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+91.57,91.81,95.27,2059,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+92.09,92.3,95.66,2060,Access_to_Safely_Managed_Water,Latin America & the Caribbean
+23.77,23.77,23.77,2020,Access_to_Safely_Managed_Water,Low Income Countries
+24.04,24.04,24.04,2021,Access_to_Safely_Managed_Water,Low Income Countries
+24.11,24.11,24.11,2022,Access_to_Safely_Managed_Water,Low Income Countries
+24.45,24.45,24.45,2023,Access_to_Safely_Managed_Water,Low Income Countries
+24.66,24.66,24.66,2024,Access_to_Safely_Managed_Water,Low Income Countries
+24.89,24.87,25.04,2025,Access_to_Safely_Managed_Water,Low Income Countries
+25.28,25.25,25.61,2026,Access_to_Safely_Managed_Water,Low Income Countries
+25.78,25.75,26.3,2027,Access_to_Safely_Managed_Water,Low Income Countries
+26.33,26.3,27.02,2028,Access_to_Safely_Managed_Water,Low Income Countries
+26.96,26.93,27.84,2029,Access_to_Safely_Managed_Water,Low Income Countries
+27.59,27.55,28.67,2030,Access_to_Safely_Managed_Water,Low Income Countries
+28.25,28.21,29.55,2031,Access_to_Safely_Managed_Water,Low Income Countries
+28.96,28.94,30.51,2032,Access_to_Safely_Managed_Water,Low Income Countries
+29.61,29.61,31.5,2033,Access_to_Safely_Managed_Water,Low Income Countries
+30.23,30.25,32.53,2034,Access_to_Safely_Managed_Water,Low Income Countries
+30.85,30.9,33.59,2035,Access_to_Safely_Managed_Water,Low Income Countries
+31.48,31.54,34.68,2036,Access_to_Safely_Managed_Water,Low Income Countries
+32.13,32.2,35.79,2037,Access_to_Safely_Managed_Water,Low Income Countries
+32.8,32.88,36.91,2038,Access_to_Safely_Managed_Water,Low Income Countries
+33.5,33.59,37.95,2039,Access_to_Safely_Managed_Water,Low Income Countries
+34.22,34.34,38.99,2040,Access_to_Safely_Managed_Water,Low Income Countries
+34.97,35.12,40.05,2041,Access_to_Safely_Managed_Water,Low Income Countries
+35.75,35.95,41.15,2042,Access_to_Safely_Managed_Water,Low Income Countries
+36.57,36.83,42.29,2043,Access_to_Safely_Managed_Water,Low Income Countries
+37.44,37.76,43.45,2044,Access_to_Safely_Managed_Water,Low Income Countries
+38.35,38.72,44.63,2045,Access_to_Safely_Managed_Water,Low Income Countries
+39.28,39.7,45.81,2046,Access_to_Safely_Managed_Water,Low Income Countries
+40.24,40.71,46.99,2047,Access_to_Safely_Managed_Water,Low Income Countries
+41.23,41.73,48.19,2048,Access_to_Safely_Managed_Water,Low Income Countries
+42.24,42.78,49.37,2049,Access_to_Safely_Managed_Water,Low Income Countries
+43.27,43.85,50.58,2050,Access_to_Safely_Managed_Water,Low Income Countries
+44.31,44.92,51.79,2051,Access_to_Safely_Managed_Water,Low Income Countries
+45.38,46.01,53.01,2052,Access_to_Safely_Managed_Water,Low Income Countries
+46.47,47.12,54.24,2053,Access_to_Safely_Managed_Water,Low Income Countries
+47.57,48.24,55.48,2054,Access_to_Safely_Managed_Water,Low Income Countries
+48.7,49.39,56.74,2055,Access_to_Safely_Managed_Water,Low Income Countries
+49.84,50.53,58.05,2056,Access_to_Safely_Managed_Water,Low Income Countries
+51,51.7,59.37,2057,Access_to_Safely_Managed_Water,Low Income Countries
+52.17,52.86,60.7,2058,Access_to_Safely_Managed_Water,Low Income Countries
+53.35,54.06,62.05,2059,Access_to_Safely_Managed_Water,Low Income Countries
+54.54,55.26,63.42,2060,Access_to_Safely_Managed_Water,Low Income Countries
+57.01,57.01,57.01,2020,Access_to_Safely_Managed_Water,Low Middle Income Countries
+57.87,57.87,57.87,2021,Access_to_Safely_Managed_Water,Low Middle Income Countries
+58.75,58.75,58.75,2022,Access_to_Safely_Managed_Water,Low Middle Income Countries
+59.49,59.49,59.49,2023,Access_to_Safely_Managed_Water,Low Middle Income Countries
+60.15,60.15,60.15,2024,Access_to_Safely_Managed_Water,Low Middle Income Countries
+60.83,60.83,61.2,2025,Access_to_Safely_Managed_Water,Low Middle Income Countries
+61.56,61.55,62.24,2026,Access_to_Safely_Managed_Water,Low Middle Income Countries
+62.2,62.18,63.1,2027,Access_to_Safely_Managed_Water,Low Middle Income Countries
+62.86,62.83,64.02,2028,Access_to_Safely_Managed_Water,Low Middle Income Countries
+63.53,63.49,64.93,2029,Access_to_Safely_Managed_Water,Low Middle Income Countries
+64.22,64.18,65.9,2030,Access_to_Safely_Managed_Water,Low Middle Income Countries
+64.92,64.88,66.89,2031,Access_to_Safely_Managed_Water,Low Middle Income Countries
+65.6,65.58,67.88,2032,Access_to_Safely_Managed_Water,Low Middle Income Countries
+66.25,66.26,68.83,2033,Access_to_Safely_Managed_Water,Low Middle Income Countries
+66.84,66.88,69.78,2034,Access_to_Safely_Managed_Water,Low Middle Income Countries
+67.42,67.5,70.71,2035,Access_to_Safely_Managed_Water,Low Middle Income Countries
+68,68.1,71.62,2036,Access_to_Safely_Managed_Water,Low Middle Income Countries
+68.59,68.7,72.51,2037,Access_to_Safely_Managed_Water,Low Middle Income Countries
+69.18,69.3,73.39,2038,Access_to_Safely_Managed_Water,Low Middle Income Countries
+69.78,69.9,74.2,2039,Access_to_Safely_Managed_Water,Low Middle Income Countries
+70.38,70.5,74.98,2040,Access_to_Safely_Managed_Water,Low Middle Income Countries
+70.99,71.11,75.76,2041,Access_to_Safely_Managed_Water,Low Middle Income Countries
+71.61,71.74,76.53,2042,Access_to_Safely_Managed_Water,Low Middle Income Countries
+72.22,72.36,77.28,2043,Access_to_Safely_Managed_Water,Low Middle Income Countries
+72.84,72.99,78.02,2044,Access_to_Safely_Managed_Water,Low Middle Income Countries
+73.45,73.62,78.74,2045,Access_to_Safely_Managed_Water,Low Middle Income Countries
+74.06,74.24,79.44,2046,Access_to_Safely_Managed_Water,Low Middle Income Countries
+74.67,74.86,80.14,2047,Access_to_Safely_Managed_Water,Low Middle Income Countries
+75.27,75.48,80.83,2048,Access_to_Safely_Managed_Water,Low Middle Income Countries
+75.87,76.1,81.51,2049,Access_to_Safely_Managed_Water,Low Middle Income Countries
+76.48,76.72,82.2,2050,Access_to_Safely_Managed_Water,Low Middle Income Countries
+77.09,77.33,82.86,2051,Access_to_Safely_Managed_Water,Low Middle Income Countries
+77.7,77.94,83.52,2052,Access_to_Safely_Managed_Water,Low Middle Income Countries
+78.32,78.56,84.18,2053,Access_to_Safely_Managed_Water,Low Middle Income Countries
+78.94,79.18,84.84,2054,Access_to_Safely_Managed_Water,Low Middle Income Countries
+79.58,79.81,85.5,2055,Access_to_Safely_Managed_Water,Low Middle Income Countries
+80.21,80.43,86.17,2056,Access_to_Safely_Managed_Water,Low Middle Income Countries
+80.85,81.06,86.84,2057,Access_to_Safely_Managed_Water,Low Middle Income Countries
+81.5,81.7,87.53,2058,Access_to_Safely_Managed_Water,Low Middle Income Countries
+82.16,82.36,88.2,2059,Access_to_Safely_Managed_Water,Low Middle Income Countries
+82.83,83.04,88.79,2060,Access_to_Safely_Managed_Water,Low Middle Income Countries
+72.11,72.11,72.11,2020,Access_to_Safely_Managed_Water,North Africa & West Asia
+72.37,72.37,72.37,2021,Access_to_Safely_Managed_Water,North Africa & West Asia
+72.4,72.4,72.4,2022,Access_to_Safely_Managed_Water,North Africa & West Asia
+72.13,72.13,72.13,2023,Access_to_Safely_Managed_Water,North Africa & West Asia
+71.95,71.95,71.95,2024,Access_to_Safely_Managed_Water,North Africa & West Asia
+71.96,71.96,72.46,2025,Access_to_Safely_Managed_Water,North Africa & West Asia
+72.17,72.16,72.69,2026,Access_to_Safely_Managed_Water,North Africa & West Asia
+72.5,72.48,73.15,2027,Access_to_Safely_Managed_Water,North Africa & West Asia
+72.79,72.77,73.52,2028,Access_to_Safely_Managed_Water,North Africa & West Asia
+73.12,73.1,73.97,2029,Access_to_Safely_Managed_Water,North Africa & West Asia
+73.4,73.37,74.39,2030,Access_to_Safely_Managed_Water,North Africa & West Asia
+73.71,73.66,74.83,2031,Access_to_Safely_Managed_Water,North Africa & West Asia
+74.1,74.08,75.35,2032,Access_to_Safely_Managed_Water,North Africa & West Asia
+74.43,74.43,75.89,2033,Access_to_Safely_Managed_Water,North Africa & West Asia
+74.75,74.77,76.46,2034,Access_to_Safely_Managed_Water,North Africa & West Asia
+75.06,75.11,77.03,2035,Access_to_Safely_Managed_Water,North Africa & West Asia
+75.36,75.42,77.62,2036,Access_to_Safely_Managed_Water,North Africa & West Asia
+75.65,75.73,78.16,2037,Access_to_Safely_Managed_Water,North Africa & West Asia
+75.95,76.05,78.69,2038,Access_to_Safely_Managed_Water,North Africa & West Asia
+76.26,76.34,79.19,2039,Access_to_Safely_Managed_Water,North Africa & West Asia
+76.59,76.64,79.68,2040,Access_to_Safely_Managed_Water,North Africa & West Asia
+76.94,76.97,80.22,2041,Access_to_Safely_Managed_Water,North Africa & West Asia
+77.29,77.32,80.84,2042,Access_to_Safely_Managed_Water,North Africa & West Asia
+77.64,77.69,81.42,2043,Access_to_Safely_Managed_Water,North Africa & West Asia
+78,78.07,82.02,2044,Access_to_Safely_Managed_Water,North Africa & West Asia
+78.38,78.46,82.51,2045,Access_to_Safely_Managed_Water,North Africa & West Asia
+78.75,78.86,83.01,2046,Access_to_Safely_Managed_Water,North Africa & West Asia
+79.12,79.26,83.49,2047,Access_to_Safely_Managed_Water,North Africa & West Asia
+79.48,79.65,83.97,2048,Access_to_Safely_Managed_Water,North Africa & West Asia
+79.84,80.05,84.46,2049,Access_to_Safely_Managed_Water,North Africa & West Asia
+80.22,80.45,84.93,2050,Access_to_Safely_Managed_Water,North Africa & West Asia
+80.6,80.85,85.39,2051,Access_to_Safely_Managed_Water,North Africa & West Asia
+80.99,81.26,85.84,2052,Access_to_Safely_Managed_Water,North Africa & West Asia
+81.4,81.67,86.28,2053,Access_to_Safely_Managed_Water,North Africa & West Asia
+81.83,82.11,86.72,2054,Access_to_Safely_Managed_Water,North Africa & West Asia
+82.27,82.56,87.15,2055,Access_to_Safely_Managed_Water,North Africa & West Asia
+82.72,83.01,87.58,2056,Access_to_Safely_Managed_Water,North Africa & West Asia
+83.17,83.47,88,2057,Access_to_Safely_Managed_Water,North Africa & West Asia
+83.62,83.93,88.43,2058,Access_to_Safely_Managed_Water,North Africa & West Asia
+84.07,84.4,88.84,2059,Access_to_Safely_Managed_Water,North Africa & West Asia
+84.52,84.88,89.25,2060,Access_to_Safely_Managed_Water,North Africa & West Asia
+77.69,77.69,77.69,2020,Access_to_Safely_Managed_Water,Oceania
+77.6,77.6,77.6,2021,Access_to_Safely_Managed_Water,Oceania
+77.68,77.68,77.68,2022,Access_to_Safely_Managed_Water,Oceania
+77.84,77.84,77.84,2023,Access_to_Safely_Managed_Water,Oceania
+77.98,77.98,77.98,2024,Access_to_Safely_Managed_Water,Oceania
+78.14,78.14,78.29,2025,Access_to_Safely_Managed_Water,Oceania
+78.27,78.27,78.51,2026,Access_to_Safely_Managed_Water,Oceania
+78.39,78.39,78.72,2027,Access_to_Safely_Managed_Water,Oceania
+78.5,78.5,78.97,2028,Access_to_Safely_Managed_Water,Oceania
+78.61,78.6,79.23,2029,Access_to_Safely_Managed_Water,Oceania
+78.75,78.74,79.53,2030,Access_to_Safely_Managed_Water,Oceania
+78.93,78.92,79.88,2031,Access_to_Safely_Managed_Water,Oceania
+79.14,79.13,80.26,2032,Access_to_Safely_Managed_Water,Oceania
+79.34,79.33,80.66,2033,Access_to_Safely_Managed_Water,Oceania
+79.54,79.52,81.08,2034,Access_to_Safely_Managed_Water,Oceania
+79.71,79.7,81.49,2035,Access_to_Safely_Managed_Water,Oceania
+79.87,79.87,81.89,2036,Access_to_Safely_Managed_Water,Oceania
+80.02,80.02,82.27,2037,Access_to_Safely_Managed_Water,Oceania
+80.17,80.18,82.67,2038,Access_to_Safely_Managed_Water,Oceania
+80.34,80.35,83.03,2039,Access_to_Safely_Managed_Water,Oceania
+80.52,80.54,83.38,2040,Access_to_Safely_Managed_Water,Oceania
+80.72,80.75,83.73,2041,Access_to_Safely_Managed_Water,Oceania
+80.94,80.98,84.09,2042,Access_to_Safely_Managed_Water,Oceania
+81.17,81.22,84.47,2043,Access_to_Safely_Managed_Water,Oceania
+81.42,81.47,84.87,2044,Access_to_Safely_Managed_Water,Oceania
+81.67,81.74,85.26,2045,Access_to_Safely_Managed_Water,Oceania
+81.94,82.02,85.65,2046,Access_to_Safely_Managed_Water,Oceania
+82.23,82.32,86.04,2047,Access_to_Safely_Managed_Water,Oceania
+82.54,82.63,86.46,2048,Access_to_Safely_Managed_Water,Oceania
+82.86,82.97,86.89,2049,Access_to_Safely_Managed_Water,Oceania
+83.2,83.31,87.34,2050,Access_to_Safely_Managed_Water,Oceania
+83.56,83.68,87.8,2051,Access_to_Safely_Managed_Water,Oceania
+83.93,84.05,88.28,2052,Access_to_Safely_Managed_Water,Oceania
+84.31,84.44,88.77,2053,Access_to_Safely_Managed_Water,Oceania
+84.71,84.85,89.29,2054,Access_to_Safely_Managed_Water,Oceania
+85.12,85.27,89.81,2055,Access_to_Safely_Managed_Water,Oceania
+85.55,85.69,90.35,2056,Access_to_Safely_Managed_Water,Oceania
+85.99,86.14,90.9,2057,Access_to_Safely_Managed_Water,Oceania
+86.45,86.59,91.46,2058,Access_to_Safely_Managed_Water,Oceania
+86.92,87.07,92.02,2059,Access_to_Safely_Managed_Water,Oceania
+87.4,87.55,92.6,2060,Access_to_Safely_Managed_Water,Oceania
+27,27,27,2020,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+27.55,27.55,27.55,2021,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+27.98,27.98,27.98,2022,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+28.62,28.62,28.62,2023,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+29.14,29.14,29.14,2024,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+29.63,29.61,29.71,2025,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+30.18,30.16,30.49,2026,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+30.79,30.76,31.33,2027,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+31.45,31.42,32.21,2028,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+32.14,32.11,33.1,2029,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+32.85,32.83,34.04,2030,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+33.58,33.57,35.02,2031,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+34.32,34.33,36.06,2032,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+35.05,35.08,37.14,2033,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+35.78,35.84,38.26,2034,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+36.51,36.61,39.4,2035,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+37.25,37.38,40.56,2036,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+38.01,38.15,41.73,2037,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+38.79,38.94,42.9,2038,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+39.57,39.75,43.98,2039,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+40.38,40.57,45.06,2040,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+41.21,41.43,46.15,2041,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+42.07,42.32,47.27,2042,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+42.96,43.26,48.41,2043,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+43.88,44.23,49.57,2044,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+44.82,45.21,50.74,2045,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+45.78,46.22,51.92,2046,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+46.77,47.24,53.1,2047,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+47.77,48.27,54.29,2048,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+48.79,49.33,55.48,2049,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+49.82,50.39,56.69,2050,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+50.86,51.47,57.92,2051,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+51.93,52.56,59.16,2052,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+53.02,53.67,60.42,2053,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+54.13,54.79,61.69,2054,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+55.26,55.93,62.99,2055,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+56.42,57.08,64.33,2056,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+57.61,58.27,65.68,2057,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+58.82,59.47,67.06,2058,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+60.05,60.71,68.47,2059,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+61.31,61.99,69.91,2060,Access_to_Safely_Managed_Water,Sub-Saharan Africa
+78.85,78.85,78.85,2020,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+80.4,80.4,80.4,2021,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+81.21,81.21,81.21,2022,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+82.1,82.1,82.1,2023,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+82.95,82.95,82.95,2024,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+83.66,83.66,83.9,2025,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+84.33,84.33,84.68,2026,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+85.01,85.02,85.52,2027,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+85.58,85.59,86.33,2028,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+86.12,86.13,87.12,2029,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+86.63,86.65,87.88,2030,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+87.12,87.15,88.6,2031,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+87.58,87.62,89.29,2032,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+88,88.06,89.91,2033,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+88.39,88.47,90.49,2034,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+88.76,88.84,91.02,2035,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+89.12,89.21,91.53,2036,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+89.46,89.56,92,2037,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+89.79,89.89,92.44,2038,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+90.1,90.21,92.84,2039,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+90.42,90.53,93.21,2040,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+90.74,90.85,93.56,2041,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+91.06,91.18,93.89,2042,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+91.37,91.49,94.21,2043,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+91.68,91.81,94.52,2044,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+91.98,92.11,94.81,2045,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+92.27,92.41,95.08,2046,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+92.56,92.7,95.35,2047,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+92.84,92.99,95.61,2048,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+93.11,93.28,95.86,2049,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+93.38,93.56,96.1,2050,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+93.66,93.84,96.34,2051,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+93.92,94.11,96.57,2052,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+94.19,94.38,96.79,2053,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+94.46,94.65,97.01,2054,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+94.74,94.92,97.22,2055,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+95.01,95.18,97.43,2056,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+95.28,95.45,97.63,2057,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+95.55,95.71,97.83,2058,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+95.81,95.97,98.02,2059,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+96.08,96.23,98.2,2060,Access_to_Safely_Managed_Water,Upper Middle Income Countries
+68.6,68.6,68.6,2020,Access_to_Safely_Managed_Water,World
+69.43,69.43,69.43,2021,Access_to_Safely_Managed_Water,World
+69.93,69.93,69.93,2022,Access_to_Safely_Managed_Water,World
+70.41,70.41,70.41,2023,Access_to_Safely_Managed_Water,World
+70.85,70.85,70.85,2024,Access_to_Safely_Managed_Water,World
+71.24,71.23,71.5,2025,Access_to_Safely_Managed_Water,World
+71.64,71.63,72.09,2026,Access_to_Safely_Managed_Water,World
+72.03,72.02,72.65,2027,Access_to_Safely_Managed_Water,World
+72.39,72.38,73.23,2028,Access_to_Safely_Managed_Water,World
+72.76,72.74,73.81,2029,Access_to_Safely_Managed_Water,World
+73.12,73.11,74.4,2030,Access_to_Safely_Managed_Water,World
+73.49,73.48,75,2031,Access_to_Safely_Managed_Water,World
+73.84,73.85,75.6,2032,Access_to_Safely_Managed_Water,World
+74.18,74.2,76.17,2033,Access_to_Safely_Managed_Water,World
+74.47,74.51,76.72,2034,Access_to_Safely_Managed_Water,World
+74.75,74.82,77.26,2035,Access_to_Safely_Managed_Water,World
+75.03,75.11,77.79,2036,Access_to_Safely_Managed_Water,World
+75.32,75.41,78.32,2037,Access_to_Safely_Managed_Water,World
+75.61,75.7,78.83,2038,Access_to_Safely_Managed_Water,World
+75.9,76,79.29,2039,Access_to_Safely_Managed_Water,World
+76.2,76.3,79.74,2040,Access_to_Safely_Managed_Water,World
+76.51,76.62,80.18,2041,Access_to_Safely_Managed_Water,World
+76.83,76.95,80.63,2042,Access_to_Safely_Managed_Water,World
+77.16,77.29,81.08,2043,Access_to_Safely_Managed_Water,World
+77.5,77.65,81.52,2044,Access_to_Safely_Managed_Water,World
+77.84,78,81.96,2045,Access_to_Safely_Managed_Water,World
+78.18,78.36,82.4,2046,Access_to_Safely_Managed_Water,World
+78.54,78.73,82.83,2047,Access_to_Safely_Managed_Water,World
+78.89,79.1,83.27,2048,Access_to_Safely_Managed_Water,World
+79.25,79.48,83.7,2049,Access_to_Safely_Managed_Water,World
+79.62,79.86,84.14,2050,Access_to_Safely_Managed_Water,World
+80,80.25,84.58,2051,Access_to_Safely_Managed_Water,World
+80.38,80.64,85.02,2052,Access_to_Safely_Managed_Water,World
+80.78,81.04,85.47,2053,Access_to_Safely_Managed_Water,World
+81.19,81.45,85.92,2054,Access_to_Safely_Managed_Water,World
+81.61,81.87,86.37,2055,Access_to_Safely_Managed_Water,World
+82.04,82.29,86.85,2056,Access_to_Safely_Managed_Water,World
+82.47,82.73,87.33,2057,Access_to_Safely_Managed_Water,World
+82.92,83.17,87.82,2058,Access_to_Safely_Managed_Water,World
+83.38,83.64,88.31,2059,Access_to_Safely_Managed_Water,World
+83.86,84.12,88.77,2060,Access_to_Safely_Managed_Water,World

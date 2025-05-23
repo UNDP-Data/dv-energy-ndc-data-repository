@@ -1,0 +1,493 @@
+BaseCase,RA,RASDG,Year,indicator,Country/Region
+259.8,259.8,259.8,2020,Poverty_Headcount,Central & Southern Asia
+231.7,231.7,231.7,2021,Poverty_Headcount,Central & Southern Asia
+203.5,203.5,203.5,2022,Poverty_Headcount,Central & Southern Asia
+186.3,186.3,186.3,2023,Poverty_Headcount,Central & Southern Asia
+175.9,175.9,175.9,2024,Poverty_Headcount,Central & Southern Asia
+167.8,167.8,159.5,2025,Poverty_Headcount,Central & Southern Asia
+159.1,159.2,144.4,2026,Poverty_Headcount,Central & Southern Asia
+151,151,131.7,2027,Poverty_Headcount,Central & Southern Asia
+143.3,143.4,120.8,2028,Poverty_Headcount,Central & Southern Asia
+134.5,134.1,109,2029,Poverty_Headcount,Central & Southern Asia
+124.8,124,96.86,2030,Poverty_Headcount,Central & Southern Asia
+115.8,114.3,85.79,2031,Poverty_Headcount,Central & Southern Asia
+108.7,106.7,76.57,2032,Poverty_Headcount,Central & Southern Asia
+103,100.6,68.92,2033,Poverty_Headcount,Central & Southern Asia
+98.53,95.93,62.91,2034,Poverty_Headcount,Central & Southern Asia
+94.6,92.01,57.99,2035,Poverty_Headcount,Central & Southern Asia
+91.01,88.61,53.88,2036,Poverty_Headcount,Central & Southern Asia
+87.6,85.48,50.36,2037,Poverty_Headcount,Central & Southern Asia
+84.31,82.5,48.54,2038,Poverty_Headcount,Central & Southern Asia
+81.18,79.64,46.94,2039,Poverty_Headcount,Central & Southern Asia
+78.16,76.91,45.28,2040,Poverty_Headcount,Central & Southern Asia
+75.32,74.32,43.56,2041,Poverty_Headcount,Central & Southern Asia
+72.78,71.95,41.75,2042,Poverty_Headcount,Central & Southern Asia
+70.61,69.74,39.94,2043,Poverty_Headcount,Central & Southern Asia
+68.61,67.71,38.06,2044,Poverty_Headcount,Central & Southern Asia
+66.59,65.73,36.15,2045,Poverty_Headcount,Central & Southern Asia
+64.48,63.72,34.23,2046,Poverty_Headcount,Central & Southern Asia
+62.24,61.59,32.34,2047,Poverty_Headcount,Central & Southern Asia
+59.91,59.32,30.55,2048,Poverty_Headcount,Central & Southern Asia
+57.52,56.93,28.68,2049,Poverty_Headcount,Central & Southern Asia
+55.07,54.55,26.77,2050,Poverty_Headcount,Central & Southern Asia
+52.59,52.12,24.84,2051,Poverty_Headcount,Central & Southern Asia
+50.1,49.7,22.89,2052,Poverty_Headcount,Central & Southern Asia
+47.62,47.34,21.06,2053,Poverty_Headcount,Central & Southern Asia
+45.22,45.09,19.4,2054,Poverty_Headcount,Central & Southern Asia
+43.03,43.05,17.92,2055,Poverty_Headcount,Central & Southern Asia
+41.06,41.21,16.61,2056,Poverty_Headcount,Central & Southern Asia
+39.34,39.59,15.43,2057,Poverty_Headcount,Central & Southern Asia
+37.84,38.13,14.38,2058,Poverty_Headcount,Central & Southern Asia
+36.57,36.82,13.45,2059,Poverty_Headcount,Central & Southern Asia
+35.48,35.65,12.61,2060,Poverty_Headcount,Central & Southern Asia
+31.36,31.36,31.36,2020,Poverty_Headcount,East & Southeast Asia
+30.91,30.91,30.91,2021,Poverty_Headcount,East & Southeast Asia
+27.3,27.3,27.3,2022,Poverty_Headcount,East & Southeast Asia
+25.57,25.57,25.57,2023,Poverty_Headcount,East & Southeast Asia
+23.91,23.91,23.91,2024,Poverty_Headcount,East & Southeast Asia
+22.63,22.63,21.79,2025,Poverty_Headcount,East & Southeast Asia
+21.77,21.78,20.32,2026,Poverty_Headcount,East & Southeast Asia
+21.21,21.22,19.29,2027,Poverty_Headcount,East & Southeast Asia
+20.75,20.75,18.42,2028,Poverty_Headcount,East & Southeast Asia
+19.97,19.94,17.34,2029,Poverty_Headcount,East & Southeast Asia
+18.92,18.86,16.02,2030,Poverty_Headcount,East & Southeast Asia
+17.83,17.73,14.65,2031,Poverty_Headcount,East & Southeast Asia
+16.92,16.76,13.43,2032,Poverty_Headcount,East & Southeast Asia
+16.18,16,12.42,2033,Poverty_Headcount,East & Southeast Asia
+15.62,15.45,11.63,2034,Poverty_Headcount,East & Southeast Asia
+15.16,15.05,10.98,2035,Poverty_Headcount,East & Southeast Asia
+14.69,14.71,10.42,2036,Poverty_Headcount,East & Southeast Asia
+14.19,14.34,9.873,2037,Poverty_Headcount,East & Southeast Asia
+13.64,13.89,9.398,2038,Poverty_Headcount,East & Southeast Asia
+13.01,13.3,8.856,2039,Poverty_Headcount,East & Southeast Asia
+12.34,12.62,8.286,2040,Poverty_Headcount,East & Southeast Asia
+11.64,11.87,7.708,2041,Poverty_Headcount,East & Southeast Asia
+10.92,11.1,7.113,2042,Poverty_Headcount,East & Southeast Asia
+10.21,10.32,6.509,2043,Poverty_Headcount,East & Southeast Asia
+9.493,9.542,5.896,2044,Poverty_Headcount,East & Southeast Asia
+8.781,8.762,5.187,2045,Poverty_Headcount,East & Southeast Asia
+8.072,7.985,4.497,2046,Poverty_Headcount,East & Southeast Asia
+7.382,7.233,3.882,2047,Poverty_Headcount,East & Southeast Asia
+6.648,6.426,3.342,2048,Poverty_Headcount,East & Southeast Asia
+5.954,5.683,2.863,2049,Poverty_Headcount,East & Southeast Asia
+5.356,5.038,2.447,2050,Poverty_Headcount,East & Southeast Asia
+4.809,4.483,2.073,2051,Poverty_Headcount,East & Southeast Asia
+4.313,3.99,1.735,2052,Poverty_Headcount,East & Southeast Asia
+3.85,3.554,1.435,2053,Poverty_Headcount,East & Southeast Asia
+3.433,3.157,1.17,2054,Poverty_Headcount,East & Southeast Asia
+3.061,2.808,0.945,2055,Poverty_Headcount,East & Southeast Asia
+2.732,2.493,0.756,2056,Poverty_Headcount,East & Southeast Asia
+2.447,2.225,0.602,2057,Poverty_Headcount,East & Southeast Asia
+2.201,1.989,0.476,2058,Poverty_Headcount,East & Southeast Asia
+1.987,1.789,0.375,2059,Poverty_Headcount,East & Southeast Asia
+1.801,1.61,0.294,2060,Poverty_Headcount,East & Southeast Asia
+3.138,3.138,3.138,2020,Poverty_Headcount,Europe & North America
+2.803,2.803,2.803,2021,Poverty_Headcount,Europe & North America
+2.52,2.52,2.52,2022,Poverty_Headcount,Europe & North America
+2.812,2.812,2.812,2023,Poverty_Headcount,Europe & North America
+2.776,2.776,2.776,2024,Poverty_Headcount,Europe & North America
+2.585,2.585,2.258,2025,Poverty_Headcount,Europe & North America
+2.398,2.395,1.832,2026,Poverty_Headcount,Europe & North America
+2.209,2.209,1.511,2027,Poverty_Headcount,Europe & North America
+2.106,2.108,1.301,2028,Poverty_Headcount,Europe & North America
+1.952,1.954,1.087,2029,Poverty_Headcount,Europe & North America
+1.774,1.775,0.886,2030,Poverty_Headcount,Europe & North America
+1.6,1.603,0.708,2031,Poverty_Headcount,Europe & North America
+1.468,1.471,0.562,2032,Poverty_Headcount,Europe & North America
+1.349,1.353,0.442,2033,Poverty_Headcount,Europe & North America
+1.248,1.253,0.35,2034,Poverty_Headcount,Europe & North America
+1.163,1.17,0.277,2035,Poverty_Headcount,Europe & North America
+1.087,1.093,0.22,2036,Poverty_Headcount,Europe & North America
+1.015,1.02,0.174,2037,Poverty_Headcount,Europe & North America
+0.943,0.946,0.155,2038,Poverty_Headcount,Europe & North America
+0.871,0.872,0.137,2039,Poverty_Headcount,Europe & North America
+0.8,0.799,0.12,2040,Poverty_Headcount,Europe & North America
+0.734,0.73,0.105,2041,Poverty_Headcount,Europe & North America
+0.674,0.667,0.09,2042,Poverty_Headcount,Europe & North America
+0.619,0.609,0.076,2043,Poverty_Headcount,Europe & North America
+0.57,0.558,0.065,2044,Poverty_Headcount,Europe & North America
+0.527,0.513,0.056,2045,Poverty_Headcount,Europe & North America
+0.489,0.473,0.048,2046,Poverty_Headcount,Europe & North America
+0.454,0.439,0.043,2047,Poverty_Headcount,Europe & North America
+0.423,0.407,0.038,2048,Poverty_Headcount,Europe & North America
+0.393,0.38,0.034,2049,Poverty_Headcount,Europe & North America
+0.366,0.354,0.03,2050,Poverty_Headcount,Europe & North America
+0.34,0.33,0.027,2051,Poverty_Headcount,Europe & North America
+0.315,0.306,0.024,2052,Poverty_Headcount,Europe & North America
+0.291,0.282,0.021,2053,Poverty_Headcount,Europe & North America
+0.268,0.26,0.018,2054,Poverty_Headcount,Europe & North America
+0.246,0.239,0.016,2055,Poverty_Headcount,Europe & North America
+0.227,0.22,0.013,2056,Poverty_Headcount,Europe & North America
+0.209,0.203,0.012,2057,Poverty_Headcount,Europe & North America
+0.19,0.187,0.01,2058,Poverty_Headcount,Europe & North America
+0.174,0.173,0.009,2059,Poverty_Headcount,Europe & North America
+0.16,0.16,0.007,2060,Poverty_Headcount,Europe & North America
+4.393,4.393,4.393,2020,Poverty_Headcount,High Income Countries
+3.778,3.778,3.778,2021,Poverty_Headcount,High Income Countries
+3.27,3.27,3.27,2022,Poverty_Headcount,High Income Countries
+3.188,3.188,3.188,2023,Poverty_Headcount,High Income Countries
+3.208,3.208,3.208,2024,Poverty_Headcount,High Income Countries
+3.149,3.149,2.789,2025,Poverty_Headcount,High Income Countries
+3.002,2.999,2.364,2026,Poverty_Headcount,High Income Countries
+2.774,2.775,1.981,2027,Poverty_Headcount,High Income Countries
+2.606,2.612,1.693,2028,Poverty_Headcount,High Income Countries
+2.367,2.376,1.394,2029,Poverty_Headcount,High Income Countries
+2.11,2.121,1.118,2030,Poverty_Headcount,High Income Countries
+1.879,1.892,0.888,2031,Poverty_Headcount,High Income Countries
+1.714,1.728,0.708,2032,Poverty_Headcount,High Income Countries
+1.58,1.594,0.566,2033,Poverty_Headcount,High Income Countries
+1.47,1.485,0.454,2034,Poverty_Headcount,High Income Countries
+1.377,1.391,0.365,2035,Poverty_Headcount,High Income Countries
+1.292,1.303,0.294,2036,Poverty_Headcount,High Income Countries
+1.207,1.215,0.234,2037,Poverty_Headcount,High Income Countries
+1.12,1.124,0.207,2038,Poverty_Headcount,High Income Countries
+1.029,1.03,0.182,2039,Poverty_Headcount,High Income Countries
+0.939,0.937,0.157,2040,Poverty_Headcount,High Income Countries
+0.856,0.85,0.135,2041,Poverty_Headcount,High Income Countries
+0.78,0.771,0.114,2042,Poverty_Headcount,High Income Countries
+0.713,0.699,0.096,2043,Poverty_Headcount,High Income Countries
+0.653,0.636,0.081,2044,Poverty_Headcount,High Income Countries
+0.6,0.58,0.069,2045,Poverty_Headcount,High Income Countries
+0.553,0.531,0.059,2046,Poverty_Headcount,High Income Countries
+0.511,0.487,0.05,2047,Poverty_Headcount,High Income Countries
+0.471,0.447,0.044,2048,Poverty_Headcount,High Income Countries
+0.433,0.412,0.038,2049,Poverty_Headcount,High Income Countries
+0.398,0.377,0.033,2050,Poverty_Headcount,High Income Countries
+0.366,0.348,0.028,2051,Poverty_Headcount,High Income Countries
+0.336,0.319,0.024,2052,Poverty_Headcount,High Income Countries
+0.307,0.293,0.021,2053,Poverty_Headcount,High Income Countries
+0.279,0.267,0.018,2054,Poverty_Headcount,High Income Countries
+0.254,0.244,0.015,2055,Poverty_Headcount,High Income Countries
+0.232,0.223,0.013,2056,Poverty_Headcount,High Income Countries
+0.211,0.205,0.011,2057,Poverty_Headcount,High Income Countries
+0.191,0.187,0.009,2058,Poverty_Headcount,High Income Countries
+0.174,0.173,0.008,2059,Poverty_Headcount,High Income Countries
+0.159,0.16,0.007,2060,Poverty_Headcount,High Income Countries
+27.53,27.53,27.53,2020,Poverty_Headcount,Latin America & the Caribbean
+25.72,25.72,25.72,2021,Poverty_Headcount,Latin America & the Caribbean
+23.91,23.91,23.91,2022,Poverty_Headcount,Latin America & the Caribbean
+24.06,24.06,24.06,2023,Poverty_Headcount,Latin America & the Caribbean
+24.56,24.56,24.56,2024,Poverty_Headcount,Latin America & the Caribbean
+24.67,24.67,23.81,2025,Poverty_Headcount,Latin America & the Caribbean
+24.44,24.43,22.86,2026,Poverty_Headcount,Latin America & the Caribbean
+23.79,23.78,21.69,2027,Poverty_Headcount,Latin America & the Caribbean
+23.23,23.2,20.68,2028,Poverty_Headcount,Latin America & the Caribbean
+22.46,22.37,19.52,2029,Poverty_Headcount,Latin America & the Caribbean
+21.6,21.43,18.3,2030,Poverty_Headcount,Latin America & the Caribbean
+20.79,20.5,17.09,2031,Poverty_Headcount,Latin America & the Caribbean
+20.17,19.77,15.99,2032,Poverty_Headcount,Latin America & the Caribbean
+19.7,19.19,15.05,2033,Poverty_Headcount,Latin America & the Caribbean
+19.41,18.82,14.32,2034,Poverty_Headcount,Latin America & the Caribbean
+19.31,18.65,13.75,2035,Poverty_Headcount,Latin America & the Caribbean
+19.35,18.61,13.32,2036,Poverty_Headcount,Latin America & the Caribbean
+19.45,18.62,12.97,2037,Poverty_Headcount,Latin America & the Caribbean
+19.51,18.6,12.89,2038,Poverty_Headcount,Latin America & the Caribbean
+19.47,18.5,12.81,2039,Poverty_Headcount,Latin America & the Caribbean
+19.3,18.31,12.7,2040,Poverty_Headcount,Latin America & the Caribbean
+19.01,17.99,12.47,2041,Poverty_Headcount,Latin America & the Caribbean
+18.67,17.61,12.13,2042,Poverty_Headcount,Latin America & the Caribbean
+18.33,17.21,11.74,2043,Poverty_Headcount,Latin America & the Caribbean
+18.06,16.88,11.35,2044,Poverty_Headcount,Latin America & the Caribbean
+17.89,16.62,11,2045,Poverty_Headcount,Latin America & the Caribbean
+17.67,16.39,10.67,2046,Poverty_Headcount,Latin America & the Caribbean
+17.28,16.15,10.33,2047,Poverty_Headcount,Latin America & the Caribbean
+16.89,15.77,9.922,2048,Poverty_Headcount,Latin America & the Caribbean
+16.47,15.21,9.406,2049,Poverty_Headcount,Latin America & the Caribbean
+16.02,14.51,8.816,2050,Poverty_Headcount,Latin America & the Caribbean
+15.54,13.7,8.164,2051,Poverty_Headcount,Latin America & the Caribbean
+15.05,12.83,7.498,2052,Poverty_Headcount,Latin America & the Caribbean
+14.2,11.96,6.854,2053,Poverty_Headcount,Latin America & the Caribbean
+13.14,11.13,6.266,2054,Poverty_Headcount,Latin America & the Caribbean
+12.09,10.37,5.741,2055,Poverty_Headcount,Latin America & the Caribbean
+11.17,9.679,5.265,2056,Poverty_Headcount,Latin America & the Caribbean
+10.38,9.071,4.835,2057,Poverty_Headcount,Latin America & the Caribbean
+9.722,8.521,4.449,2058,Poverty_Headcount,Latin America & the Caribbean
+9.132,8.015,4.091,2059,Poverty_Headcount,Latin America & the Caribbean
+8.585,7.544,3.765,2060,Poverty_Headcount,Latin America & the Caribbean
+283.8,283.8,283.8,2020,Poverty_Headcount,Low Income Countries
+298.6,298.6,298.6,2021,Poverty_Headcount,Low Income Countries
+301.6,301.6,301.6,2022,Poverty_Headcount,Low Income Countries
+314.9,314.9,314.9,2023,Poverty_Headcount,Low Income Countries
+326.5,326.5,326.5,2024,Poverty_Headcount,Low Income Countries
+335.7,335.7,332.8,2025,Poverty_Headcount,Low Income Countries
+342.8,342.8,337.8,2026,Poverty_Headcount,Low Income Countries
+348.1,348.1,340.6,2027,Poverty_Headcount,Low Income Countries
+350,350.2,340.7,2028,Poverty_Headcount,Low Income Countries
+352.3,352.4,341.3,2029,Poverty_Headcount,Low Income Countries
+354.2,354.1,340.8,2030,Poverty_Headcount,Low Income Countries
+355.4,354.8,338.6,2031,Poverty_Headcount,Low Income Countries
+357,355.9,335.7,2032,Poverty_Headcount,Low Income Countries
+359.4,357.3,331.9,2033,Poverty_Headcount,Low Income Countries
+361.5,358.7,327.5,2034,Poverty_Headcount,Low Income Countries
+363.2,359.9,322.2,2035,Poverty_Headcount,Low Income Countries
+364.3,361.1,316.3,2036,Poverty_Headcount,Low Income Countries
+365,361.8,310.2,2037,Poverty_Headcount,Low Income Countries
+365.6,361.8,305.8,2038,Poverty_Headcount,Low Income Countries
+365.5,361,300.6,2039,Poverty_Headcount,Low Income Countries
+364.9,359.3,294.3,2040,Poverty_Headcount,Low Income Countries
+363.3,356.4,286.6,2041,Poverty_Headcount,Low Income Countries
+360.7,351.5,277.4,2042,Poverty_Headcount,Low Income Countries
+356.2,345.4,267.2,2043,Poverty_Headcount,Low Income Countries
+350.8,338.5,256.3,2044,Poverty_Headcount,Low Income Countries
+344.6,331.2,245.4,2045,Poverty_Headcount,Low Income Countries
+337.7,323,234.7,2046,Poverty_Headcount,Low Income Countries
+330.3,315,224.5,2047,Poverty_Headcount,Low Income Countries
+322.4,306.2,215.1,2048,Poverty_Headcount,Low Income Countries
+314.3,297.6,205.1,2049,Poverty_Headcount,Low Income Countries
+306.1,289,195.6,2050,Poverty_Headcount,Low Income Countries
+297.6,280.2,186.1,2051,Poverty_Headcount,Low Income Countries
+289.1,271.5,177.1,2052,Poverty_Headcount,Low Income Countries
+280.7,263,168.7,2053,Poverty_Headcount,Low Income Countries
+272.4,254.4,160.3,2054,Poverty_Headcount,Low Income Countries
+264.1,246,152,2055,Poverty_Headcount,Low Income Countries
+255.9,237.6,144.1,2056,Poverty_Headcount,Low Income Countries
+247.7,229.8,136.6,2057,Poverty_Headcount,Low Income Countries
+239.9,221.8,129.8,2058,Poverty_Headcount,Low Income Countries
+232.6,214.5,123.3,2059,Poverty_Headcount,Low Income Countries
+224.9,206.8,117.2,2060,Poverty_Headcount,Low Income Countries
+433.9,433.9,433.9,2020,Poverty_Headcount,Low Middle Income Countries
+404.3,404.3,404.3,2021,Poverty_Headcount,Low Middle Income Countries
+371.8,371.8,371.8,2022,Poverty_Headcount,Low Middle Income Countries
+356.5,356.5,356.5,2023,Poverty_Headcount,Low Middle Income Countries
+346.9,346.9,346.9,2024,Poverty_Headcount,Low Middle Income Countries
+337.4,337.4,327,2025,Poverty_Headcount,Low Middle Income Countries
+326.7,326.8,308.3,2026,Poverty_Headcount,Low Middle Income Countries
+315.8,315.9,291.6,2027,Poverty_Headcount,Low Middle Income Countries
+306.1,306.1,277.3,2028,Poverty_Headcount,Low Middle Income Countries
+295.2,294.7,262,2029,Poverty_Headcount,Low Middle Income Countries
+283.3,282,245.9,2030,Poverty_Headcount,Low Middle Income Countries
+271.9,269.7,230.3,2031,Poverty_Headcount,Low Middle Income Countries
+262.5,259.1,215.8,2032,Poverty_Headcount,Low Middle Income Countries
+254.2,249.8,202.8,2033,Poverty_Headcount,Low Middle Income Countries
+247.2,242,191.1,2034,Poverty_Headcount,Low Middle Income Countries
+240.9,235.3,180.9,2035,Poverty_Headcount,Low Middle Income Countries
+235,229.4,171.8,2036,Poverty_Headcount,Low Middle Income Countries
+229.4,224,163.5,2037,Poverty_Headcount,Low Middle Income Countries
+223.9,218.8,158.4,2038,Poverty_Headcount,Low Middle Income Countries
+218.5,213.7,153.9,2039,Poverty_Headcount,Low Middle Income Countries
+213.1,208.7,149.4,2040,Poverty_Headcount,Low Middle Income Countries
+207.9,203.9,144.9,2041,Poverty_Headcount,Low Middle Income Countries
+203,199.2,140.3,2042,Poverty_Headcount,Low Middle Income Countries
+198.6,194.7,135.7,2043,Poverty_Headcount,Low Middle Income Countries
+194.7,190.8,131.1,2044,Poverty_Headcount,Low Middle Income Countries
+191.1,187.2,126.9,2045,Poverty_Headcount,Low Middle Income Countries
+187.8,184,122.9,2046,Poverty_Headcount,Low Middle Income Countries
+184.8,181.2,119.2,2047,Poverty_Headcount,Low Middle Income Countries
+182,178.5,115.6,2048,Poverty_Headcount,Low Middle Income Countries
+179.5,175.9,112.1,2049,Poverty_Headcount,Low Middle Income Countries
+177.1,173.5,108.5,2050,Poverty_Headcount,Low Middle Income Countries
+174.6,171.3,104.8,2051,Poverty_Headcount,Low Middle Income Countries
+172,169.3,101.3,2052,Poverty_Headcount,Low Middle Income Countries
+169.2,167.5,97.95,2053,Poverty_Headcount,Low Middle Income Countries
+166.3,165.6,94.4,2054,Poverty_Headcount,Low Middle Income Countries
+163.3,163.6,90.78,2055,Poverty_Headcount,Low Middle Income Countries
+160.2,161.4,86.85,2056,Poverty_Headcount,Low Middle Income Countries
+156.9,158.4,82.75,2057,Poverty_Headcount,Low Middle Income Countries
+153.4,153.8,77.64,2058,Poverty_Headcount,Low Middle Income Countries
+148.3,146.7,71.57,2059,Poverty_Headcount,Low Middle Income Countries
+141.4,138.3,64.8,2060,Poverty_Headcount,Low Middle Income Countries
+48.8,48.8,48.8,2020,Poverty_Headcount,North Africa & West Asia
+53,53,53,2021,Poverty_Headcount,North Africa & West Asia
+54.62,54.62,54.62,2022,Poverty_Headcount,North Africa & West Asia
+62.5,62.5,62.5,2023,Poverty_Headcount,North Africa & West Asia
+67.47,67.47,67.47,2024,Poverty_Headcount,North Africa & West Asia
+69.31,69.31,68.98,2025,Poverty_Headcount,North Africa & West Asia
+69.21,69.21,68.77,2026,Poverty_Headcount,North Africa & West Asia
+69.99,70.03,69.17,2027,Poverty_Headcount,North Africa & West Asia
+69.46,69.52,68.49,2028,Poverty_Headcount,North Africa & West Asia
+70.22,70.33,69.12,2029,Poverty_Headcount,North Africa & West Asia
+71.11,71.19,69.67,2030,Poverty_Headcount,North Africa & West Asia
+71.43,71.39,69.55,2031,Poverty_Headcount,North Africa & West Asia
+71.61,71.4,69.17,2032,Poverty_Headcount,North Africa & West Asia
+71.68,71.31,68.66,2033,Poverty_Headcount,North Africa & West Asia
+71.71,71.2,68.13,2034,Poverty_Headcount,North Africa & West Asia
+71.75,71.04,67.57,2035,Poverty_Headcount,North Africa & West Asia
+71.79,70.97,67.04,2036,Poverty_Headcount,North Africa & West Asia
+71.81,70.94,66.47,2037,Poverty_Headcount,North Africa & West Asia
+71.74,70.89,65.89,2038,Poverty_Headcount,North Africa & West Asia
+71.6,70.77,65.34,2039,Poverty_Headcount,North Africa & West Asia
+71.45,70.67,64.76,2040,Poverty_Headcount,North Africa & West Asia
+71.14,70.42,64.13,2041,Poverty_Headcount,North Africa & West Asia
+70.74,70.07,63.34,2042,Poverty_Headcount,North Africa & West Asia
+70.19,69.55,62.39,2043,Poverty_Headcount,North Africa & West Asia
+69.48,68.91,61.47,2044,Poverty_Headcount,North Africa & West Asia
+68.68,68.24,60.59,2045,Poverty_Headcount,North Africa & West Asia
+68,67.5,59.81,2046,Poverty_Headcount,North Africa & West Asia
+67.35,66.84,59.06,2047,Poverty_Headcount,North Africa & West Asia
+66.6,66.17,58.21,2048,Poverty_Headcount,North Africa & West Asia
+65.72,65.44,57.33,2049,Poverty_Headcount,North Africa & West Asia
+64.7,64.6,56.48,2050,Poverty_Headcount,North Africa & West Asia
+63.77,63.78,55.69,2051,Poverty_Headcount,North Africa & West Asia
+62.8,63.02,54.85,2052,Poverty_Headcount,North Africa & West Asia
+61.75,62.14,53.88,2053,Poverty_Headcount,North Africa & West Asia
+60.66,61.17,52.83,2054,Poverty_Headcount,North Africa & West Asia
+59.57,60.15,51.73,2055,Poverty_Headcount,North Africa & West Asia
+58.51,59.14,50.66,2056,Poverty_Headcount,North Africa & West Asia
+57.57,58.17,49.68,2057,Poverty_Headcount,North Africa & West Asia
+56.76,57.22,48.86,2058,Poverty_Headcount,North Africa & West Asia
+56.04,56.29,48.2,2059,Poverty_Headcount,North Africa & West Asia
+55.37,55.34,47.65,2060,Poverty_Headcount,North Africa & West Asia
+3.686,3.686,3.686,2020,Poverty_Headcount,Oceania
+3.871,3.871,3.871,2021,Poverty_Headcount,Oceania
+3.727,3.727,3.727,2022,Poverty_Headcount,Oceania
+3.65,3.65,3.65,2023,Poverty_Headcount,Oceania
+3.522,3.522,3.522,2024,Poverty_Headcount,Oceania
+3.429,3.429,3.388,2025,Poverty_Headcount,Oceania
+3.366,3.366,3.294,2026,Poverty_Headcount,Oceania
+3.294,3.295,3.194,2027,Poverty_Headcount,Oceania
+3.234,3.237,3.113,2028,Poverty_Headcount,Oceania
+3.141,3.146,3.009,2029,Poverty_Headcount,Oceania
+3.012,3.019,2.873,2030,Poverty_Headcount,Oceania
+2.866,2.874,2.72,2031,Poverty_Headcount,Oceania
+2.731,2.741,2.568,2032,Poverty_Headcount,Oceania
+2.618,2.628,2.425,2033,Poverty_Headcount,Oceania
+2.533,2.539,2.3,2034,Poverty_Headcount,Oceania
+2.474,2.474,2.198,2035,Poverty_Headcount,Oceania
+2.431,2.43,2.117,2036,Poverty_Headcount,Oceania
+2.389,2.388,2.044,2037,Poverty_Headcount,Oceania
+2.346,2.344,1.997,2038,Poverty_Headcount,Oceania
+2.294,2.291,1.957,2039,Poverty_Headcount,Oceania
+2.237,2.231,1.908,2040,Poverty_Headcount,Oceania
+2.175,2.165,1.847,2041,Poverty_Headcount,Oceania
+2.111,2.096,1.772,2042,Poverty_Headcount,Oceania
+2.046,2.026,1.688,2043,Poverty_Headcount,Oceania
+1.978,1.956,1.6,2044,Poverty_Headcount,Oceania
+1.908,1.882,1.507,2045,Poverty_Headcount,Oceania
+1.836,1.809,1.416,2046,Poverty_Headcount,Oceania
+1.761,1.731,1.32,2047,Poverty_Headcount,Oceania
+1.682,1.649,1.219,2048,Poverty_Headcount,Oceania
+1.601,1.566,1.115,2049,Poverty_Headcount,Oceania
+1.523,1.487,1.012,2050,Poverty_Headcount,Oceania
+1.444,1.41,0.912,2051,Poverty_Headcount,Oceania
+1.366,1.336,0.813,2052,Poverty_Headcount,Oceania
+1.295,1.266,0.723,2053,Poverty_Headcount,Oceania
+1.23,1.199,0.64,2054,Poverty_Headcount,Oceania
+1.169,1.136,0.567,2055,Poverty_Headcount,Oceania
+1.11,1.076,0.5,2056,Poverty_Headcount,Oceania
+1.055,1.018,0.441,2057,Poverty_Headcount,Oceania
+1.004,0.96,0.388,2058,Poverty_Headcount,Oceania
+0.958,0.903,0.341,2059,Poverty_Headcount,Oceania
+0.914,0.847,0.301,2060,Poverty_Headcount,Oceania
+397.8,397.8,397.8,2020,Poverty_Headcount,Sub-Saharan Africa
+405.4,405.4,405.4,2021,Poverty_Headcount,Sub-Saharan Africa
+403.7,403.7,403.7,2022,Poverty_Headcount,Sub-Saharan Africa
+411.2,411.2,411.2,2023,Poverty_Headcount,Sub-Saharan Africa
+419.2,419.2,419.2,2024,Poverty_Headcount,Sub-Saharan Africa
+425.8,425.8,421.5,2025,Poverty_Headcount,Sub-Saharan Africa
+431.4,431.4,423.4,2026,Poverty_Headcount,Sub-Saharan Africa
+433.2,433.2,422,2027,Poverty_Headcount,Sub-Saharan Africa
+433.7,433.7,419.6,2028,Poverty_Headcount,Sub-Saharan Africa
+433.5,433.3,416.4,2029,Poverty_Headcount,Sub-Saharan Africa
+432.8,432.2,412,2030,Poverty_Headcount,Sub-Saharan Africa
+432,430.6,406.3,2031,Poverty_Headcount,Sub-Saharan Africa
+431.7,429.3,399.1,2032,Poverty_Headcount,Sub-Saharan Africa
+431.8,428,390.8,2033,Poverty_Headcount,Sub-Saharan Africa
+431.6,426.6,381.6,2034,Poverty_Headcount,Sub-Saharan Africa
+431,425.3,371.8,2035,Poverty_Headcount,Sub-Saharan Africa
+429.9,424,361.6,2036,Poverty_Headcount,Sub-Saharan Africa
+428.6,422.5,351.5,2037,Poverty_Headcount,Sub-Saharan Africa
+427.3,420.6,344.6,2038,Poverty_Headcount,Sub-Saharan Africa
+425.5,418,337.4,2039,Poverty_Headcount,Sub-Saharan Africa
+423.2,414.6,329.4,2040,Poverty_Headcount,Sub-Saharan Africa
+420.1,410.2,319.9,2041,Poverty_Headcount,Sub-Saharan Africa
+416.2,404.1,309.1,2042,Poverty_Headcount,Sub-Saharan Africa
+410.6,396.8,297.5,2043,Poverty_Headcount,Sub-Saharan Africa
+404.5,389.2,285.3,2044,Poverty_Headcount,Sub-Saharan Africa
+398.2,381.6,273.5,2045,Poverty_Headcount,Sub-Saharan Africa
+391.3,373.6,262.1,2046,Poverty_Headcount,Sub-Saharan Africa
+384.2,366,251.2,2047,Poverty_Headcount,Sub-Saharan Africa
+377.1,358,241.2,2048,Poverty_Headcount,Sub-Saharan Africa
+370.2,350.5,230.7,2049,Poverty_Headcount,Sub-Saharan Africa
+363.6,343.2,220.7,2050,Poverty_Headcount,Sub-Saharan Africa
+356.4,335.7,210.6,2051,Poverty_Headcount,Sub-Saharan Africa
+349.1,328.6,201.1,2052,Poverty_Headcount,Sub-Saharan Africa
+341.7,321.8,192.3,2053,Poverty_Headcount,Sub-Saharan Africa
+334.3,314.8,183.2,2054,Poverty_Headcount,Sub-Saharan Africa
+326.6,307.8,174,2055,Poverty_Headcount,Sub-Saharan Africa
+318.5,300.3,164.8,2056,Poverty_Headcount,Sub-Saharan Africa
+309.9,292.3,155.4,2057,Poverty_Headcount,Sub-Saharan Africa
+301,282.2,145.4,2058,Poverty_Headcount,Sub-Saharan Africa
+290.8,270.2,134.6,2059,Poverty_Headcount,Sub-Saharan Africa
+278.1,256.5,123.1,2060,Poverty_Headcount,Sub-Saharan Africa
+49.99,49.99,49.99,2020,Poverty_Headcount,Upper Middle Income Countries
+46.77,46.77,46.77,2021,Poverty_Headcount,Upper Middle Income Countries
+42.66,42.66,42.66,2022,Poverty_Headcount,Upper Middle Income Countries
+41.45,41.45,41.45,2023,Poverty_Headcount,Upper Middle Income Countries
+40.81,40.81,40.81,2024,Poverty_Headcount,Upper Middle Income Countries
+40.09,40.09,38.55,2025,Poverty_Headcount,Upper Middle Income Countries
+39.14,39.13,36.38,2026,Poverty_Headcount,Upper Middle Income Countries
+37.97,37.95,34.38,2027,Poverty_Headcount,Upper Middle Income Countries
+37.03,36.97,32.71,2028,Poverty_Headcount,Upper Middle Income Countries
+35.81,35.65,30.82,2029,Poverty_Headcount,Upper Middle Income Countries
+34.46,34.17,28.85,2030,Poverty_Headcount,Upper Middle Income Countries
+33.13,32.69,26.91,2031,Poverty_Headcount,Upper Middle Income Countries
+32.08,31.45,25.1,2032,Poverty_Headcount,Upper Middle Income Countries
+31.18,30.4,23.5,2033,Poverty_Headcount,Upper Middle Income Countries
+30.49,29.59,22.17,2034,Poverty_Headcount,Upper Middle Income Countries
+30.01,29.01,21.07,2035,Poverty_Headcount,Upper Middle Income Countries
+29.66,28.62,20.16,2036,Poverty_Headcount,Upper Middle Income Countries
+29.44,28.31,19.38,2037,Poverty_Headcount,Upper Middle Income Countries
+29.23,28,19.08,2038,Poverty_Headcount,Upper Middle Income Countries
+28.96,27.66,18.82,2039,Poverty_Headcount,Upper Middle Income Countries
+28.6,27.23,18.51,2040,Poverty_Headcount,Upper Middle Income Countries
+28.13,26.68,18.06,2041,Poverty_Headcount,Upper Middle Income Countries
+27.6,26.06,17.48,2042,Poverty_Headcount,Upper Middle Income Countries
+27.07,25.43,16.85,2043,Poverty_Headcount,Upper Middle Income Countries
+26.59,24.86,16.21,2044,Poverty_Headcount,Upper Middle Income Countries
+26.18,24.34,15.6,2045,Poverty_Headcount,Upper Middle Income Countries
+25.7,23.84,15.02,2046,Poverty_Headcount,Upper Middle Income Countries
+25.03,23.3,14.41,2047,Poverty_Headcount,Upper Middle Income Countries
+24.36,22.61,13.73,2048,Poverty_Headcount,Upper Middle Income Countries
+23.67,21.76,12.96,2049,Poverty_Headcount,Upper Middle Income Countries
+22.99,20.81,12.16,2050,Poverty_Headcount,Upper Middle Income Countries
+22.27,19.74,11.3,2051,Poverty_Headcount,Upper Middle Income Countries
+21.53,18.63,10.44,2052,Poverty_Headcount,Upper Middle Income Countries
+20.47,17.55,9.617,2053,Poverty_Headcount,Upper Middle Income Countries
+19.25,16.56,8.866,2054,Poverty_Headcount,Upper Middle Income Countries
+18.06,15.65,8.19,2055,Poverty_Headcount,Upper Middle Income Countries
+17.01,14.85,7.595,2056,Poverty_Headcount,Upper Middle Income Countries
+16.1,14.12,7.065,2057,Poverty_Headcount,Upper Middle Income Countries
+15.31,13.47,6.58,2058,Poverty_Headcount,Upper Middle Income Countries
+14.61,12.86,6.128,2059,Poverty_Headcount,Upper Middle Income Countries
+13.99,12.32,5.723,2060,Poverty_Headcount,Upper Middle Income Countries
+772.2,772.2,772.2,2020,Poverty_Headcount,World
+753.6,753.6,753.6,2021,Poverty_Headcount,World
+719.4,719.4,719.4,2022,Poverty_Headcount,World
+716.2,716.2,716.2,2023,Poverty_Headcount,World
+717.6,717.6,717.6,2024,Poverty_Headcount,World
+716.5,716.5,701.3,2025,Poverty_Headcount,World
+712,712,685.1,2026,Poverty_Headcount,World
+704.9,705,668.9,2027,Poverty_Headcount,World
+696,696.1,652.6,2028,Poverty_Headcount,World
+685.9,685.4,635.7,2029,Poverty_Headcount,World
+674.3,672.7,616.9,2030,Poverty_Headcount,World
+662.6,659.3,597,2031,Poverty_Headcount,World
+653.6,648.4,577.6,2032,Poverty_Headcount,World
+646.6,639.4,559,2033,Poverty_Headcount,World
+641,632.1,541.5,2034,Poverty_Headcount,World
+635.8,626,524.8,2035,Poverty_Headcount,World
+630.5,620.7,508.8,2036,Poverty_Headcount,World
+625.4,615.6,493.6,2037,Poverty_Headcount,World
+620.1,610,483.7,2038,Poverty_Headcount,World
+614.3,603.7,473.7,2039,Poverty_Headcount,World
+607.8,596.5,462.7,2040,Poverty_Headcount,World
+600.5,588.1,450,2041,Poverty_Headcount,World
+592.4,577.9,435.5,2042,Poverty_Headcount,World
+582.9,566.5,420,2043,Poverty_Headcount,World
+573,555.1,403.9,2044,Poverty_Headcount,World
+562.8,543.6,388.1,2045,Poverty_Headcount,World
+552.1,531.7,372.9,2046,Poverty_Headcount,World
+541,520.2,358.4,2047,Poverty_Headcount,World
+529.5,508,344.6,2048,Poverty_Headcount,World
+518.1,495.9,330.3,2049,Poverty_Headcount,World
+506.9,483.9,316.4,2050,Poverty_Headcount,World
+495.2,471.8,302.4,2051,Poverty_Headcount,World
+483.3,460.1,289.1,2052,Poverty_Headcount,World
+471,448.6,276.4,2053,Poverty_Headcount,World
+458.6,437,263.7,2054,Poverty_Headcount,World
+446,425.7,251.1,2055,Poverty_Headcount,World
+433.6,414.3,238.7,2056,Poverty_Headcount,World
+421.2,402.8,226.5,2057,Poverty_Headcount,World
+409,389.5,214.1,2058,Poverty_Headcount,World
+395.9,374.5,201.1,2059,Poverty_Headcount,World
+380.7,357.8,187.9,2060,Poverty_Headcount,World

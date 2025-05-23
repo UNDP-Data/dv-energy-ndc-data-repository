@@ -1,0 +1,4 @@
+﻿Scenario,Capacity
+BaseCase,6500
+RA,10500
+RA + SDG,10600

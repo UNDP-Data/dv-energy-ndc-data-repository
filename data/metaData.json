@@ -1,0 +1,87 @@
+[
+  {
+    "id": "Renewable_Production",
+    "name": "Renewable Production",
+    "units": "TWh"
+  },
+  {
+    "id": "Renewable_Share",
+    "name": "Renewable Share",
+    "units": "GW"
+  },
+  {
+    "id": "GDP_(MER)",
+    "name": "GDP at MER",
+    "units": "Trillion US$"
+  },
+  {
+    "id": "GDP_per_capita_(PPP)",
+    "name": "GDP per capita, PPP",
+    "units": "Thousand US$"
+  },
+  {
+    "id": "HDI",
+    "name": "HDI",
+    "units": "0-1 Scale"
+  },
+  {
+    "id": "Poverty_Headcount",
+    "name": "Poverty headcount",
+    "units": "Millions"
+  },
+  {
+    "id": "Poverty_Rate",
+    "name": "Poverty rate",
+    "units": "%"
+  },
+  {
+    "id": "Agricultural_Production",
+    "name": "Agricultural Production",
+    "units": "Million Metric Tons"
+  },
+  {
+    "id": "Malnourished_Headcount",
+    "name": "Malnourished headcount",
+    "units": "Millions"
+  },
+  {
+    "id": "Malnourishment_Rate",
+    "name": "Malnourishment rate",
+    "units": "%"
+  },
+  {
+    "id": "Access_to_Safely_Managed_Water",
+    "name": "Access to safely managed water",
+    "units": "%"
+  },
+  {
+    "id": "Access_to_Safely_Managed_Sanita",
+    "name": "Access to safely managed sanitation",
+    "units": "%"
+  },
+  {
+    "id": "Electricity_Access",
+    "name": "Electricity access",
+    "units": ""
+  },
+  {
+    "id": "Population_without_electricity_",
+    "name": "Population without electricity access",
+    "units": "Millions"
+  },
+  {
+    "id": "Average_Education_Years",
+    "name": "Average education years",
+    "units": "Years"
+  },
+  {
+    "id": "Traditional_Cookstove_Use",
+    "name": "Traditional cookstove use",
+    "units": "Billions"
+  },
+  {
+    "id": "Traditional_Cookstove_Use(%ofh)",
+    "name": "Traditional cookstove use (% of households)",
+    "units": "%"
+  }
+]
