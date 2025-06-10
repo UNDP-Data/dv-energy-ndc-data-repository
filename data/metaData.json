@@ -7,7 +7,7 @@
   {
     "id": "Renewable_Share",
     "name": "Renewable Share",
-    "units": "GW"
+    "units": "%"
   },
   {
     "id": "GDP_(MER)",
@@ -32,7 +32,7 @@
   {
     "id": "Poverty_Rate",
     "name": "Poverty rate",
-    "units": ""
+    "units": "%"
   },
   {
     "id": "Agricultural_Production",
@@ -62,7 +62,7 @@
   {
     "id": "Electricity_Access",
     "name": "Electricity access",
-    "units": ""
+    "units": "%"
   },
   {
     "id": "Population_without_electricity_",
@@ -77,7 +77,7 @@
   {
     "id": "Traditional_Cookstove_Use",
     "name": "Traditional cookstove use",
-    "units": "Billions"
+    "units": "Millions"
   },
   {
     "id": "Traditional_Cookstove_Use(%ofh)",
@@ -87,31 +87,31 @@
   {
     "id": "Carbon_Emissions_from_Fossil",
     "name": "Carbon Emissions from Fossil Fuels",
-    "units": ""
+    "units": "Billion Tons of Carbon Equivalent"
   },
   {
     "id": "CO2_in_atmosphere",
     "name": "CO₂ in the Atmosphere",
-    "units": ""
+    "units": "Parts per Million"
   },
   {
     "id": "Electricity_Use",
     "name": "Electricity Use",
-    "units": ""
+    "units": "KWh per capita"
   },
   {
     "id": "Energy_Demand_per_capita",
     "name": "Energy Demand per Capita",
-    "units": ""
+    "units": "KWh"
   },
   {
     "id": "Energy_Demand_Relative_to_GDP",
     "name": "Energy Demand Relative to GDP",
-    "units": ""
+    "units": "MWh per Thousand Dollars"
   },
   {
     "id": "Fossil_Fuel_Production",
     "name": "Fossil Fuel Production",
-    "units": ""
+    "units": "TWh"
   }
 ]
