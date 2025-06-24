@@ -26,12 +26,12 @@
   },
   {
     "id": "Poverty_Headcount",
-    "name": "Poverty headcount",
+    "name": "Poverty Headcount at US$ 2.15/day",
     "units": "Millions"
   },
   {
     "id": "Poverty_Rate",
-    "name": "Poverty rate",
+    "name": "Poverty rate at US$ 2.15/day",
     "units": "%"
   },
   {
